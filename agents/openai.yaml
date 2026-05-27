@@ -1,0 +1,7 @@
+interface:
+  display_name: "Nihaixia 伤寒论"
+  short_description: "把倪海厦《伤寒论》课程整理成白话入口、六经辨证、方证对比、逐课复习和板书证据索引。"
+  default_prompt: "Use $nihaixia to 按倪海厦《伤寒论》课程资料回答：先判断用户入口，再做白话分水岭、六经定位、方证鉴别、逐课复习、截图证据检索和高风险安全提醒。"
+
+policy:
+  allow_implicit_invocation: true
