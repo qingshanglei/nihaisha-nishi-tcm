@@ -6,1374 +6,1374 @@
 ## 金匮要略01
 
 - `00:00` [金匮要略、课程板书/实操] 满屏黑板板书，标题为“续伤寒霍乱篇”，详细列出了霍乱定义的问答文字。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/00_00_满屏黑板板书，标题为“续伤寒霍乱篇”，详细列出了霍乱定义的问答文字。.jpg
+  - 截图路径：assets/screenshots/jingui/0001.webp
 - `01:27` [金匮要略、课程板书/实操] 板书手写补充了《素问·六元正纪大论》中关于“太阴所至，中满霍乱”的定义。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/01_27_板书手写补充了《素问·六元正纪大论》中关于“太阴所至，中满霍乱”的定义。.jpg
+  - 截图路径：assets/screenshots/jingui/0002.webp
 - `02:08` [金匮要略、课程板书/实操] 板书手写补充了《灵枢》中关于霍乱的定义：“厥气上逆，也名之霍乱”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/02_08_板书手写补充了《灵枢》中关于霍乱的定义：“厥气上逆，也名之霍乱”。.jpg
+  - 截图路径：assets/screenshots/jingui/0003.webp
 - `03:13` [金匮要略、课程板书/实操] 板书手写“六气”对应图，展示少阳（相火）、少阴（君火）、太阴（湿）的关系。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/03_13_板书手写“六气”对应图，展示少阳（相火）、少阴（君火）、太阴（湿）的关系。.jpg
+  - 截图路径：assets/screenshots/jingui/0004.webp
 - `04:02` [金匮要略、课程板书/实操] 手绘教学示意图，展示地球、太阳、地火（热气）与地表湿气交杂引起霍乱的环境原理。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/04_02_手绘教学示意图，展示地球、太阳、地火（热气）与地表湿气交杂引起霍乱的环境原理。.jpg
+  - 截图路径：assets/screenshots/jingui/0005.webp
 - `06:56` [金匮要略、课程板书/实操] 黑板板书更新，详细列出了伤寒转霍乱、转阳明证的条文，涉及脉象、病程及预后判断。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/06_56_黑板板书更新，详细列出了伤寒转霍乱、转阳明证的条文，涉及脉象、病程及预后判断。.jpg
+  - 截图路径：assets/screenshots/jingui/0006.webp
 - `10:30` [金匮要略、课程板书/实操] 手绘大肠剖面示意图，演示两种由于燥屎堆积导致的“阳明腑证”排便异常情形。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/10_30_手绘大肠剖面示意图，演示两种由于燥屎堆积导致的“阳明腑证”排便异常情形。.jpg
+  - 截图路径：assets/screenshots/jingui/0007.webp
 - `13:26` [金匮要略、课程板书/实操] 满屏黑板板书，展示伤寒论条文：“下利后，当便鞕，鞕则能食者愈。今反不能食，到后经中，颇能食，复过一经能食...”
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/13_26_满屏黑板板书，展示伤寒论条文：“下利后，当便鞕，鞕则能食者愈。今反不能食，到后经.jpg
+  - 截图路径：assets/screenshots/jingui/0008.webp
 - `14:29` [金匮要略、课程板书/实操] 满屏黑板板书，展示四逆加人参汤核心条文：“利止，恶寒脉微，而复利，亡血也，四逆加人参汤主之。”
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/14_29_满屏黑板板书，展示四逆加人参汤核心条文：“利止，恶寒脉微，而复利，亡血也，四逆加.jpg
+  - 截图路径：assets/screenshots/jingui/0009.webp
 - `17:53` [金匮要略、课程板书/实操] 黑板右侧板书，讲者手写推演人体生理状态：“常人 -> 虚 -> 空灵”，并解释“灵”代表思虑、想法。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/17_53_黑板右侧板书，讲者手写推演人体生理状态：“常人_->_虚_->_空灵”，并解释“.jpg
+  - 截图路径：assets/screenshots/jingui/0010.webp
 - `23:10` [金匮要略、课程板书/实操] 讲者在黑板右侧完整写出四逆汤的药物组成：“生附子、干姜、炙甘草”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/23_10_讲者在黑板右侧完整写出四逆汤的药物组成：“生附子、干姜、炙甘草”。.jpg
+  - 截图路径：assets/screenshots/jingui/0011.webp
 - `24:32` [金匮要略、课程板书/实操] 满屏黑板板书，展示霍乱条文：“霍乱，头痛，发热，身疼痛，热多欲饮水者，五苓散主之；寒多不用水者，理中丸主之。”
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/24_32_满屏黑板板书，展示霍乱条文：“霍乱，头痛，发热，身疼痛，热多欲饮水者，五苓散主之.jpg
+  - 截图路径：assets/screenshots/jingui/0012.webp
 - `25:45` [金匮要略、课程板书/实操] 板书满屏，包含五苓散与理中丸的原文方义及病症描述。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/25_45_板书满屏，包含五苓散与理中丸的原文方义及病症描述。.jpg
+  - 截图路径：assets/screenshots/jingui/0013.webp
 - `27:08` [金匮要略、课程板书/实操] 板书手写五苓散方名及五味药：泽泻、茯苓、猪苓、桂枝、白术，并标注了各自的功能逻辑。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/27_08_板书手写五苓散方名及五味药：泽泻、茯苓、猪苓、桂枝、白术，并标注了各自的功能逻辑.jpg
+  - 截图路径：assets/screenshots/jingui/0014.webp
 - `28:39` [金匮要略、课程板书/实操] 板书补充了“脾藏意”的理论，以及白术、桂枝在肌肉与除湿方面的作用关系。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/28_39_板书补充了“脾藏意”的理论，以及白术、桂枝在肌肉与除湿方面的作用关系。.jpg
+  - 截图路径：assets/screenshots/jingui/0015.webp
 - `30:40` [金匮要略、课程板书/实操] 板书详细解释“里寒”的脉诊标准，即“一息四至”的概念。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/30_40_板书详细解释“里寒”的脉诊标准，即“一息四至”的概念。.jpg
+  - 截图路径：assets/screenshots/jingui/0016.webp
 - `33:51` [金匮要略、课程板书/实操] 展示《伤寒论》理中丸的原文说明，包括丸剂制法及加减应用文字。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/33_51_展示《伤寒论》理中丸的原文说明，包括丸剂制法及加减应用文字。.jpg
+  - 截图路径：assets/screenshots/jingui/0017.webp
 - `35:22` [金匮要略、课程板书/实操] 手绘示意图：以肚脐为中心，标注了“脐上悸”加桂枝、“脐下悸”加茯苓的药理逻辑。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/35_22_手绘示意图：以肚脐为中心，标注了“脐上悸”加桂枝、“脐下悸”加茯苓的药理逻辑。.jpg
+  - 截图路径：assets/screenshots/jingui/0018.webp
 - `38:38` [金匮要略、课程板书/实操] 满屏板书，列出了理中丸的加减方（腹中痛、寒者、腹满者等）及详细的服用方法和护理说明。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/38_38_满屏板书，列出了理中丸的加减方（腹中痛、寒者、腹满者等）及详细的服用方法和护理说.jpg
+  - 截图路径：assets/screenshots/jingui/0019.webp
 - `40:16` [金匮要略、课程板书/实操] 板书更新，展示了关于“吐利止而身痛不休者”的辨证逻辑，标注了宜桂枝汤的条文。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/40_16_板书更新，展示了关于“吐利止而身痛不休者”的辨证逻辑，标注了宜桂枝汤的条文。.jpg
+  - 截图路径：assets/screenshots/jingui/0020.webp
 - `42:33` [金匮要略、课程板书/实操] 讲者手绘简图，以“常人”为题，画出心（火）与肺（天）的相互制衡模型，解释体温产生的机制。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/42_33_讲者手绘简图，以“常人”为题，画出心（火）与肺（天）的相互制衡模型，解释体温产生.jpg
+  - 截图路径：assets/screenshots/jingui/0021.webp
 - `46:13` [金匮要略、课程板书/实操] 讲者在板书上画出“阴阳界”圆圈图，解释正常人阳气应被封存在阴之内的理论，以及季节性体温变化的规律。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/46_13_讲者在板书上画出“阴阳界”圆圈图，解释正常人阳气应被封存在阴之内的理论，以及季节.jpg
+  - 截图路径：assets/screenshots/jingui/0022.webp
 - `49:46` [金匮要略、课程板书/实操] 满屏板书，详细列出“通脉四逆汤加猪胆汁方”的条文、病症描述（吐已下断、手足厥逆等）及处方剂量配比。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/49_46_满屏板书，详细列出“通脉四逆汤加猪胆汁方”的条文、病症描述（吐已下断、手足厥逆等.jpg
+  - 截图路径：assets/screenshots/jingui/0023.webp
 - `51:30` [金匮要略、课程板书/实操] 板书展示“通脉四逆加猪胆汁汤”方组（甘草、附子、干姜、猪胆汁）及其煮服方法。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/51_30_**_板书展示“通脉四逆加猪胆汁汤”方组（甘草、附子、干姜、猪胆汁）及其煮服方法.jpg
+  - 截图路径：assets/screenshots/jingui/0024.webp
 - `53:48` [金匮要略、课程板书/实操] 讲师总结《伤寒论》113方的三大核心类别：1. 辛散；2. 寒泻；3. 温补。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/53_48_**_讲师总结《伤寒论》113方的三大核心类别：1._辛散；2._寒泻；3._温.jpg
+  - 截图路径：assets/screenshots/jingui/0025.webp
 - `56:53` [金匮要略、课程板书/实操] 板书详细列出六经辨证对应的核心药代表：太阳（麻桂）、少阳（柴胡）、阳明（葛根）、少阴（细辛）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/56_53_**_板书详细列出六经辨证对应的核心药代表：太阳（麻桂）、少阳（柴胡）、阳明（葛.jpg
+  - 截图路径：assets/screenshots/jingui/0026.webp
 - `59:45` [金匮要略、课程板书/实操] 讲师手绘五行（木火土金水）相生相克及疾病传变示意图，重点标注“见肝之病，知肝传脾”的逻辑。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/59_45_**_讲师手绘五行（木火土金水）相生相克及疾病传变示意图，重点标注“见肝之病，知.jpg
+  - 截图路径：assets/screenshots/jingui/0027.webp
 - `64:23` [金匮要略、课程板书/实操] 板书展示《金匮要略》原文：“问曰：上工治未病，何也？师曰：夫治肝脏，知肝传脾，当先实脾...”，左侧配有五行循环推导图。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/64_23_**_板书展示《金匮要略》原文：“问曰：上工治未病，何也？师曰：夫治肝脏，知肝传.jpg
+  - 截图路径：assets/screenshots/jingui/0028.webp
 - `68:08` [金匮要略、课程板书/实操] 满屏板书，详细列出了肝病补、助、益的具体药物属性（酸入肝、焦苦入心、甘入脾）及五行制化逻辑（水不行则心火气盛，伤肺，金气不行，肝气盛）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/68_08_**_满屏板书，详细列出了肝病补、助、益的具体药物属性（酸入肝、焦苦入心、甘入脾.jpg
+  - 截图路径：assets/screenshots/jingui/0029.webp
 - `72:53` [金匮要略、课程板书/实操] 讲者手写列表，展示“六个误补阴虚的后果”：
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/72_53_**_讲者手写列表，展示“六个误补阴虚的后果”：.jpg
+  - 截图路径：assets/screenshots/jingui/0030.webp
 - `77:16` [金匮要略、课程板书/实操] 板书展示“五脏五味”与病理传变逻辑（如：肝色青，肝苦酸...）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/77_16_**_板书展示“五脏五味”与病理传变逻辑（如：肝色青，肝苦酸...）。.jpg
+  - 截图路径：assets/screenshots/jingui/0031.webp
 - `79:56` [金匮要略、课程板书/实操] 板书全文，标题为“一、脏腑经络先后病脉证”，详细列出三因论（病因分类）及治疗时机。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/79_56_**_板书全文，标题为“一、脏腑经络先后病脉证”，详细列出三因论（病因分类）及治.jpg
+  - 截图路径：assets/screenshots/jingui/0032.webp
 - `82:41` [金匮要略、课程板书/实操] 讲者手写板书，对比“武式易筋经”与“文式易筋经”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/82_41_**_讲者手写板书，对比“武式易筋经”与“文式易筋经”。.jpg
+  - 截图路径：assets/screenshots/jingui/0033.webp
 - `85:40` [金匮要略、课程板书/实操] 讲者演示握拳细节，对比普通人握拳与练家子“拳头调平”的结构差异。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/85_40_**_讲者演示握拳细节，对比普通人握拳与练家子“拳头调平”的结构差异。.jpg
+  - 截图路径：assets/screenshots/jingui/0034.webp
 - `85:51` [金匮要略、课程板书/实操] 讲者手写文式易筋经第一式：“按𫏋式”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/85_51_**_讲者手写文式易筋经第一式：“按𫏋式”。.jpg
+  - 截图路径：assets/screenshots/jingui/0035.webp
 - `88:26` [金匮要略、课程板书/实操] 板书展示“三、问曰：病人有气色见于面部...”，详细罗列五色（青、黑、黄、赤、白）对应的病症（痛、劳、便难、亡血等）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/88_26_**_板书展示“三、问曰：病人有气色见于面部...”，详细罗列五色（青、黑、黄、.jpg
+  - 截图路径：assets/screenshots/jingui/0036.webp
 - `90:24` [金匮要略、课程板书/实操] 板书面部结构简图，重点标注了“山根”及对应的诊断色泽（青色主痛）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/90_24_板书面部结构简图，重点标注了“山根”及对应的诊断色泽（青色主痛）。.jpg
+  - 截图路径：assets/screenshots/jingui/0037.webp
 - `91:52` [金匮要略、课程板书/实操] 手写板书“小建中汤”组成，对比了桂枝与白芍的配伍比例（1:2），并解释白芍止腹痛的作用。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/91_52_手写板书“小建中汤”组成，对比了桂枝与白芍的配伍比例（1:2），并解释白芍止腹痛.jpg
+  - 截图路径：assets/screenshots/jingui/0038.webp
 - `94:27` [金匮要略、课程板书/实操] 五行循环图，推导心脏死证的逻辑（如秋、冬出现赤色，为水火克制或金火相刑）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/94_27_五行循环图，推导心脏死证的逻辑（如秋、冬出现赤色，为水火克制或金火相刑）。.jpg
+  - 截图路径：assets/screenshots/jingui/0039.webp
 - `101:22` [金匮要略、课程板书/实操] 脏腑位置示意图，展示肺、心、肾的上下位置关系，标注“肺是津液的源头”及“金生水”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/101_22_脏腑位置示意图，展示肺、心、肾的上下位置关系，标注“肺是津液的源头”及“金生水”.jpg
+  - 截图路径：assets/screenshots/jingui/0040.webp
 - `102:44` [金匮要略、课程板书/实操] 消化道结构示意图，分别标注了“大黄甘草汤”作用于胃下方，以及“调胃承气汤”作用于十二指肠的部位。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/102_44_消化道结构示意图，分别标注了“大黄甘草汤”作用于胃下方，以及“调胃承气汤”作用于.jpg
+  - 截图路径：assets/screenshots/jingui/0041.webp
 - `103:01` [金匮要略、课程板书/实操] ` 黑板展示《金匮要略》原文条文“六、师曰：吸而微数...”，右侧有讲者手绘的胃部生理结构示意图，箭头标注了食物停留与排空代谢的逻辑。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/103_01_`_黑板展示《金匮要略》原文条文“六、师曰：吸而微数...”，右侧有讲者手绘的胃.jpg
+  - 截图路径：assets/screenshots/jingui/0042.webp
 - `106:21` [金匮要略、课程板书/实操] ` 黑板满屏展示原文条文“七、师曰：寸口脉动者...”，讲解脉象、肝色（青）与四季交替的病理对应关系。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/106_21_`_黑板满屏展示原文条文“七、师曰：寸口脉动者...”，讲解脉象、肝色（青）与四.jpg
+  - 截图路径：assets/screenshots/jingui/0043.webp
 - `109:22` [金匮要略、课程板书/实操] ` 黑板展示原文条文“八、问曰：有未至而至...”，配合文字探讨节气气候异常现象。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/109_22_`_黑板展示原文条文“八、问曰：有未至而至...”，配合文字探讨节气气候异常现象.jpg
+  - 截图路径：assets/screenshots/jingui/0044.webp
 - `111:35` [金匮要略、课程板书/实操] ` 黑板手写板书推演图：“冬行春令 -> 夏大水”，图解冬季本应蓄水，若遇春令温暖导致水气发散，会在夏季引发水灾的自然物理规律。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/111_35_`_黑板手写板书推演图：“冬行春令_->_夏大水”，图解冬季本应蓄水，若遇春令温.jpg
+  - 截图路径：assets/screenshots/jingui/0045.webp
 - `113:24` [金匮要略、课程板书/实操] ` 黑板展示原文条文“九、师曰：病人在表...”，讲解脉浮在寸与尺的不同临床意义及对应症状。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/113_24_`_黑板展示原文条文“九、师曰：病人在表...”，讲解脉浮在寸与尺的不同临床意义.jpg
+  - 截图路径：assets/screenshots/jingui/0046.webp
 - `115:29` [金匮要略、课程板书/实操] ` 黑板手绘阴阳结构解析图：一个大圆圈内标注“阳”在外标注“阴”，并板书演示正常人“阴中有阳”的嵌套结构，辅助讲解“厥阳独行”概念。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略01/115_29_`_黑板手绘阴阳结构解析图：一个大圆圈内标注“阳”在外标注“阴”，并板书演示正常.jpg
+  - 截图路径：assets/screenshots/jingui/0047.webp
 
 ## 金匮要略02
 
 - `00:20` [金匮要略、课程板书/实操] 板书手绘肝脏示意图，标注了“1-3 AM”、“丑时”、“肝经”、“虚/实”、“阴脏”等核心概念。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略02/00_20_板书手绘肝脏示意图，标注了“1-3_AM”、“丑时”、“肝经”、“虚_实”、“阴.jpg
+  - 截图路径：assets/screenshots/jingui/0048.webp
 - `02:04` [金匮要略、课程板书/实操] 讲者用圆圈模型展示“阴实”如何导致“阳回逆”，并推导病程中热感区域/时间随病情好转而移动的逻辑。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略02/02_04_讲者用圆圈模型展示“阴实”如何导致“阳回逆”，并推导病程中热感区域_时间随病情好.jpg
+  - 截图路径：assets/screenshots/jingui/0049.webp
 - `06:26` [金匮要略、课程板书/实操] 满屏黑板条文，详细列出《金匮要略》原文：“寸口脉沉大而滑……入脏即死，入腑即愈”，以及关于“浸淫疮”的判定标准。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略02/06_26_满屏黑板条文，详细列出《金匮要略》原文：“寸口脉沉大而滑……入脏即死，入腑即愈”.jpg
+  - 截图路径：assets/screenshots/jingui/0050.webp
 - `13:46` [金匮要略、课程板书/实操] 满屏黑板粉笔字，展示《金匮要略》条文：“脉脱，入脏即死，入腑即愈...”，以及“阳病十八、阴病十八”等相关经典中医辨证论述。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略02/13_46_**_满屏黑板粉笔字，展示《金匮要略》条文：“脉脱，入脏即死，入腑即愈...”，.jpg
+  - 截图路径：assets/screenshots/jingui/0051.webp
 - `15:33` [金匮要略、课程板书/实操] 满屏黑板粉笔字，展示病邪分类条文：“清邪居上，浊邪居下，大邪中表，小邪中里...风中于前，寒中于暮...极寒伤经，极热伤络”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略02/15_33_**_满屏黑板粉笔字，展示病邪分类条文：“清邪居上，浊邪居下，大邪中表，小邪中里.jpg
+  - 截图路径：assets/screenshots/jingui/0052.webp
 - `17:13` [金匮要略、课程板书/实操] 满屏黑板粉笔字，展示治病表里缓急原则条文：“病有急当救里救表者，何谓也...医下之，续得下利清谷不止，身体疼痛者，急当救里”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略02/17_13_**_满屏黑板粉笔字，展示治病表里缓急原则条文：“病有急当救里救表者，何谓也...jpg
+  - 截图路径：assets/screenshots/jingui/0053.webp
 - `21:16` [金匮要略、课程板书/实操] 满屏黑板粉笔字，展示新旧疾病治疗顺序条文：“夫病痼疾加以卒病，当先治其卒病，后乃治其痼疾也”以及五脏病条文。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略02/21_16_**_满屏黑板粉笔字，展示新旧疾病治疗顺序条文：“夫病痼疾加以卒病，当先治其卒病.jpg
+  - 截图路径：assets/screenshots/jingui/0054.webp
 - `24:01` [金匮要略、课程板书/实操] 黑板板书，列出《金匮要略》第一篇第十五、十六条原文，讨论脏腑寒热及其治法。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略02/24_01_**_黑板板书，列出《金匮要略》第一篇第十五、十六条原文，讨论脏腑寒热及其治法。.jpg
+  - 截图路径：assets/screenshots/jingui/0055.webp
 - `24:37` [金匮要略、课程板书/实操] 讲者指向第十七条原文：“诸病在脏，欲攻之，当随其所得而攻之”，这是本段理论核心。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略02/24_37_**_讲者指向第十七条原文：“诸病在脏，欲攻之，当随其所得而攻之”，这是本段理论.jpg
+  - 截图路径：assets/screenshots/jingui/0056.webp
 - `25:11` [金匮要略、课程板书/实操] 讲者手绘人体示意图，标注了“泽泻、茯苓、猪苓”在人体内利水的不同作用区域（头面、中焦、下焦）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略02/25_11_**_讲者手绘人体示意图，标注了“泽泻、茯苓、猪苓”在人体内利水的不同作用区域（.jpg
+  - 截图路径：assets/screenshots/jingui/0057.webp
 - `29:42` [金匮要略、课程板书/实操] 屏幕展示第二篇“痉湿暍病脉证并治第二”全文，明确了本篇探讨的三大病症：脑膜炎（痉）、风湿（湿）和中暑（暍）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略02/29_42_**_屏幕展示第二篇“痉湿暍病脉证并治第二”全文，明确了本篇探讨的三大病症：脑膜.jpg
+  - 截图路径：assets/screenshots/jingui/0058.webp
 - `34:19` [金匮要略、课程板书/实操] 屏幕展示痉病临床表现及成因的文字，包括“太阳病，发汗太多，因致痉”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略02/34_19_**_屏幕展示痉病临床表现及成因的文字，包括“太阳病，发汗太多，因致痉”。.jpg
+  - 截图路径：assets/screenshots/jingui/0059.webp
 - `36:01` [金匮要略、课程板书/实操] 板书满屏文字，详细列举了痉病（脑膜炎）的临床症状，如“颈项强急”、“背反张”、“独头动摇”等，并标注了“脑膜炎”及病理示意图。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略02/36_01_板书满屏文字，详细列举了痉病（脑膜炎）的临床症状，如“颈项强急”、“背反张”、“.jpg
+  - 截图路径：assets/screenshots/jingui/0060.webp
 - `38:28` [金匮要略、课程板书/实操] 板书展示了两组核心内容：左侧为“瓜蒌桂枝汤”的完整处方及剂量，右侧为关于“暴腹胀大”等病后转机的经文说明。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略02/38_28_板书展示了两组核心内容：左侧为“瓜蒌桂枝汤”的完整处方及剂量，右侧为关于“暴腹胀.jpg
+  - 截图路径：assets/screenshots/jingui/0061.webp
 - `39:09` [金匮要略、课程板书/实操] 讲师在黑板上手绘人体躯干示意图，用箭头演示津液（免疫系统）从肠胃向上冲向头部的过程，解释腹部陷下的病理机制。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略02/39_09_讲师在黑板上手绘人体躯干示意图，用箭头演示津液（免疫系统）从肠胃向上冲向头部的过.jpg
+  - 截图路径：assets/screenshots/jingui/0062.webp
 - `60:07` [金匮要略、课程板书/实操] 黑板板书，列出葛根汤、大承气汤的条文，详细记录了症状“太阳病，无汗，小便反少...”以及大承气汤的药味组成。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略02/60_07_黑板板书，列出葛根汤、大承气汤的条文，详细记录了症状“太阳病，无汗，小便反少...jpg
+  - 截图路径：assets/screenshots/jingui/0063.webp
 - `62:24` [金匮要略、课程板书/实操] 板书绘图，讲师用简笔画演示“卧不着席”（角弓反张）的身体形态，解释背部挺起不着床的状态。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略02/62_24_板书绘图，讲师用简笔画演示“卧不着席”（角弓反张）的身体形态，解释背部挺起不着床.jpg
+  - 截图路径：assets/screenshots/jingui/0064.webp
 - `64:23` [金匮要略、课程板书/实操] 板书手写大承气汤的临床常用剂量：厚朴二钱、枳实二钱、大黄三钱、芒硝三钱，并标注了煮法要点。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略02/64_23_板书手写大承气汤的临床常用剂量：厚朴二钱、枳实二钱、大黄三钱、芒硝三钱，并标注了.jpg
+  - 截图路径：assets/screenshots/jingui/0065.webp
 - `68:53` [金匮要略、课程板书/实操] 板书示意图，解释“沉脉”主里，“细脉”为寒，标注了脉象与病位的对应关系。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略02/68_53_板书示意图，解释“沉脉”主里，“细脉”为寒，标注了脉象与病位的对应关系。.jpg
+  - 截图路径：assets/screenshots/jingui/0066.webp
 - `70:55` [金匮要略、课程板书/实操] 板书逻辑推导：手写“脾主湿”与“黄色”，解释湿病导致肤色“熏黄”的中医病理机制。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略02/70_55_板书逻辑推导：手写“脾主湿”与“黄色”，解释湿病导致肤色“熏黄”的中医病理机制。.jpg
+  - 截图路径：assets/screenshots/jingui/0067.webp
 - `76:05` [金匮要略、课程板书/实操] ` 黑板写满中医经典条文，讲者正在指读并逐句讲解“湿家下之，额上汗出，微喘，小便利者死，若下利不止者，亦死”，解析湿家误用下法的致命危害。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略02/76_05_`_黑板写满中医经典条文，讲者正在指读并逐句讲解“湿家下之，额上汗出，微喘，小便.jpg
+  - 截图路径：assets/screenshots/jingui/0068.webp
 - `81:03` [金匮要略、课程板书/实操] ` 黑板展示新的完整中医条文“湿家，病身疼发热，面黄而喘... 腹中和无病，病在头中寒湿... 内药鼻中则愈”，用于讲解头部局部寒湿的辨证依据。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略02/81_03_`_黑板展示新的完整中医条文“湿家，病身疼发热，面黄而喘..._腹中和无病，病在.jpg
+  - 截图路径：assets/screenshots/jingui/0069.webp
 - `82:34` [金匮要略、课程板书/实操] ` 黑板右下角展示讲者手书的核心药方及精确比例：“麝香 1：矾石 50”，旁边配有人体气机运行简图。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略02/82_34_`_黑板右下角展示讲者手书的核心药方及精确比例：“麝香_1：矾石_50”，旁边配.jpg
+  - 截图路径：assets/screenshots/jingui/0070.webp
 - `92:51` [金匮要略、课程板书/实操] 板书手写完整方剂“麻黄加术汤方”：含麻黄三两、桂枝二两、甘草一两、白术四两、杏仁七十个，以及具体的煎服方法说明。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略02/92_51_板书手写完整方剂“麻黄加术汤方”：含麻黄三两、桂枝二两、甘草一两、白术四两、杏仁.jpg
+  - 截图路径：assets/screenshots/jingui/0071.webp
 - `95:37` [金匮要略、课程板书/实操] 板书手写重点：左侧列出“麻黄加术汤方”，右侧标注了关于“脑部肿瘤与水（液）”的关系示意图，以及生、熟大黄的区别论述。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略02/95_37_板书手写重点：左侧列出“麻黄加术汤方”，右侧标注了关于“脑部肿瘤与水（液）”的关.jpg
+  - 截图路径：assets/screenshots/jingui/0072.webp
 - `96:04` [金匮要略、课程板书/实操] 板书展示“麻杏薏甘汤”的完整处方剂量（麻黄半两、杏仁十个、薏苡仁一两、甘草一两）及其经典条文。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略02/96_04_**_板书展示“麻杏薏甘汤”的完整处方剂量（麻黄半两、杏仁十个、薏苡仁一两、甘草.jpg
+  - 截图路径：assets/screenshots/jingui/0073.webp
 - `98:08` [金匮要略、课程板书/实操] 讲师在黑板画圈示意人体结构，讲解热气如何被皮表下方的湿气阻挡，解释“发热”与“一身尽疼”的物理机理。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略02/98_08_**_讲师在黑板画圈示意人体结构，讲解热气如何被皮表下方的湿气阻挡，解释“发热”.jpg
+  - 截图路径：assets/screenshots/jingui/0074.webp
 - `102:51` [金匮要略、课程板书/实操] 板书展示“防己黄芪汤”的方药组成（防己一两、黄芪一两一分、白术七钱半、甘草半两）及主治症状。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略02/102_51_**_板书展示“防己黄芪汤”的方药组成（防己一两、黄芪一两一分、白术七钱半、甘草.jpg
+  - 截图路径：assets/screenshots/jingui/0075.webp
 - `105:27` [金匮要略、课程板书/实操] 详细的手绘解剖示意图（皮肤、肌肉、血脉的同心圆），标注了湿气在不同层次对应的方剂选择，清晰展示了辨证深度。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略02/105_27_**_详细的手绘解剖示意图（皮肤、肌肉、血脉的同心圆），标注了湿气在不同层次对应.jpg
+  - 截图路径：assets/screenshots/jingui/0076.webp
 - `108:05` [金匮要略、课程板书/实操] 满屏板书，左侧为《金匮要略》原文及防己黄芪汤的方药组成（防己一两、甘草半两、白术七钱半、黄芪一两一分）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略02/108_05_**_满屏板书，左侧为《金匮要略》原文及防己黄芪汤的方药组成（防己一两、甘草半两.jpg
+  - 截图路径：assets/screenshots/jingui/0077.webp
 - `110:04` [金匮要略、课程板书/实操] 板书示意图，讲者绘制了血脉神经的剖面及防己的切面形状（车轮纹），解释药物归经。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略02/110_04_**_板书示意图，讲者绘制了血脉神经的剖面及防己的切面形状（车轮纹），解释药物归.jpg
+  - 截图路径：assets/screenshots/jingui/0078.webp
 - `111:55` [金匮要略、课程板书/实操] 板书人体腹部结构图，标注了脐周及肠道“燥屎”，讲解“奔豚”气从肝脏上冲心脏的病理过程。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略02/111_55_**_板书人体腹部结构图，标注了脐周及肠道“燥屎”，讲解“奔豚”气从肝脏上冲心脏.jpg
+  - 截图路径：assets/screenshots/jingui/0079.webp
 - `115:49` [金匮要略、课程板书/实操] 板书更新，展示《伤寒论》原文及“桂枝附子汤”与“桂枝附子去桂加白术汤”的条文与剂量要求。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略02/115_49_**_板书更新，展示《伤寒论》原文及“桂枝附子汤”与“桂枝附子去桂加白术汤”的条.jpg
+  - 截图路径：assets/screenshots/jingui/0080.webp
 
 ## 金匮要略03
 
 - `00:00` [金匮要略、课程板书/实操] 满屏板书文字，包含《伤寒论》原文“伤寒八九日，风湿相搏……脉浮虚而涩”及“桂枝附子汤”的组方剂量。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略03/00_00_**_满屏板书文字，包含《伤寒论》原文“伤寒八九日，风湿相搏……脉浮虚而涩”及“.jpg
+  - 截图路径：assets/screenshots/jingui/0081.webp
 - `12:54` [金匮要略、课程板书/实操] 满屏板书，展示了“去桂枝加白术汤”（又名白术附子汤）的详细组方（白术四两、附子三枚、甘草二两、生姜三两、大枣十二枚）及下方的诊断细节描述。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略03/12_54_**_满屏板书，展示了“去桂枝加白术汤”（又名白术附子汤）的详细组方（白术四两、.jpg
+  - 截图路径：assets/screenshots/jingui/0082.webp
 - `13:05` [金匮要略、课程板书/实操] 板书手写“白术附子汤”方剂组成（白术、附子、甘草、生姜、大枣）及剂量、煎服方法。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略03/13_05_板书手写“白术附子汤”方剂组成（白术、附子、甘草、生姜、大枣）及剂量、煎服方法。.jpg
+  - 截图路径：assets/screenshots/jingui/0083.webp
 - `14:30` [金匮要略、课程板书/实操] 板书详细列出“甘草附子汤”原文，包含症状描述（风湿相搏、骨节疼烦、不可屈伸）及药方配比。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略03/14_30_板书详细列出“甘草附子汤”原文，包含症状描述（风湿相搏、骨节疼烦、不可屈伸）及药.jpg
+  - 截图路径：assets/screenshots/jingui/0084.webp
 - `20:59` [金匮要略、课程板书/实操] 满屏文字板书，标题“中暍（中暑）”，详细列举了中暑的脉象、典型症状（身重疼痛、手足逆冷、前板齿燥等）及误诊误治的后果。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略03/20_59_满屏文字板书，标题“中暍（中暑）”，详细列举了中暑的脉象、典型症状（身重疼痛、手.jpg
+  - 截图路径：assets/screenshots/jingui/0085.webp
 - `26:25` [金匮要略、课程板书/实操] 黑板手写白虎加人参汤方剂：石膏、知母、炙甘草、粳米。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略03/26_25_**_黑板手写白虎加人参汤方剂：石膏、知母、炙甘草、粳米。.jpg
+  - 截图路径：assets/screenshots/jingui/0086.webp
 - `29:46` [金匮要略、课程板书/实操] 黑板手写核心理论：“阳极生阴，阴极生阳”，旁附太极图解释人体圆形的循环理论。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略03/29_46_**_黑板手写核心理论：“阳极生阴，阴极生阳”，旁附太极图解释人体圆形的循环理论.jpg
+  - 截图路径：assets/screenshots/jingui/0087.webp
 - `34:13` [金匮要略、课程板书/实操] 屏幕展示《金匮要略》原文本：白虎加人参汤方及其具体的炮制、服法说明（五味，以水一斗，煮米熟……）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略03/34_13_**_屏幕展示《金匮要略》原文本：白虎加人参汤方及其具体的炮制、服法说明（五味，.jpg
+  - 截图路径：assets/screenshots/jingui/0088.webp
 - `34:38` [金匮要略、课程板书/实操] 屏幕展示《金匮要略》关于“中暍（中暑）”的另一种治法：一物瓜蒂散方及其服法。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略03/34_38_**_屏幕展示《金匮要略》关于“中暍（中暑）”的另一种治法：一物瓜蒂散方及其服法.jpg
+  - 截图路径：assets/screenshots/jingui/0089.webp
 - `34:43` [金匮要略、课程板书/实操] 屏幕展示第三篇章开头：“论曰：百合病者，百脉一宗，悉致其病也……” 详列百合病的典型临床表现。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略03/34_43_**_屏幕展示第三篇章开头：“论曰：百合病者，百脉一宗，悉致其病也……”_详列百.jpg
+  - 截图路径：assets/screenshots/jingui/0090.webp
 - `40:21` [金匮要略、课程板书/实操] ` 黑板板书：完整展示了“百合病 初愈 久忧”的定义，以及中医五脏与五志的对应关系树状图（肝-魂，心-神，脾-意，肺-魄，肾-志）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略03/40_21_`_黑板板书：完整展示了“百合病_初愈_久忧”的定义，以及中医五脏与五志的对应关.jpg
+  - 截图路径：assets/screenshots/jingui/0091.webp
 - `45:25` [金匮要略、课程板书/实操] ` 满屏课件PPT：展示《金匮要略》百合病核心条文“百合病，不经吐下发汗...”，以及首个核心方剂“百合地黄汤”的组成与详细煎煮步骤。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略03/45_25_`_满屏课件PPT：展示《金匮要略》百合病核心条文“百合病，不经吐下发汗...”.jpg
+  - 截图路径：assets/screenshots/jingui/0092.webp
 - `49:50` [金匮要略、课程板书/实操] ` 满屏课件PPT：展示百合病误汗后的“百合知母汤”条文及配方，以及误下后的“百合滑石代赭汤”条文及配方。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略03/49_50_`_满屏课件PPT：展示百合病误汗后的“百合知母汤”条文及配方，以及误下后的“百.jpg
+  - 截图路径：assets/screenshots/jingui/0093.webp
 - `52:20` [金匮要略、课程板书/实操] 满屏黑板板书，展示“百合滑石代赭汤”的具体药方组成及“下之后者”的适应症说明。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略03/52_20_**_满屏黑板板书，展示“百合滑石代赭汤”的具体药方组成及“下之后者”的适应症说.jpg
+  - 截图路径：assets/screenshots/jingui/0094.webp
 - `53:18` [金匮要略、课程板书/实操] 满屏黑板板书，展示“百合鸡子汤”的方剂组成，及针对“吐之后者”的用法指导。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略03/53_18_**_满屏黑板板书，展示“百合鸡子汤”的方剂组成，及针对“吐之后者”的用法指导。.jpg
+  - 截图路径：assets/screenshots/jingui/0095.webp
 - `56:56` [金匮要略、课程板书/实操] 满屏黑板板书，同时展示了“栝蒌牡蛎散”与“百合滑石散”两个方剂的组成、适应症（渴不解者、变发热者）及服用方法。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略03/56_56_**_满屏黑板板书，同时展示了“栝蒌牡蛎散”与“百合滑石散”两个方剂的组成、适应.jpg
+  - 截图路径：assets/screenshots/jingui/0096.webp
 - `60:22` [金匮要略、课程板书/实操] 满屏黑板板书，展示百合病的阴阳救治大法文字：“见于阴者，以阳法救之...见于阳者，以阴法救之”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略03/60_22_**_满屏黑板板书，展示百合病的阴阳救治大法文字：“见于阴者，以阳法救之...见.jpg
+  - 截图路径：assets/screenshots/jingui/0097.webp
 - `62:07` [金匮要略、课程板书/实操] 满屏黑板板书，详细列出了“狐惑病”的各种奇特临床症状（默默欲眠、卧起不安、蚀于喉、面目作赤等）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略03/62_07_**_满屏黑板板书，详细列出了“狐惑病”的各种奇特临床症状（默默欲眠、卧起不安、.jpg
+  - 截图路径：assets/screenshots/jingui/0098.webp
 - `67:09` [金匮要略、课程板书/实操] 满屏PPT展示“甘草泻心汤方”，列出药材名称：甘草四两（炙）、黄芩三两、人参三两、干姜三两、半夏半升、黄连一两、大枣十二枚。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略03/67_09_满屏PPT展示“甘草泻心汤方”，列出药材名称：甘草四两（炙）、黄芩三两、人参三两.jpg
+  - 截图路径：assets/screenshots/jingui/0099.webp
 - `72:27` [金匮要略、课程板书/实操] 满屏PPT展示关于“脓已成”的条文，详细描述了病人的症状（脉数、欲卧、汗出）及赤小豆当归散的方剂内容。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略03/72_27_满屏PPT展示关于“脓已成”的条文，详细描述了病人的症状（脉数、欲卧、汗出）及赤.jpg
+  - 截图路径：assets/screenshots/jingui/0100.webp
 - `78:26` [金匮要略、课程板书/实操] 满屏PPT展示“赤小豆当归散方”，列出药材及炮制方法：赤小豆三升（浸令芽出，曝干）、当归十两。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略03/78_26_满屏PPT展示“赤小豆当归散方”，列出药材及炮制方法：赤小豆三升（浸令芽出，曝干.jpg
+  - 截图路径：assets/screenshots/jingui/0101.webp
 - `78:31` [金匮要略、课程板书/实操] 板书展示“赤小豆当归散”方剂内容及用法说明。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略03/78_31_**_板书展示“赤小豆当归散”方剂内容及用法说明。.jpg
+  - 截图路径：assets/screenshots/jingui/0102.webp
 - `81:15` [金匮要略、课程板书/实操] 讲师在黑板右侧手绘“腹膜与脓疡”示意图，并标注赤小豆与当归的药性运作逻辑。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略03/81_15_**_讲师在黑板右侧手绘“腹膜与脓疡”示意图，并标注赤小豆与当归的药性运作逻辑。.jpg
+  - 截图路径：assets/screenshots/jingui/0103.webp
 - `82:51` [金匮要略、课程板书/实操] 讲师手绘左手掌结构图，明确标注了反映肺、大肠病变的感官区域及出现“斑点”的诊断位置。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略03/82_51_**_讲师手绘左手掌结构图，明确标注了反映肺、大肠病变的感官区域及出现“斑点”的.jpg
+  - 截图路径：assets/screenshots/jingui/0104.webp
 - `86:02` [金匮要略、课程板书/实操] 投影画面切换至《百合狐惑阴阳毒病证治第三》，展示关于阳毒、阴毒的古籍原文。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略03/86_02_**_投影画面切换至《百合狐惑阴阳毒病证治第三》，展示关于阳毒、阴毒的古籍原文。.jpg
+  - 截图路径：assets/screenshots/jingui/0105.webp
 - `87:28` [金匮要略、课程板书/实操] 板书“群聚、斗室、战争、伤寒”等关键词，解释阴阳毒发生的特殊环境背景。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略03/87_28_**_板书“群聚、斗室、战争、伤寒”等关键词，解释阴阳毒发生的特殊环境背景。.jpg
+  - 截图路径：assets/screenshots/jingui/0106.webp
 - `89:52` [金匮要略、课程板书/实操] 板书总结方剂设计的三个核心逻辑链条：润肤（滋阴）、透发、解毒。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略03/89_52_**_板书总结方剂设计的三个核心逻辑链条：润肤（滋阴）、透发、解毒。.jpg
+  - 截图路径：assets/screenshots/jingui/0107.webp
 - `91:28` [金匮要略、课程板书/实操] 板书“升麻鳖甲汤”完整方剂组成：鳖甲、雄黄、升麻、当归、甘草、蜀椒。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略03/91_28_**_板书“升麻鳖甲汤”完整方剂组成：鳖甲、雄黄、升麻、当归、甘草、蜀椒。.jpg
+  - 截图路径：assets/screenshots/jingui/0108.webp
 - `91:36` [金匮要略、课程板书/实操] 板书展示“升麻鳖甲汤”原文，对比阳毒与阴毒的症状及方剂去留。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略03/91_36_**_板书展示“升麻鳖甲汤”原文，对比阳毒与阴毒的症状及方剂去留。.jpg
+  - 截图路径：assets/screenshots/jingui/0109.webp
 - `96:32` [金匮要略、课程板书/实操] 板书更新为《疟病脉证并治第四》原文，列出疟疾各种脉象对应的治疗方法（汗、吐、下、温）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略03/96_32_**_板书更新为《疟病脉证并治第四》原文，列出疟疾各种脉象对应的治疗方法（汗、吐.jpg
+  - 截图路径：assets/screenshots/jingui/0110.webp
 - `100:54` [金匮要略、课程板书/实操] 屏幕显示“鳖甲煎丸”详细方后配伍，包含23味中药名称及其用量。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略03/100_54_**_屏幕显示“鳖甲煎丸”详细方后配伍，包含23味中药名称及其用量。.jpg
+  - 截图路径：assets/screenshots/jingui/0111.webp
 - `102:28` [金匮要略、课程板书/实操] 板书总结“瘅疟”与“温疟”的病理机理、症状描述及对应处方（如白虎加桂枝汤）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略03/102_28_**_板书总结“瘅疟”与“温疟”的病理机理、症状描述及对应处方（如白虎加桂枝汤）.jpg
+  - 截图路径：assets/screenshots/jingui/0112.webp
 - `104:41` [金匮要略、课程板书/实操] 满屏板书。左侧详列“白虎加桂枝汤”的配伍（知母、石膏、甘草、粳米、桂枝）及主治症状；右侧为“师曰：阴气孤绝...”的经文解析。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略03/104_41_满屏板书。左侧详列“白虎加桂枝汤”的配伍（知母、石膏、甘草、粳米、桂枝）及主治症.jpg
+  - 截图路径：assets/screenshots/jingui/0113.webp
 - `106:13` [金匮要略、课程板书/实操] 满屏板书。展示“蜀漆散”方：蜀漆（去腥）、云母（烧二日夜）、龙骨（或牡蛎），以及服法。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略03/106_13_满屏板书。展示“蜀漆散”方：蜀漆（去腥）、云母（烧二日夜）、龙骨（或牡蛎），以及.jpg
+  - 截图路径：assets/screenshots/jingui/0114.webp
 - `112:03` [金匮要略、课程板书/实操] 满屏板书。上方为补充方剂“牡蛎汤”配伍（牡蛎、麻黄、甘草、蜀漆）；下方为“柴胡去半夏加栝楼根汤”的主治与剂量。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略03/112_03_满屏板书。上方为补充方剂“牡蛎汤”配伍（牡蛎、麻黄、甘草、蜀漆）；下方为“柴胡去.jpg
+  - 截图路径：assets/screenshots/jingui/0115.webp
 
 ## 金匮要略04
 
 - `03:15` [金匮要略、课程板书/实操] 板书特写，讲者写下了预防中风的核心病机“气、血 两虚”以及对应的预防处方药材：“黄芪、独活、防风、党参、当归、川芎”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略04/03_15_板书特写，讲者写下了预防中风的核心病机“气、血_两虚”以及对应的预防处方药材：“.jpg
+  - 截图路径：assets/screenshots/jingui/0116.webp
 - `05:11` [金匮要略、课程板书/实操] 板书特写，讲者列出了影响睡眠的中医生理机制模型：“肝 -> 藏魂”，“心 -> 藏神”，“脾 -> 藏意”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略04/05_11_板书特写，讲者列出了影响睡眠的中医生理机制模型：“肝_->_藏魂”，“心_->_.jpg
+  - 截图路径：assets/screenshots/jingui/0117.webp
 - `07:18` [金匮要略、课程板书/实操] 板书特写，黑板右侧完整列出了中风的三大先兆及对应时间倒计时：“1. 失眠 半年；2. 手前三指麻 3个月内；3. 足胫骨麻 2个礼拜”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略04/07_18_板书特写，黑板右侧完整列出了中风的三大先兆及对应时间倒计时：“1._失眠_半年；.jpg
+  - 截图路径：assets/screenshots/jingui/0118.webp
 - `10:45` [金匮要略、课程板书/实操] 板书画图解释“口眼歪斜”机理。讲者画了一个人脸，用箭头标注了“正气”与“邪气”的位置，直观展示了面部正气如何将邪气拉扯导致嘴歪的过程。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略04/10_45_板书画图解释“口眼歪斜”机理。讲者画了一个人脸，用箭头标注了“正气”与“邪气”的.jpg
+  - 截图路径：assets/screenshots/jingui/0119.webp
 - `14:00` [金匮要略、课程板书/实操] 板书手绘人脸示意图，标注了面部中风偏斜的部位，并写有初步的中风概念文字。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略04/14_00_板书手绘人脸示意图，标注了面部中风偏斜的部位，并写有初步的中风概念文字。.jpg
+  - 截图路径：assets/screenshots/jingui/0120.webp
 - `14:23` [金匮要略、课程板书/实操] 讲者在黑板上书写核心治则：桂枝汤加葛根，解释其解肌与提升寒水的逻辑。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略04/14_23_讲者在黑板上书写核心治则：桂枝汤加葛根，解释其解肌与提升寒水的逻辑。.jpg
+  - 截图路径：assets/screenshots/jingui/0121.webp
 - `17:01` [金匮要略、课程板书/实操] 满屏板书，详细列出治疗面部中风的完整处方及剂量：桂枝三钱、白芍三钱（静脉曲张可加至六钱）、生姜二片、红枣十枚、炙甘草三钱、葛根五六钱、川芎三钱、钩藤三钱。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略04/17_01_满屏板书，详细列出治疗面部中风的完整处方及剂量：桂枝三钱、白芍三钱（静脉曲张可加.jpg
+  - 截图路径：assets/screenshots/jingui/0122.webp
 - `19:40` [金匮要略、课程板书/实操] 板书示意图，通过肺部与涎沫的关系图解“口吐涎沫”的病理过程。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略04/19_40_板书示意图，通过肺部与涎沫的关系图解“口吐涎沫”的病理过程。.jpg
+  - 截图路径：assets/screenshots/jingui/0123.webp
 - `21:15` [金匮要略、课程板书/实操] 板书详细记录了《内经》中的急救法：取左额角头发一寸见方，烧成灰，用管子吹入患者耳朵中，利用“血余炭”破血散瘀。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略04/21_15_板书详细记录了《内经》中的急救法：取左额角头发一寸见方，烧成灰，用管子吹入患者耳.jpg
+  - 截图路径：assets/screenshots/jingui/0124.webp
 - `24:10` [金匮要略、课程板书/实操] 板书展示中风脉象分析文字，提及“寸口脉迟而缓”、“虚寒”等概念，并列出“防己地黄汤”及其组成（防己、甘草、桂枝、防风）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略04/24_10_板书展示中风脉象分析文字，提及“寸口脉迟而缓”、“虚寒”等概念，并列出“防己地黄.jpg
+  - 截图路径：assets/screenshots/jingui/0125.webp
 - `26:00` [金匮要略、课程板书/实操] 满屏黑板板书，左侧为“防己地黄汤”的条文及方剂组成（防己、甘草各一分，桂枝、防风各三分），右侧为虚实辨证。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略04/26_00_满屏黑板板书，左侧为“防己地黄汤”的条文及方剂组成（防己、甘草各一分，桂枝、防风.jpg
+  - 截图路径：assets/screenshots/jingui/0126.webp
 - `29:22` [金匮要略、课程板书/实操] 讲师在黑板手写“补能厌邪”并详细解释其在表证兼虚症时的用药禁忌（不能用人参、黄芪等）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略04/29_22_讲师在黑板手写“补能厌邪”并详细解释其在表证兼虚症时的用药禁忌（不能用人参、黄芪.jpg
+  - 截图路径：assets/screenshots/jingui/0127.webp
 - `30:55` [金匮要略、课程板书/实操] 黑板更新板书“侯氏黑散”，列出详细方剂配比（菊花、白术、细辛、茯苓、黄芩等14味药）及服药禁忌（禁鱼肉大蒜、宜冷食）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略04/30_55_黑板更新板书“侯氏黑散”，列出详细方剂配比（菊花、白术、细辛、茯苓、黄芩等14味.jpg
+  - 截图路径：assets/screenshots/jingui/0128.webp
 - `32:40` [金匮要略、课程板书/实操] 黑板更新板书“风引汤”，列出金石类药物组成（石膏、龙骨、寒水石、赤石脂等）并注明“治除热瘫痫”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略04/32_40_黑板更新板书“风引汤”，列出金石类药物组成（石膏、龙骨、寒水石、赤石脂等）并注明.jpg
+  - 截图路径：assets/screenshots/jingui/0129.webp
 - `35:36` [金匮要略、课程板书/实操] 板书“头风摩散”，明确方剂组成（大附子一枚，盐等分）及外用方法。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略04/35_36_板书“头风摩散”，明确方剂组成（大附子一枚，盐等分）及外用方法。.jpg
+  - 截图路径：assets/screenshots/jingui/0130.webp
 - `43:36` [金匮要略、课程板书/实操] ` 板书完整的“千金三黄汤”配方（麻黄、黄芪、黄芩、细辛、独活）及主治症状（怕冷、心烦、手足拘急、能讲话）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略04/43_36_`_板书完整的“千金三黄汤”配方（麻黄、黄芪、黄芩、细辛、独活）及主治症状（怕冷.jpg
+  - 截图路径：assets/screenshots/jingui/0131.webp
 - `47:20` [金匮要略、课程板书/实操] ` 板书完整的“小续命汤”配方，清晰展示了麻黄汤的基础结构以及添加的当归、川芎、石膏、干姜、人参等药材及剂量。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略04/47_20_`_板书完整的“小续命汤”配方，清晰展示了麻黄汤的基础结构以及添加的当归、川芎、.jpg
+  - 截图路径：assets/screenshots/jingui/0132.webp
 - `50:36` [金匮要略、课程板书/实操] ` 板书完整的“术附汤”配方，展示了白术5钱、炮附子3钱及生姜、甘草、大枣的用药结构。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略04/50_36_`_板书完整的“术附汤”配方，展示了白术5钱、炮附子3钱及生姜、甘草、大枣的用药.jpg
+  - 截图路径：assets/screenshots/jingui/0133.webp
 - `52:00` [金匮要略、课程板书/实操] 板书展示了“风引汤”的方剂成分及用法说明。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略04/52_00_**_板书展示了“风引汤”的方剂成分及用法说明。.jpg
+  - 截图路径：assets/screenshots/jingui/0134.webp
 - `53:46` [金匮要略、课程板书/实操] 板书手写“补阳还五汤”的方剂全组成，包括黄芪、当归、白芍、川芎、桃仁、红花、地龙及其详细剂量比例。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略04/53_46_**_板书手写“补阳还五汤”的方剂全组成，包括黄芪、当归、白芍、川芎、桃仁、红花.jpg
+  - 截图路径：assets/screenshots/jingui/0135.webp
 - `57:56` [金匮要略、课程板书/实操] 板书将“历节”病症明确分类为三种：风痹、血痹、历节。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略04/57_56_**_板书将“历节”病症明确分类为三种：风痹、血痹、历节。.jpg
+  - 截图路径：assets/screenshots/jingui/0136.webp
 - `58:44` [金匮要略、课程板书/实操] 板书列出历节症的脉诊判断依据，如“寸口脉沉而弱”，并标注了病在“筋骨”的对应关系。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略04/58_44_**_板书列出历节症的脉诊判断依据，如“寸口脉沉而弱”，并标注了病在“筋骨”的对.jpg
+  - 截图路径：assets/screenshots/jingui/0137.webp
 - `63:44` [金匮要略、课程板书/实操] 板书展示“桂枝芍药知母汤”的完整条文：主治诸肢节疼痛、身体魁羸、脚肿如脱等症状，并列出了详细方药组成。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略04/63_44_**_板书展示“桂枝芍药知母汤”的完整条文：主治诸肢节疼痛、身体魁羸、脚肿如脱等.jpg
+  - 截图路径：assets/screenshots/jingui/0138.webp
 - `66:15` [金匮要略、课程板书/实操] ` 黑板板书：讲者写满完整的“桂枝芍药知母汤”药方组成及具体剂量比例。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略04/66_15_`_黑板板书：讲者写满完整的“桂枝芍药知母汤”药方组成及具体剂量比例。.jpg
+  - 截图路径：assets/screenshots/jingui/0139.webp
 - `66:52` [金匮要略、课程板书/实操] ` 黑板板书：讲者在原药方中圈出了“甘草、附子、桂枝、白术”四味药，标注出“甘草附子汤”的方剂嵌套结构，并写明去风、去湿、去寒的对应关系。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略04/66_52_`_黑板板书：讲者在原药方中圈出了“甘草、附子、桂枝、白术”四味药，标注出“甘草.jpg
+  - 截图路径：assets/screenshots/jingui/0140.webp
 - `72:59` [金匮要略、课程板书/实操] ` 黑板板书：绘制心脏与小肠的关联逻辑图，并列对比了“桂枝”与“炮附子”虽然同为“壮心阳”，但在作用路径上的区别（桂枝主导引下行入小肠）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略04/72_59_`_黑板板书：绘制心脏与小肠的关联逻辑图，并列对比了“桂枝”与“炮附子”虽然同为.jpg
+  - 截图路径：assets/screenshots/jingui/0141.webp
 - `77:33` [金匮要略、课程板书/实操] ` 黑板板书：展示中医经典条文“味酸则伤筋，筋伤则缓名曰泄，咸则伤骨，骨伤则痿名曰枯”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略04/77_33_`_黑板板书：展示中医经典条文“味酸则伤筋，筋伤则缓名曰泄，咸则伤骨，骨伤则痿名.jpg
+  - 截图路径：assets/screenshots/jingui/0142.webp
 - `82:38` [金匮要略、课程板书/实操] ` 满屏黑板板书。左侧为古文历节病的病机与症状描述，右侧清晰列出“乌头汤方”的主治（治脚气疼痛，不可屈伸）及药方成分（麻黄、芍药、黄芪、甘草、乌头）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略04/82_38_`_满屏黑板板书。左侧为古文历节病的病机与症状描述，右侧清晰列出“乌头汤方”的主.jpg
+  - 截图路径：assets/screenshots/jingui/0143.webp
 - `85:17` [金匮要略、课程板书/实操] ` 满屏黑板板书。详细绘制了“乌头蜜”的熬制步骤动态图解：标注了“2碗水->1碗”、“丢掉乌头剩乌头水”、“1碗乌头水+1碗蜂蜜 -> 2碗再熬成1碗”的关键制
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略04/85_17_`_满屏黑板板书。详细绘制了“乌头蜜”的熬制步骤动态图解：标注了“2碗水->1碗.jpg
+  - 截图路径：assets/screenshots/jingui/0144.webp
 - `91:01` [金匮要略、课程板书/实操] 板书满屏，包含“矾石汤方”、“治脚气疼痛”的药物组成、煎煮及外用方法。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略04/91_01_板书满屏，包含“矾石汤方”、“治脚气疼痛”的药物组成、煎煮及外用方法。.jpg
+  - 截图路径：assets/screenshots/jingui/0145.webp
 - `92:51` [金匮要略、课程板书/实操] 板书展示《金匮要略》第六篇原文：“血痹虚劳病脉证并治”，详细列出关于尊荣人得血痹的病理描述。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略04/92_51_板书展示《金匮要略》第六篇原文：“血痹虚劳病脉证并治”，详细列出关于尊荣人得血痹.jpg
+  - 截图路径：assets/screenshots/jingui/0146.webp
 - `94:33` [金匮要略、课程板书/实操] 板书列出“黄芪桂枝五物汤”的药物配伍：黄芪、桂枝、芍药、生姜（六两）、大枣。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略04/94_33_板书列出“黄芪桂枝五物汤”的药物配伍：黄芪、桂枝、芍药、生姜（六两）、大枣。.jpg
+  - 截图路径：assets/screenshots/jingui/0147.webp
 - `96:28` [金匮要略、课程板书/实操] 板书展示“虚劳”的脉法定义：“脉大为劳，极虚亦为劳”，以及男子面色、呼吸、脉象等辨证细节。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略04/96_28_板书展示“虚劳”的脉法定义：“脉大为劳，极虚亦为劳”，以及男子面色、呼吸、脉象等.jpg
+  - 截图路径：assets/screenshots/jingui/0148.webp
 - `100:48` [金匮要略、课程板书/实操] 板书详细列出虚劳的具体证候：脉虚沉弦、无寒热、短气、里急、小便不利、面色白、目瞑、衄血、少腹满。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略04/100_48_板书详细列出虚劳的具体证候：脉虚沉弦、无寒热、短气、里急、小便不利、面色白、目瞑.jpg
+  - 截图路径：assets/screenshots/jingui/0149.webp
 - `105:18` [金匮要略、课程板书/实操] 黑板满屏板书，展示经典条文“夫失精家，少腹弦急，阴头寒，目眩，发落... 为清谷，亡血失精”及下方主治方剂名。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略04/105_18_**_黑板满屏板书，展示经典条文“夫失精家，少腹弦急，阴头寒，目眩，发落..._.jpg
+  - 截图路径：assets/screenshots/jingui/0150.webp
 - `107:46` [金匮要略、课程板书/实操] 黑板手绘示意图，讲者画出下腹部与“足厥阴肝经”的循行路线，解释“少腹弦急”的解剖学与经络对应关系。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略04/107_46_**_黑板手绘示意图，讲者画出下腹部与“足厥阴肝经”的循行路线，解释“少腹弦急”.jpg
+  - 截图路径：assets/screenshots/jingui/0151.webp
 - `109:29` [金匮要略、课程板书/实操] 黑板板书展示“桂枝龙骨牡蛎汤”的完整中药配方及基础剂量比例（桂枝、芍药、生姜、甘草、大枣、龙骨、牡蛎）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略04/109_29_**_黑板板书展示“桂枝龙骨牡蛎汤”的完整中药配方及基础剂量比例（桂枝、芍药、生.jpg
+  - 截图路径：assets/screenshots/jingui/0152.webp
 - `112:36` [金匮要略、课程板书/实操] 黑板板书补充展示重症用药逻辑，讲者在讲解肿瘤伴随严重里寒时，提到需在方中加入“生附子”以去里寒。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略04/112_36_**_黑板板书补充展示重症用药逻辑，讲者在讲解肿瘤伴随严重里寒时，提到需在方中加.jpg
+  - 截图路径：assets/screenshots/jingui/0153.webp
 - `115:11` [金匮要略、课程板书/实操] 黑板满屏板书，展示条文“人年五六十，其病脉大者... 若肠鸣，马刀侠瘿者，皆为劳得之”，并引出下一节课的“天雄散”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略04/115_11_**_黑板满屏板书，展示条文“人年五六十，其病脉大者..._若肠鸣，马刀侠瘿者，.jpg
+  - 截图路径：assets/screenshots/jingui/0154.webp
 - `115:56` [金匮要略、课程板书/实操] 讲者侧身展示握拳的正确细节（尺骨与桡骨平齐，手背打平），演示开关关节的练功动作。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略04/115_56_**_讲者侧身展示握拳的正确细节（尺骨与桡骨平齐，手背打平），演示开关关节的练功.jpg
+  - 截图路径：assets/screenshots/jingui/0155.webp
 
 ## 金匮要略05
 
 - `00:13` [金匮要略、课程板书/实操] 板书展示桂枝附子汤与白术附子汤的剂量配比原则。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略05/00_13_板书展示桂枝附子汤与白术附子汤的剂量配比原则。.jpg
+  - 截图路径：assets/screenshots/jingui/0156.webp
 - `01:25` [金匮要略、课程板书/实操] 黑板完整文字，标题为“虚劳”，包含革脉的脉象描述及男女症状列表。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略05/01_25_黑板完整文字，标题为“虚劳”，包含革脉的脉象描述及男女症状列表。.jpg
+  - 截图路径：assets/screenshots/jingui/0157.webp
 - `05:08` [金匮要略、课程板书/实操] 板书记录附子（3年）、乌头（4年）、天雄（5年）的收成周期区别。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略05/05_08_板书记录附子（3年）、乌头（4年）、天雄（5年）的收成周期区别。.jpg
+  - 截图路径：assets/screenshots/jingui/0158.webp
 - `09:21` [金匮要略、课程板书/实操] 手绘人体解剖示意图，演示心、小肠、膀胱、肝及精宫的生理联系，解释“血化为精”的过程。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略05/09_21_手绘人体解剖示意图，演示心、小肠、膀胱、肝及精宫的生理联系，解释“血化为精”的过.jpg
+  - 截图路径：assets/screenshots/jingui/0159.webp
 - `11:34` [金匮要略、课程板书/实操] 满屏文字，展示小建中汤的完整方剂（桂枝、芍药、甘草、生姜、大枣、饴糖）及对应病症。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略05/11_34_满屏文字，展示小建中汤的完整方剂（桂枝、芍药、甘草、生姜、大枣、饴糖）及对应病症.jpg
+  - 截图路径：assets/screenshots/jingui/0160.webp
 - `21:48` [金匮要略、课程板书/实操] 黑板板书，左侧列出“黄芪建中汤”组成及“虚劳里急”等主治症状。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略05/21_48_黑板板书，左侧列出“黄芪建中汤”组成及“虚劳里急”等主治症状。.jpg
+  - 截图路径：assets/screenshots/jingui/0161.webp
 - `30:21` [金匮要略、课程板书/实操] 满屏黑板内容，详细列出“八味肾气丸”的配方成分、两两对应的比例，以及“虚劳腰痛、少腹拘急”等主治文字。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略05/30_21_满屏黑板内容，详细列出“八味肾气丸”的配方成分、两两对应的比例，以及“虚劳腰痛、.jpg
+  - 截图路径：assets/screenshots/jingui/0162.webp
 - `38:31` [金匮要略、课程板书/实操] 黑板展示“薯蓣丸”极其复杂的药物组成及分两。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略05/38_31_黑板展示“薯蓣丸”极其复杂的药物组成及分两。.jpg
+  - 截图路径：assets/screenshots/jingui/0163.webp
 - `39:43` [金匮要略、课程板书/实操] 黑板列出“酸枣仁汤”的五味药物（酸枣仁、知母、茯苓、川芎、甘草）及煮法用法。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略05/39_43_黑板列出“酸枣仁汤”的五味药物（酸枣仁、知母、茯苓、川芎、甘草）及煮法用法。.jpg
+  - 截图路径：assets/screenshots/jingui/0164.webp
 - `43:38` [金匮要略、课程板书/实操] 板书完整列出“酸枣仁汤方”及其组成：酸枣仁、甘草、知母、茯苓、芎藭，以及煮服方法。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略05/43_38_板书完整列出“酸枣仁汤方”及其组成：酸枣仁、甘草、知母、茯苓、芎藭，以及煮服方法.jpg
+  - 截图路径：assets/screenshots/jingui/0165.webp
 - `44:42` [金匮要略、课程板书/实操] 板书展示“大黄蛰虫丸方”及其大量动物类配伍药：大黄、黄芩、甘草、桃仁、杏仁、芍药、干地黄、干漆、虻虫、水蛭、蛴螬、蛰虫。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略05/44_42_板书展示“大黄蛰虫丸方”及其大量动物类配伍药：大黄、黄芩、甘草、桃仁、杏仁、芍药.jpg
+  - 截图路径：assets/screenshots/jingui/0166.webp
 - `55:52` [金匮要略、课程板书/实操] 板书详细列出补虚劳名方“炙甘草汤”及其补充方剂，包含人参、生姜、阿胶、麦门冬、麻仁、大枣等。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略05/55_52_板书详细列出补虚劳名方“炙甘草汤”及其补充方剂，包含人参、生姜、阿胶、麦门冬、麻.jpg
+  - 截图路径：assets/screenshots/jingui/0167.webp
 - `59:57` [金匮要略、课程板书/实操] 讲师手写“消肿溃坚汤”完整组方：包含柴胡、黄柏、知母、瓜蒌根、桔梗、三棱、我术、连翘、黄芩、黄连、葛根、当归、龙胆草、甘草。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略05/59_57_讲师手写“消肿溃坚汤”完整组方：包含柴胡、黄柏、知母、瓜蒌根、桔梗、三棱、我术、.jpg
+  - 截图路径：assets/screenshots/jingui/0168.webp
 - `69:48` [金匮要略、课程板书/实操] 板书方剂名称，写下“越婢加半夏汤”及其主治方向“肺气肿”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略05/69_48_**_板书方剂名称，写下“越婢加半夏汤”及其主治方向“肺气肿”。.jpg
+  - 截图路径：assets/screenshots/jingui/0169.webp
 - `74:14` [金匮要略、课程板书/实操] 板书射干麻黄汤的对症病机，写下“寒饮咳嗽”四个字。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略05/74_14_**_板书射干麻黄汤的对症病机，写下“寒饮咳嗽”四个字。.jpg
+  - 截图路径：assets/screenshots/jingui/0170.webp
 - `75:17` [金匮要略、课程板书/实操] 板书推导射干麻黄汤的来源，展示由“小青龙汤”减去“白芍、甘草”，加上“紫菀、款冬花、射干”的化裁过程。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略05/75_17_**_板书推导射干麻黄汤的来源，展示由“小青龙汤”减去“白芍、甘草”，加上“紫菀.jpg
+  - 截图路径：assets/screenshots/jingui/0171.webp
 - `76:05` [金匮要略、课程板书/实操] 板书脏腑辨证核心口诀，写明“吸入：肾；吐出：肺”，用于区分呼吸困难的病位。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略05/76_05_**_板书脏腑辨证核心口诀，写明“吸入：肾；吐出：肺”，用于区分呼吸困难的病位。.jpg
+  - 截图路径：assets/screenshots/jingui/0172.webp
 - `77:41` [金匮要略、课程板书/实操] 板书皂荚丸的对症病机，标注为“湿热的咳”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略05/77_41_**_板书皂荚丸的对症病机，标注为“湿热的咳”。.jpg
+  - 截图路径：assets/screenshots/jingui/0173.webp
 - `79:24` [金匮要略、课程板书/实操] 板书讲者自创的“戒烟方”完整药理结构：包含皂荚、红枣、苦参、黄芩/黄连、半夏、南星及剂量。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略05/79_24_**_板书讲者自创的“戒烟方”完整药理结构：包含皂荚、红枣、苦参、黄芩_黄连、半.jpg
+  - 截图路径：assets/screenshots/jingui/0174.webp
 - `83:19` [金匮要略、课程板书/实操] 板书泽漆汤的核心药物替换，指出“泽漆”即为“大戟/红大戟”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略05/83_19_**_板书泽漆汤的核心药物替换，指出“泽漆”即为“大戟_红大戟”。.jpg
+  - 截图路径：assets/screenshots/jingui/0175.webp
 - `83:39` [金匮要略、课程板书/实操] 板书肺胀两方的脉象区分原则，明确写出“浮：厚朴麻黄汤；沉：泽漆汤”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略05/83_39_**_板书肺胀两方的脉象区分原则，明确写出“浮：厚朴麻黄汤；沉：泽漆汤”。.jpg
+  - 截图路径：assets/screenshots/jingui/0176.webp
 - `86:52` [金匮要略、课程板书/实操] 板书古籍中紫参的主治病症，写下“下利肺痛”四字，并口述其与现代肺癌的关联。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略05/86_52_**_板书古籍中紫参的主治病症，写下“下利肺痛”四字，并口述其与现代肺癌的关联。.jpg
+  - 截图路径：assets/screenshots/jingui/0177.webp
 - `88:53` [金匮要略、课程板书/实操] 板书手写“甘草麻黄汤”的药方组成与具体剂量（麻黄二钱、甘草三钱）
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略05/88_53_板书手写“甘草麻黄汤”的药方组成与具体剂量（麻黄二钱、甘草三钱）.jpg
+  - 截图路径：assets/screenshots/jingui/0178.webp
 - `91:34` [金匮要略、课程板书/实操] 板书手写病例症状“手足极热、无法安睡”及处方“三黄泻心汤”组成（黄芩、黄连、大黄）
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略05/91_34_板书手写病例症状“手足极热、无法安睡”及处方“三黄泻心汤”组成（黄芩、黄连、大黄.jpg
+  - 截图路径：assets/screenshots/jingui/0179.webp
 - `94:44` [金匮要略、课程板书/实操] 板书手写“麦门冬汤”的适应症“干咳、无痰、失音”
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略05/94_44_板书手写“麦门冬汤”的适应症“干咳、无痰、失音”.jpg
+  - 截图路径：assets/screenshots/jingui/0180.webp
 - `98:38` [金匮要略、课程板书/实操] 板书手写“肺痈、实热证、脉数”的辨证要点
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略05/98_38_板书手写“肺痈、实热证、脉数”的辨证要点.jpg
+  - 截图路径：assets/screenshots/jingui/0181.webp
 - `101:19` [金匮要略、课程板书/实操] 板书手写《千金方》“千金苇茎汤”的药方组成（苇茎、冬瓜仁、桃仁、薏仁）
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略05/101_19_板书手写《千金方》“千金苇茎汤”的药方组成（苇茎、冬瓜仁、桃仁、薏仁）.jpg
+  - 截图路径：assets/screenshots/jingui/0182.webp
 
 ## 金匮要略06
 
 - `08:35` [金匮要略、课程板书/实操] 黑板手绘人体脏腑气化运行图，标注了心、肺、小肠、大肠的位置关系，以及大肠“沼气”受惊吓后通过血管进入肝脏再冲向心脏的病理路径。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略06/08_35_**_黑板手绘人体脏腑气化运行图，标注了心、肺、小肠、大肠的位置关系，以及大肠“.jpg
+  - 截图路径：assets/screenshots/jingui/0183.webp
 - `15:27` [金匮要略、课程板书/实操] 满屏古文PPT，展示《金匮要略》“奔豚汤方”的条文及具体药味组成（甘草、黄芩、半夏、生姜、芍药等）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略06/15_27_**_满屏古文PPT，展示《金匮要略》“奔豚汤方”的条文及具体药味组成（甘草、黄.jpg
+  - 截图路径：assets/screenshots/jingui/0184.webp
 - `22:31` [金匮要略、课程板书/实操] 黑板手写板书，明确列出中医阴阳对应关系：“胸为阳 -> 阳药（桂枝）”；“腹为阴 -> 阴药（白芍）”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略06/22_31_**_黑板手写板书，明确列出中医阴阳对应关系：“胸为阳_->_阳药（桂枝）”；“.jpg
+  - 截图路径：assets/screenshots/jingui/0185.webp
 - `25:55` [金匮要略、课程板书/实操] ` 黑板板书图解：手绘人体腹部结构，标示了肚脐、小肠、大肠，以及小肠火加热大肠水化为水气的循环路径，用于解释“脐下动悸”的病理。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略06/25_55_`_黑板板书图解：手绘人体腹部结构，标示了肚脐、小肠、大肠，以及小肠火加热大肠水.jpg
+  - 截图路径：assets/screenshots/jingui/0186.webp
 - `30:54` [金匮要略、课程板书/实操] ` 满屏黑板板书：展示《金匮要略》第九篇“胸痹心痛短气病脉证并治”的开篇原文内容。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略06/30_54_`_满屏黑板板书：展示《金匮要略》第九篇“胸痹心痛短气病脉证并治”的开篇原文内容.jpg
+  - 截图路径：assets/screenshots/jingui/0187.webp
 - `33:30` [金匮要略、课程板书/实操] ` 黑板板书图解：手绘脉诊“一息”数标尺（1到10），标注了5为正常，6-7为热，8-10为凶，1-3为不及死症的脉象标准线。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略06/33_30_`_黑板板书图解：手绘脉诊“一息”数标尺（1到10），标注了5为正常，6-7为热.jpg
+  - 截图路径：assets/screenshots/jingui/0188.webp
 - `38:29` [金匮要略、课程板书/实操] ` 黑板板书图解：手绘心、小肠、下焦寒水的循环图，对比了正常的“气化”水与病态的“寒水”直冲心脏（阳微阴弦）的病理路径。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略06/38_29_`_黑板板书图解：手绘心、小肠、下焦寒水的循环图，对比了正常的“气化”水与病态的.jpg
+  - 截图路径：assets/screenshots/jingui/0189.webp
 - `40:14` [金匮要略、课程板书/实操] ` 满屏黑板板书：展示“胸痹之病，喘息咳唾，胸背痛，短气...”及处方“栝蒌薤白白酒汤”的条文与药物组成。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略06/40_14_`_满屏黑板板书：展示“胸痹之病，喘息咳唾，胸背痛，短气...”及处方“栝蒌薤白.jpg
+  - 截图路径：assets/screenshots/jingui/0190.webp
 - `46:53` [金匮要略、课程板书/实操] ` 满屏板书，展示“瓜蒌薤白白酒汤”的经典条文（胸痹之病，喘息咳唾...）及四味药的处方组成。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略06/46_53_`_满屏板书，展示“瓜蒌薤白白酒汤”的经典条文（胸痹之病，喘息咳唾...）及四味.jpg
+  - 截图路径：assets/screenshots/jingui/0191.webp
 - `50:52` [金匮要略、课程板书/实操] ` 满屏板书，展示病情加重时的“瓜蒌薤白半夏汤”主治症状（不得卧、心痛彻背）及药方配伍。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略06/50_52_`_满屏板书，展示病情加重时的“瓜蒌薤白半夏汤”主治症状（不得卧、心痛彻背）及药.jpg
+  - 截图路径：assets/screenshots/jingui/0192.webp
 - `56:53` [金匮要略、课程板书/实操] ` 满屏板书，展示治疗“心中痞气”的条文，清晰列出实证用“枳实薤白桂枝汤”与虚证用“人参汤”两首方剂及剂量。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略06/56_53_`_满屏板书，展示治疗“心中痞气”的条文，清晰列出实证用“枳实薤白桂枝汤”与虚证.jpg
+  - 截图路径：assets/screenshots/jingui/0193.webp
 - `58:59` [金匮要略、课程板书/实操] ` 板书手绘胸腔、肠胃及横膈膜解剖示意图，配合讲者画线标记，直观解释“胁下逆抢心”的疼痛传导路径。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略06/58_59_`_板书手绘胸腔、肠胃及横膈膜解剖示意图，配合讲者画线标记，直观解释“胁下逆抢心.jpg
+  - 截图路径：assets/screenshots/jingui/0194.webp
 - `67:06` [金匮要略、课程板书/实操] ` 满屏板书，展示主治胸中气塞、短气的“茯苓杏仁甘草汤”经典条文及处方。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略06/67_06_`_满屏板书，展示主治胸中气塞、短气的“茯苓杏仁甘草汤”经典条文及处方。.jpg
+  - 截图路径：assets/screenshots/jingui/0195.webp
 - `74:27` [金匮要略、课程板书/实操] 投影屏幕显示经典条文及处方：“胸痹缓急者，薏苡附子散主之”及其配方（薏苡仁十五两、大附子十枚）、用量和服法。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略06/74_27_投影屏幕显示经典条文及处方：“胸痹缓急者，薏苡附子散主之”及其配方（薏苡仁十五两.jpg
+  - 截图路径：assets/screenshots/jingui/0196.webp
 - `78:48` [金匮要略、课程板书/实操] 投影屏幕显示经典条文及处方：“心中痞，诸逆，心悬痛，桂枝生姜枳实汤主之”及其配方、用量和服法。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略06/78_48_投影屏幕显示经典条文及处方：“心中痞，诸逆，心悬痛，桂枝生姜枳实汤主之”及其配方.jpg
+  - 截图路径：assets/screenshots/jingui/0197.webp
 - `80:44` [金匮要略、课程板书/实操] 投影屏幕显示极重度心痛的条文及处方：“心痛彻背，背痛彻心，乌头赤石脂丸主之”及其配方。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略06/80_44_投影屏幕显示极重度心痛的条文及处方：“心痛彻背，背痛彻心，乌头赤石脂丸主之”及其.jpg
+  - 截图路径：assets/screenshots/jingui/0198.webp
 - `90:39` [金匮要略、课程板书/实操] 板书列出判定心脏病有问题的四大核心症状：1.失眠，2.大便不规则，3.手脚冷，4.心胸痛。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略06/90_39_板书列出判定心脏病有问题的四大核心症状：1.失眠，2.大便不规则，3.手脚冷，4.jpg
+  - 截图路径：assets/screenshots/jingui/0199.webp
 - `98:56` [金匮要略、课程板书/实操] 黑板满屏手写板书，展示了心脏病的核心中药处方，包括黄连阿胶汤、不用白芍、桂枝、炙甘草、炮附子等核心药材及其对应的胸闷、胸痛、手脚冰冷等症状。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略06/98_56_**_黑板满屏手写板书，展示了心脏病的核心中药处方，包括黄连阿胶汤、不用白芍、桂.jpg
+  - 截图路径：assets/screenshots/jingui/0200.webp
 - `100:24` [金匮要略、课程板书/实操] 黑板板书展示针灸穴位，写有“胃经-厉兑穴”，并讲解了左痛取右、右痛取左的交叉刺法原则。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略06/100_24_**_黑板板书展示针灸穴位，写有“胃经-厉兑穴”，并讲解了左痛取右、右痛取左的交.jpg
+  - 截图路径：assets/screenshots/jingui/0201.webp
 - `110:41` [金匮要略、课程板书/实操] 黑板上手绘人脸轮廓图，标注了鼻子和两颊的位置，详细讲解心脏病的“面部望诊”方法及颜色变化（从粉红到暗红到发黑的危险信号）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略06/110_41_**_黑板上手绘人脸轮廓图，标注了鼻子和两颊的位置，详细讲解心脏病的“面部望诊”.jpg
+  - 截图路径：assets/screenshots/jingui/0202.webp
 - `111:44` [金匮要略、课程板书/实操] 黑板手绘心和肺的阴阳关系图，标注了“肺是冷的”、“心是热的”，解释正常人体的阴阳热量分布与手部/额头温度测试的原理。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略06/111_44_**_黑板手绘心和肺的阴阳关系图，标注了“肺是冷的”、“心是热的”，解释正常人体.jpg
+  - 截图路径：assets/screenshots/jingui/0203.webp
 
 ## 金匮要略07
 
 - `02:44` [金匮要略、课程板书/实操] 满屏板书，左侧画有心脏及心包结构图，列出了“外”部心脏问题的常用中药：瓜蒌实、枳实、薤白、茯苓、杏仁，以及描述痰饮痛感的“虫蛀”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略07/02_44_满屏板书，左侧画有心脏及心包结构图，列出了“外”部心脏问题的常用中药：瓜蒌实、枳.jpg
+  - 截图路径：assets/screenshots/jingui/0204.webp
 - `04:50` [金匮要略、课程板书/实操] 满屏板书，展示“内”部心脏病（血管堵塞）的用药逻辑，画有带“齿痕”和“凹洞”的舌头示意图，列有川芎、丹皮、红花，以及导药“苦入心（黄芩、黄连）”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略07/04_50_满屏板书，展示“内”部心脏病（血管堵塞）的用药逻辑，画有带“齿痕”和“凹洞”的舌.jpg
+  - 截图路径：assets/screenshots/jingui/0205.webp
 - `08:35` [金匮要略、课程板书/实操] 满屏板书，详细对比了“炮附子”与“生附子”的配伍与功效，明确标注了“炮附子+生姜（心主五液）”与“生附子+干姜（四逆汤，救逆）”的核心区别。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略07/08_35_满屏板书，详细对比了“炮附子”与“生附子”的配伍与功效，明确标注了“炮附子+生姜.jpg
+  - 截图路径：assets/screenshots/jingui/0206.webp
 - `12:07` [金匮要略、课程板书/实操] 黑板清空后，写有“第十篇”的新章节总纲全文：“腹满寒疝宿食病脉证并治第十...”，包含虚实辨证的古文条辨。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略07/12_07_黑板清空后，写有“第十篇”的新章节总纲全文：“腹满寒疝宿食病脉证并治第十...”.jpg
+  - 截图路径：assets/screenshots/jingui/0207.webp
 - `13:04` [金匮要略、课程板书/实操] 满屏黑板手写板书，展示经典条文：“腹满寒疝宿食病脉证并治第十... 趺阳脉微弦，法当腹满...”
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略07/13_04_满屏黑板手写板书，展示经典条文：“腹满寒疝宿食病脉证并治第十..._趺阳脉微弦，.jpg
+  - 截图路径：assets/screenshots/jingui/0208.webp
 - `19:16` [金匮要略、课程板书/实操] 黑板板书写明腹水肿大的治疗原则与药性归属：“虚 - 补虚建中汤，实 - 分消汤”，右侧批注“甘淡渗利为阳，酸苦涌泄为阴”
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略07/19_16_黑板板书写明腹水肿大的治疗原则与药性归属：“虚_-_补虚建中汤，实_-_分消汤”.jpg
+  - 截图路径：assets/screenshots/jingui/0209.webp
 - `20:11` [金匮要略、课程板书/实操] 黑板手写板书经典条文：“腹满时减，复如故，此为寒，当与温药。”
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略07/20_11_黑板手写板书经典条文：“腹满时减，复如故，此为寒，当与温药。”.jpg
+  - 截图路径：assets/screenshots/jingui/0210.webp
 - `25:02` [金匮要略、课程板书/实操] 黑板板书写明极凶猛的攻下方剂及比例：“三物小白散：贝母3，桔梗3，巴豆1”
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略07/25_02_黑板板书写明极凶猛的攻下方剂及比例：“三物小白散：贝母3，桔梗3，巴豆1”.jpg
+  - 截图路径：assets/screenshots/jingui/0211.webp
 - `29:09` [金匮要略、课程板书/实操] 满屏黑板板书，展示条文：“中寒，其人下利，以里虚也，欲嚏不能，此人肚中寒...”
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略07/29_09_满屏黑板板书，展示条文：“中寒，其人下利，以里虚也，欲嚏不能，此人肚中寒...”.jpg
+  - 截图路径：assets/screenshots/jingui/0212.webp
 - `33:33` [金匮要略、课程板书/实操] 满屏黑板板书，展示条文：“病腹满，发热十日，脉浮而数，饮食如故，厚朴七物汤主之”及左侧具体药物配伍。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略07/33_33_满屏黑板板书，展示条文：“病腹满，发热十日，脉浮而数，饮食如故，厚朴七物汤主之”.jpg
+  - 截图路径：assets/screenshots/jingui/0213.webp
 - `37:08` [金匮要略、课程板书/实操] 满屏黑板板书，展示条文：“腹中寒气，雷鸣切痛，胸胁逆满，呕吐，附子粳米汤主之”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略07/37_08_满屏黑板板书，展示条文：“腹中寒气，雷鸣切痛，胸胁逆满，呕吐，附子粳米汤主之”。.jpg
+  - 截图路径：assets/screenshots/jingui/0214.webp
 - `39:13` [金匮要略、课程板书/实操] ` 黑板板书：附子粳米汤的原条文（腹中寒气，雷鸣切痛，胸胁逆满，呕吐...）及方剂组成。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略07/39_13_`_黑板板书：附子粳米汤的原条文（腹中寒气，雷鸣切痛，胸胁逆满，呕吐...）及方.jpg
+  - 截图路径：assets/screenshots/jingui/0215.webp
 - `52:17` [金匮要略、课程板书/实操] 黑板板书，完整展示“大柴胡汤方”的具体药材组成及剂量（柴胡、黄芩、半夏等）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略07/52_17_黑板板书，完整展示“大柴胡汤方”的具体药材组成及剂量（柴胡、黄芩、半夏等）。.jpg
+  - 截图路径：assets/screenshots/jingui/0216.webp
 - `55:39` [金匮要略、课程板书/实操] 黑板板书，展示《伤寒论》中关于使用大承气汤的经典条文“腹满不减，减不足言，当须下之，宜大承气汤”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略07/55_39_黑板板书，展示《伤寒论》中关于使用大承气汤的经典条文“腹满不减，减不足言，当须下.jpg
+  - 截图路径：assets/screenshots/jingui/0217.webp
 - `57:04` [金匮要略、课程板书/实操] 黑板板书，完整展示“大建中汤方”的经典条文、药材组成（蜀椒、干姜、人参）及熬煮方法。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略07/57_04_黑板板书，完整展示“大建中汤方”的经典条文、药材组成（蜀椒、干姜、人参）及熬煮方.jpg
+  - 截图路径：assets/screenshots/jingui/0218.webp
 - `58:50` [金匮要略、课程板书/实操] 黑板手绘人体躯干简图，明确标注了小建中汤（小腹）、大建中汤（中焦）以及胸部寒痛的不同病位。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略07/58_50_黑板手绘人体躯干简图，明确标注了小建中汤（小腹）、大建中汤（中焦）以及胸部寒痛的.jpg
+  - 截图路径：assets/screenshots/jingui/0219.webp
 - `63:01` [金匮要略、课程板书/实操] 黑板板书，展示“大黄附子汤方”的相关条文及药材组成（大黄、附子、细辛）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略07/63_01_黑板板书，展示“大黄附子汤方”的相关条文及药材组成（大黄、附子、细辛）。.jpg
+  - 截图路径：assets/screenshots/jingui/0220.webp
 - `64:45` [金匮要略、课程板书/实操] 黑板板书，构建了便秘辨证的思维导图，详细对比了“热实”与“寒实”在痛感（痛 vs 不为所苦）和小便颜色（黄 vs 清白）上的核心区别。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略07/64_45_黑板板书，构建了便秘辨证的思维导图，详细对比了“热实”与“寒实”在痛感（痛_vs.jpg
+  - 截图路径：assets/screenshots/jingui/0221.webp
 - `67:11` [金匮要略、课程板书/实操] 黑板板书，详细列出了大黄附子细辛汤的临床剂量（炮附子3钱、细辛2钱、大黄3钱），并总结了上、中、下三焦寒实的三个对应处方。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略07/67_11_**_黑板板书，详细列出了大黄附子细辛汤的临床剂量（炮附子3钱、细辛2钱、大黄3.jpg
+  - 截图路径：assets/screenshots/jingui/0222.webp
 - `74:53` [金匮要略、课程板书/实操] 黑板手绘人体躯干示意图，配合文字讲解“阴阳分隔”理论，演示阳气无法进入有阴实（如肿瘤）的脏器，导致津液回逆吐出（白津出）的路径。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略07/74_53_**_黑板手绘人体躯干示意图，配合文字讲解“阴阳分隔”理论，演示阳气无法进入有阴.jpg
+  - 截图路径：assets/screenshots/jingui/0223.webp
 - `75:36` [金匮要略、课程板书/实操] 黑板在躯干图右侧新增了24小时时间循环图，展示如何通过记录下午3点至晚上7点（甚至更晚）的燥热时间长短，来研判重症患者“阴阳分隔”是在恶化还是好转。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略07/75_36_**_黑板在躯干图右侧新增了24小时时间循环图，展示如何通过记录下午3点至晚上7.jpg
+  - 截图路径：assets/screenshots/jingui/0224.webp
 - `80:14` [金匮要略、课程板书/实操] 满屏文字PPT，展示“当归生姜羊肉汤”的处方组成（当归三两、生姜五两、羊肉一斤）及主治症状“寒疝，腹中痛，及胁痛里急者”
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略07/80_14_满屏文字PPT，展示“当归生姜羊肉汤”的处方组成（当归三两、生姜五两、羊肉一斤）.jpg
+  - 截图路径：assets/screenshots/jingui/0225.webp
 - `83:58` [金匮要略、课程板书/实操] 满屏文字PPT，展示“乌头桂枝汤”的方剂条文，包含主治症状“寒疝腹中痛，逆冷，手足不仁，若身疼痛，灸刺诸药不能治...”
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略07/83_58_满屏文字PPT，展示“乌头桂枝汤”的方剂条文，包含主治症状“寒疝腹中痛，逆冷，手.jpg
+  - 截图路径：assets/screenshots/jingui/0226.webp
 - `87:07` [金匮要略、课程板书/实操] 满屏文字PPT，展示《金匮要略》中关于复杂脉象与阴阳判断的条文“其脉数而紧，乃弦，状如弓弦，按之不移...”
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略07/87_07_满屏文字PPT，展示《金匮要略》中关于复杂脉象与阴阳判断的条文“其脉数而紧，乃弦.jpg
+  - 截图路径：assets/screenshots/jingui/0227.webp
 - `87:56` [金匮要略、课程板书/实操] 讲者板书讲解阴阳模型，写下“阳中有阴，阴中有阳”推导指向“吉”，以及阴阳分离指向“凶”的理论判断。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略07/87_56_讲者板书讲解阴阳模型，写下“阳中有阴，阴中有阳”推导指向“吉”，以及阴阳分离指向.jpg
+  - 截图路径：assets/screenshots/jingui/0228.webp
 - `94:20` [金匮要略、课程板书/实操] 板书写有大承气汤的药方组成及剂量：厚朴、枳实、大黄（三钱）、芒硝（分两包，冲服）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略07/94_20_板书写有大承气汤的药方组成及剂量：厚朴、枳实、大黄（三钱）、芒硝（分两包，冲服）.jpg
+  - 截图路径：assets/screenshots/jingui/0229.webp
 - `96:41` [金匮要略、课程板书/实操] 板书手绘大肠横截面图，讲解第一种大承气汤证形态：肠道仅剩小缝隙，排出“细长条状”大便。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略07/96_41_板书手绘大肠横截面图，讲解第一种大承气汤证形态：肠道仅剩小缝隙，排出“细长条状”.jpg
+  - 截图路径：assets/screenshots/jingui/0230.webp
 - `97:06` [金匮要略、课程板书/实操] 板书手绘大肠截面图，讲解第二种大承气汤证形态：硬块完全堵死肠道，仅水能通过，表现为“下利”（腹泻）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略07/97_06_板书手绘大肠截面图，讲解第二种大承气汤证形态：硬块完全堵死肠道，仅水能通过，表现.jpg
+  - 截图路径：assets/screenshots/jingui/0231.webp
 - `98:53` [金匮要略、课程板书/实操] 板书写有“浓盐汤”，讲解替代瓜蒂散的简易催吐方法。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略07/98_53_板书写有“浓盐汤”，讲解替代瓜蒂散的简易催吐方法。.jpg
+  - 截图路径：assets/screenshots/jingui/0232.webp
 - `99:46` [金匮要略、课程板书/实操] 满屏展示古代医经原文，内容为“宿食在上脘，当吐之，宜瓜蒂散...”及脉象转索无常等条文。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略07/99_46_满屏展示古代医经原文，内容为“宿食在上脘，当吐之，宜瓜蒂散...”及脉象转索无常.jpg
+  - 截图路径：assets/screenshots/jingui/0233.webp
 - `104:15` [金匮要略、课程板书/实操] 板书手绘胸腔与肺部解剖示意图，标注肺中的津液（阳），讲解“肺中风”导致肺热、津液干燥的病理机制。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略07/104_15_板书手绘胸腔与肺部解剖示意图，标注肺中的津液（阳），讲解“肺中风”导致肺热、津液.jpg
+  - 截图路径：assets/screenshots/jingui/0234.webp
 - `105:45` [金匮要略、课程板书/实操] ` 板书手写人体津液输布解剖简图（脾脏、肠子与肺部的关系），及黑板展示“肺中风”的《金匮要略》原文条文。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略07/105_45_`_板书手写人体津液输布解剖简图（脾脏、肠子与肺部的关系），及黑板展示“肺中风”.jpg
+  - 截图路径：assets/screenshots/jingui/0235.webp
 - `110:46` [金匮要略、课程板书/实操] ` 满屏黑板板书，展示“肝中寒”及“肝死脉”的经典原文条文。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略07/110_46_`_满屏黑板板书，展示“肝中寒”及“肝死脉”的经典原文条文。.jpg
+  - 截图路径：assets/screenshots/jingui/0236.webp
 - `114:03` [金匮要略、课程板书/实操] ` 板书手写肝脏肿大压迫脾脏与横膈膜的病理机制解剖简图，解释胸痛与呕吐的成因。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略07/114_03_`_板书手写肝脏肿大压迫脾脏与横膈膜的病理机制解剖简图，解释胸痛与呕吐的成因。.jpg
+  - 截图路径：assets/screenshots/jingui/0237.webp
 - `114:51` [金匮要略、课程板书/实操] ` 满屏黑板板书，展示“旋覆花汤”的处方组成（旋覆花三两、葱十四茎、新绛少许）及服用方法。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略07/114_51_`_满屏黑板板书，展示“旋覆花汤”的处方组成（旋覆花三两、葱十四茎、新绛少许）及.jpg
+  - 截图路径：assets/screenshots/jingui/0238.webp
 
 ## 金匮要略08
 
 - `01:51` [金匮要略、课程板书/实操] 黑板满屏板书“心中风”相关条文。讲者画出了“心（火）、胃、小肠”的脏腑传导简图，用箭头标记了正常心火下行与病态心火上逆的路径。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略08/01_51_**_黑板满屏板书“心中风”相关条文。讲者画出了“心（火）、胃、小肠”的脏腑传导.jpg
+  - 截图路径：assets/screenshots/jingui/0239.webp
 - `02:44` [金匮要略、课程板书/实操] 黑板展示“心中寒”相关条文，讲者在黑板上重点批注了“寒痰”二字，解释心痛彻背的病因。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略08/02_44_**_黑板展示“心中寒”相关条文，讲者在黑板上重点批注了“寒痰”二字，解释心痛彻.jpg
+  - 截图路径：assets/screenshots/jingui/0240.webp
 - `07:18` [金匮要略、课程板书/实操] 黑板展示“心伤”条文。讲者画出了包含“心、肺、小肠、大肠”的脏腑气化循环图，详细推演了心伤导致热量分布失衡，引发“头面赤”、“下重”和“当脐跳”的复杂机制
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略08/07_18_**_黑板展示“心伤”条文。讲者画出了包含“心、肺、小肠、大肠”的脏腑气化循环图.jpg
+  - 截图路径：assets/screenshots/jingui/0241.webp
 - `08:21` [金匮要略、课程板书/实操] 黑板展示心脏“死脉（真脏脉）”的条文“浮之如麻豆，按之益躁”，讲者讲解脏器衰竭时的脉象特征。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略08/08_21_**_黑板展示心脏“死脉（真脏脉）”的条文“浮之如麻豆，按之益躁”，讲者讲解脏器.jpg
+  - 截图路径：assets/screenshots/jingui/0242.webp
 - `10:33` [金匮要略、课程板书/实操] 黑板展示“邪哭”条文。讲者画出树状图，板书推导了“肝（魂）、肺（魄）与心（神）”的统辖关系，解释精神类疾病的内脏根源。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略08/10_33_**_黑板展示“邪哭”条文。讲者画出树状图，板书推导了“肝（魂）、肺（魄）与心（.jpg
+  - 截图路径：assets/screenshots/jingui/0243.webp
 - `15:44` [金匮要略、课程板书/实操] 黑板手绘图表：展示肺、心、肝、脾（中焦）及少腹（下焦）的解剖位置关系，配合讲解“脾主少腹”及“脾中风”湿气阻挡心火下降的病理机制。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略08/15_44_**_黑板手绘图表：展示肺、心、肝、脾（中焦）及少腹（下焦）的解剖位置关系，配合.jpg
+  - 截图路径：assets/screenshots/jingui/0244.webp
 - `18:02` [金匮要略、课程板书/实操] 黑板板书文字：明确写出“脾统血”、“心主血”、“肝藏血”的中医理论分工，以及对应的治疗方向。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略08/18_02_**_黑板板书文字：明确写出“脾统血”、“心主血”、“肝藏血”的中医理论分工，以.jpg
+  - 截图路径：assets/screenshots/jingui/0245.webp
 - `24:19` [金匮要略、课程板书/实操] 黑板板书与手绘结构图：左侧为《伤寒论》原文“趺阳脉浮而涩...其脾为约”，右侧绘制胃、脾、小肠、大肠、膀胱的水液代谢与温度传递模型，解释“脾约”导致大便坚
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略08/24_19_**_黑板板书与手绘结构图：左侧为《伤寒论》原文“趺阳脉浮而涩...其脾为约”，.jpg
+  - 截图路径：assets/screenshots/jingui/0246.webp
 - `27:36` [金匮要略、课程板书/实操] 黑板展示《金匮要略》麻子仁丸的处方组成、制法、用量及服用方法
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略08/27_36_黑板展示《金匮要略》麻子仁丸的处方组成、制法、用量及服用方法.jpg
+  - 截图路径：assets/screenshots/jingui/0247.webp
 - `28:29` [金匮要略、课程板书/实操] 黑板展示《金匮要略》中关于“肾著”病的症状描述原文（其人身体重，腰中冷...）
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略08/28_29_黑板展示《金匮要略》中关于“肾著”病的症状描述原文（其人身体重，腰中冷...）.jpg
+  - 截图路径：assets/screenshots/jingui/0248.webp
 - `33:56` [金匮要略、课程板书/实操] 黑板展示“甘草干姜苓术汤”（肾著汤）的处方组成及煎服法
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略08/33_56_黑板展示“甘草干姜苓术汤”（肾著汤）的处方组成及煎服法.jpg
+  - 截图路径：assets/screenshots/jingui/0249.webp
 - `37:04` [金匮要略、课程板书/实操] 黑板展示关于“肾死脉”（真脏脉）的脉象描述原文
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略08/37_04_黑板展示关于“肾死脉”（真脏脉）的脉象描述原文.jpg
+  - 截图路径：assets/screenshots/jingui/0250.webp
 - `37:59` [金匮要略、课程板书/实操] 黑板展示关于“上焦寒”、“下焦寒”导致噫气等不同症状的病理描述原文
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略08/37_59_黑板展示关于“上焦寒”、“下焦寒”导致噫气等不同症状的病理描述原文.jpg
+  - 截图路径：assets/screenshots/jingui/0251.webp
 - `39:12` [金匮要略、课程板书/实操] 画面左侧展示本节课讲解的中医经典古文条文（包含“肾死脏，浮之坚...”等），右侧为讲者配合讲解三焦寒热画的人体脏腑解剖方位草图。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略08/39_12_画面左侧展示本节课讲解的中医经典古文条文（包含“肾死脏，浮之坚...”等），右侧.jpg
+  - 截图路径：assets/screenshots/jingui/0252.webp
 - `48:07` [金匮要略、课程板书/实操] 画面左侧完整展示了关于“积”与“聚”辨证论治的中医经典核心原文（“问曰：病有积、有聚、有谷气...师曰：积者，脏病也，终不移...”）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略08/48_07_画面左侧完整展示了关于“积”与“聚”辨证论治的中医经典核心原文（“问曰：病有积、.jpg
+  - 截图路径：assets/screenshots/jingui/0253.webp
 - `50:07` [金匮要略、课程板书/实操] 讲者在黑板上画出人体胸部轮廓与肋骨，以此图解“积”（如肺癌）的临床表现：痛点固定在肋骨内某一点，深呼吸即痛，持续不移。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略08/50_07_讲者在黑板上画出人体胸部轮廓与肋骨，以此图解“积”（如肺癌）的临床表现：痛点固定.jpg
+  - 截图路径：assets/screenshots/jingui/0254.webp
 - `53:16` [金匮要略、课程板书/实操] ` 黑板板书展示本节核心法则：“诸积大法：脉来细而附骨者，乃积也”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略08/53_16_`_黑板板书展示本节核心法则：“诸积大法：脉来细而附骨者，乃积也”。.jpg
+  - 截图路径：assets/screenshots/jingui/0255.webp
 - `55:05` [金匮要略、课程板书/实操] ` 黑板手绘标注脉诊的“寸、关、尺”三个位置，及其分别对应的穴位（太渊、经渠、列缺）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略08/55_05_`_黑板手绘标注脉诊的“寸、关、尺”三个位置，及其分别对应的穴位（太渊、经渠、列.jpg
+  - 截图路径：assets/screenshots/jingui/0256.webp
 - `56:20` [金匮要略、课程板书/实操] ` 黑板手绘手掌局部图，讲解“微出寸口”的脉象走向（横向往手掌内侧走），指示喉部或脑部肿瘤。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略08/56_20_`_黑板手绘手掌局部图，讲解“微出寸口”的脉象走向（横向往手掌内侧走），指示喉部.jpg
+  - 截图路径：assets/screenshots/jingui/0257.webp
 - `57:52` [金匮要略、课程板书/实操] ` 黑板手绘下腹部（气冲）示意图，讲解“尺脉”附骨对应男女下腹部生殖系统肿瘤（子宫癌、前列腺癌等）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略08/57_52_`_黑板手绘下腹部（气冲）示意图，讲解“尺脉”附骨对应男女下腹部生殖系统肿瘤（子.jpg
+  - 截图路径：assets/screenshots/jingui/0258.webp
 - `59:35` [金匮要略、课程板书/实操] ` 黑板手绘脉搏跳动频率示意图，标注“5”为正常基准，讲解脉速与病情危险程度及好转趋势的关系。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略08/59_35_`_黑板手绘脉搏跳动频率示意图，标注“5”为正常基准，讲解脉速与病情危险程度及好.jpg
+  - 截图路径：assets/screenshots/jingui/0259.webp
 - `66:57` [金匮要略、课程板书/实操] 板书手写人体阴阳阻隔示意图，并标注了患者的核心症状列表（如“下利 一天20次以上”、“黄痰、白痰、带血”等），展示阴实阻隔的病理分析。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略08/66_57_**_板书手写人体阴阳阻隔示意图，并标注了患者的核心症状列表（如“下利_一天20.jpg
+  - 截图路径：assets/screenshots/jingui/0260.webp
 - `72:12` [金匮要略、课程板书/实操] 满屏板书手写处方，详细列出了第一诊的完整药方（桔梗、炙甘草、皂荚、红枣、生半夏、干姜、紫菀、款冬花、射干、麻黄），展示了针对复杂肺病的合方逻辑。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略08/72_12_**_满屏板书手写处方，详细列出了第一诊的完整药方（桔梗、炙甘草、皂荚、红枣、生.jpg
+  - 截图路径：assets/screenshots/jingui/0261.webp
 - `74:44` [金匮要略、课程板书/实操] 板书在原处方的基础上，新增了复诊时加入的活血化瘀及排脓药物（丹皮、桃仁、冬瓜仁），展示了药方的动态调整过程。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略08/74_44_**_板书在原处方的基础上，新增了复诊时加入的活血化瘀及排脓药物（丹皮、桃仁、冬.jpg
+  - 截图路径：assets/screenshots/jingui/0262.webp
 - `76:29` [金匮要略、课程板书/实操] 投影展示《金匮要略》古文条文：“痰饮咳嗽病脉证并治第十二”，以及关于四饮（痰饮、悬饮、溢饮、支饮）的原文列表。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略08/76_29_**_投影展示《金匮要略》古文条文：“痰饮咳嗽病脉证并治第十二”，以及关于四饮（.jpg
+  - 截图路径：assets/screenshots/jingui/0263.webp
 - `79:39` [金匮要略、课程板书/实操] 黑板左侧为《金匮要略》满屏条文，右侧讲者手绘内脏结构图，标明“上方动脉属阳，下方静脉属阴”，解释水饮停聚于内脏下方的原理
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略08/79_39_黑板左侧为《金匮要略》满屏条文，右侧讲者手绘内脏结构图，标明“上方动脉属阳，下方.jpg
+  - 截图路径：assets/screenshots/jingui/0264.webp
 - `82:19` [金匮要略、课程板书/实操] 黑板右侧讲者板书“温阳化水”，并配合旁边的条文，讲解经方治疗饮病的核心指导观念
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略08/82_19_黑板右侧讲者板书“温阳化水”，并配合旁边的条文，讲解经方治疗饮病的核心指导观念.jpg
+  - 截图路径：assets/screenshots/jingui/0265.webp
 - `83:52` [金匮要略、课程板书/实操] 黑板右侧讲者画出肋骨与肚脐定位“心下”，并板书“茯苓 杏仁 甘草”三味药，讲解“水在心”的治法
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略08/83_52_黑板右侧讲者画出肋骨与肚脐定位“心下”，并板书“茯苓_杏仁_甘草”三味药，讲解“.jpg
+  - 截图路径：assets/screenshots/jingui/0266.webp
 - `87:23` [金匮要略、课程板书/实操] 黑板右侧讲者画出背部双肩胛骨简图，标记中间的“冷块”位置，讲解小青龙汤证的典型体征
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略08/87_23_黑板右侧讲者画出背部双肩胛骨简图，标记中间的“冷块”位置，讲解小青龙汤证的典型体.jpg
+  - 截图路径：assets/screenshots/jingui/0267.webp
 - `88:50` [金匮要略、课程板书/实操] 黑板右侧讲者画出胸腔与口腔的津液循环简图，解释“留饮在胸中”导致短气且口渴的病理机制
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略08/88_50_黑板右侧讲者画出胸腔与口腔的津液循环简图，解释“留饮在胸中”导致短气且口渴的病理.jpg
+  - 截图路径：assets/screenshots/jingui/0268.webp
 - `93:52` [金匮要略、课程板书/实操] 板书手写人体水分代谢路径图，清晰标注了“食物”中的水进入小肠、血液，以及“饮料”中的水在胃中被“气化”的过程。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略08/93_52_**_板书手写人体水分代谢路径图，清晰标注了“食物”中的水进入小肠、血液，以及“.jpg
+  - 截图路径：assets/screenshots/jingui/0269.webp
 - `97:57` [金匮要略、课程板书/实操] 满屏黑板展示中医经典条文：“心下有痰饮，胸胁支满，目眩，苓桂术甘汤主之”及“短气有微饮，当从小便去之...”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略08/97_57_**_满屏黑板展示中医经典条文：“心下有痰饮，胸胁支满，目眩，苓桂术甘汤主之”及.jpg
+  - 截图路径：assets/screenshots/jingui/0270.webp
 - `99:44` [金匮要略、课程板书/实操] 板书手写人体躯干简图，在横膈膜位置画了一个“天平”，用于解释水停横膈膜导致身体失衡（头晕目眩）的病理模型。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略08/99_44_**_板书手写人体躯干简图，在横膈膜位置画了一个“天平”，用于解释水停横膈膜导致.jpg
+  - 截图路径：assets/screenshots/jingui/0271.webp
 - `100:50` [金匮要略、课程板书/实操] 板书手写中药药理核心原则：“辛甘发散为阳”与“酸苦为阴”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略08/100_50_**_板书手写中药药理核心原则：“辛甘发散为阳”与“酸苦为阴”。.jpg
+  - 截图路径：assets/screenshots/jingui/0272.webp
 - `106:25` [金匮要略、课程板书/实操] 黑板满屏板书，展示了《金匮要略》中关于“甘遂半夏汤”的经典原文条辨（病者脉伏...其人欲自利，利反快...）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略08/106_25_黑板满屏板书，展示了《金匮要略》中关于“甘遂半夏汤”的经典原文条辨（病者脉伏...jpg
+  - 截图路径：assets/screenshots/jingui/0273.webp
 - `110:17` [金匮要略、课程板书/实操] 黑板板书展示了甘遂半夏汤的具体处方配伍（甘遂、半夏、芍药、甘草的剂量），以及带有“蜜”字的特殊熬煮方法原文。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略08/110_17_黑板板书展示了甘遂半夏汤的具体处方配伍（甘遂、半夏、芍药、甘草的剂量），以及带有.jpg
+  - 截图路径：assets/screenshots/jingui/0274.webp
 - `111:59` [金匮要略、课程板书/实操] 黑板手绘人体胸腔与肋骨结构简图，讲者用此图详细图解“脏腑下方为阴”以及白芍如何发挥“挤海绵”作用的药理机制。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略08/111_59_黑板手绘人体胸腔与肋骨结构简图，讲者用此图详细图解“脏腑下方为阴”以及白芍如何发.jpg
+  - 截图路径：assets/screenshots/jingui/0275.webp
 - `113:23` [金匮要略、课程板书/实操] 黑板板书展示了关于“十枣汤”的经典原文条辨（脉浮而细滑...悬饮内痛...冬夏难治）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略08/113_23_黑板板书展示了关于“十枣汤”的经典原文条辨（脉浮而细滑...悬饮内痛...冬夏难.jpg
+  - 截图路径：assets/screenshots/jingui/0276.webp
 
 ## 金匮要略09
 
 - `00:01` [金匮要略、课程板书/实操] ` 黑板板书，展示了《伤寒论》中关于“十枣汤”的主治症状（悬饮）及详细药物组成的经典条文。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略09/00_01_`_黑板板书，展示了《伤寒论》中关于“十枣汤”的主治症状（悬饮）及详细药物组成的.jpg
+  - 截图路径：assets/screenshots/jingui/0277.webp
 - `06:42` [金匮要略、课程板书/实操] ` 黑板手绘图，讲者画出洗手台和马桶的俯视图，演示服用十枣汤引发剧烈上吐下泻时的正确“侧坐”应对姿势。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略09/06_42_`_黑板手绘图，讲者画出洗手台和马桶的俯视图，演示服用十枣汤引发剧烈上吐下泻时的.jpg
+  - 截图路径：assets/screenshots/jingui/0278.webp
 - `09:18` [金匮要略、课程板书/实操] ` 黑板板书，切换展示了关于“溢饮”的主治条文，以及“大青龙汤”和“小青龙汤”的具体药物构成与剂量（如麻黄六两等）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略09/09_18_`_黑板板书，切换展示了关于“溢饮”的主治条文，以及“大青龙汤”和“小青龙汤”的.jpg
+  - 截图路径：assets/screenshots/jingui/0279.webp
 - `14:42` [金匮要略、课程板书/实操] 黑板板书，完整展示了“小青龙汤方”的八味药材组成（麻黄、芍药、干姜、细辛、桂枝、五味子、甘草、半夏）及药物加减法。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略09/14_42_**_黑板板书，完整展示了“小青龙汤方”的八味药材组成（麻黄、芍药、干姜、细辛、.jpg
+  - 截图路径：assets/screenshots/jingui/0280.webp
 - `17:10` [金匮要略、课程板书/实操] 黑板板书，展示《金匮要略》中关于木防己汤的经典条文：“膈间支饮，其人喘满，心下痞坚，面色黧黑...”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略09/17_10_**_黑板板书，展示《金匮要略》中关于木防己汤的经典条文：“膈间支饮，其人喘满，.jpg
+  - 截图路径：assets/screenshots/jingui/0281.webp
 - `20:26` [金匮要略、课程板书/实操] 黑板手绘人体脏腑生理模型图，讲者画出了肾脏（标有“阳”）、胃脾的位置关系，用于推导“肾阳虚导致阴邪上浮”的病理机制。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略09/20_26_**_黑板手绘人体脏腑生理模型图，讲者画出了肾脏（标有“阳”）、胃脾的位置关系，.jpg
+  - 截图路径：assets/screenshots/jingui/0282.webp
 - `25:23` [金匮要略、课程板书/实操] 黑板板书，展示中医病理推导逻辑链：“久病 -> 必有瘀 / 有宿食 -> 伏热”，解释方剂中加入石膏的理论依据。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略09/25_23_**_黑板板书，展示中医病理推导逻辑链：“久病_->_必有瘀___有宿食_->_.jpg
+  - 截图路径：assets/screenshots/jingui/0283.webp
 - `26:16` [金匮要略、课程板书/实操] 满屏板书，展示了“木防己汤”的配伍加减（加茯苓、芒硝）及相关伤寒论条文解析。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略09/26_16_满屏板书，展示了“木防己汤”的配伍加减（加茯苓、芒硝）及相关伤寒论条文解析。.jpg
+  - 截图路径：assets/screenshots/jingui/0284.webp
 - `30:18` [金匮要略、课程板书/实操] 满屏板书，详细对比展示了“木防己去石膏加茯苓芒硝汤”和“木防己汤”的具体药方组成及剂量。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略09/30_18_满屏板书，详细对比展示了“木防己去石膏加茯苓芒硝汤”和“木防己汤”的具体药方组成.jpg
+  - 截图路径：assets/screenshots/jingui/0285.webp
 - `31:13` [金匮要略、课程板书/实操] 满屏板书，展示《金匮要略》条文“心下有支饮，其人苦冒眩，泽泻汤主之”及泽泻汤的药方构成。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略09/31_13_满屏板书，展示《金匮要略》条文“心下有支饮，其人苦冒眩，泽泻汤主之”及泽泻汤的药.jpg
+  - 截图路径：assets/screenshots/jingui/0286.webp
 - `35:15` [金匮要略、课程板书/实操] 满屏板书，展示条文“支饮胸满者，厚朴大黄汤主之”及厚朴大黄汤的药方构成。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略09/35_15_满屏板书，展示条文“支饮胸满者，厚朴大黄汤主之”及厚朴大黄汤的药方构成。.jpg
+  - 截图路径：assets/screenshots/jingui/0287.webp
 - `37:35` [金匮要略、课程板书/实操] 满屏板书，展示条文“支饮不得息，葶苈大枣泻肺汤主之”及相关肺病条文。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略09/37_35_满屏板书，展示条文“支饮不得息，葶苈大枣泻肺汤主之”及相关肺病条文。.jpg
+  - 截图路径：assets/screenshots/jingui/0288.webp
 - `39:26` [金匮要略、课程板书/实操] ` 满屏板书，展示“呕家本渴，渴者为欲解...”条文及小半夏汤的药方组成。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略09/39_26_`_满屏板书，展示“呕家本渴，渴者为欲解...”条文及小半夏汤的药方组成。.jpg
+  - 截图路径：assets/screenshots/jingui/0289.webp
 - `42:04` [金匮要略、课程板书/实操] ` 满屏板书，展示“肠间有水气...”条文及己椒苈黄丸的主治与处方。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略09/42_04_`_满屏板书，展示“肠间有水气...”条文及己椒苈黄丸的主治与处方。.jpg
+  - 截图路径：assets/screenshots/jingui/0290.webp
 - `42:46` [金匮要略、课程板书/实操] ` 讲者在黑板上画出肠道解剖示意图，标记便秘坚块堵塞在肝脏下方的大肠位置。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略09/42_46_`_讲者在黑板上画出肠道解剖示意图，标记便秘坚块堵塞在肝脏下方的大肠位置。.jpg
+  - 截图路径：assets/screenshots/jingui/0291.webp
 - `44:15` [金匮要略、课程板书/实操] ` 讲者在黑板上补充板书，写出“水”与“糟粕”分开的病理机制。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略09/44_15_`_讲者在黑板上补充板书，写出“水”与“糟粕”分开的病理机制。.jpg
+  - 截图路径：assets/screenshots/jingui/0292.webp
 - `49:26` [金匮要略、课程板书/实操] ` 满屏板书，展示“小半夏加茯苓汤”及“五苓散”的经典条文与药方组成。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略09/49_26_`_满屏板书，展示“小半夏加茯苓汤”及“五苓散”的经典条文与药方组成。.jpg
+  - 截图路径：assets/screenshots/jingui/0293.webp
 - `55:40` [金匮要略、课程板书/实操] 满屏古文条文：“咳家其脉弦，为有水，十枣汤主之。夫有支饮家...”
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略09/55_40_满屏古文条文：“咳家其脉弦，为有水，十枣汤主之。夫有支饮家...”.jpg
+  - 截图路径：assets/screenshots/jingui/0294.webp
 - `57:07` [金匮要略、课程板书/实操] 满屏古文条文：“久咳数岁，其脉弱者可治；实大数者死。其脉虚者，必苦冒...”
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略09/57_07_满屏古文条文：“久咳数岁，其脉弱者可治；实大数者死。其脉虚者，必苦冒...”.jpg
+  - 截图路径：assets/screenshots/jingui/0295.webp
 - `58:56` [金匮要略、课程板书/实操] 板书手写阴阳理论图解，解释久病脉实大数是因为“阳浮上来，阴阳分隔”的死症死理
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略09/58_56_板书手写阴阳理论图解，解释久病脉实大数是因为“阳浮上来，阴阳分隔”的死症死理.jpg
+  - 截图路径：assets/screenshots/jingui/0296.webp
 - `61:31` [金匮要略、课程板书/实操] 满屏古文条文：“咳逆倚息，不得卧，小青龙汤主之。”
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略09/61_31_满屏古文条文：“咳逆倚息，不得卧，小青龙汤主之。”.jpg
+  - 截图路径：assets/screenshots/jingui/0297.webp
 - `62:22` [金匮要略、课程板书/实操] 满屏古文长条文：“青龙汤下已，多唾口燥，寸脉沉，尺脉微，手足厥逆...与茯苓桂枝五味甘草汤”
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略09/62_22_满屏古文长条文：“青龙汤下已，多唾口燥，寸脉沉，尺脉微，手足厥逆...与茯苓桂枝.jpg
+  - 截图路径：assets/screenshots/jingui/0298.webp
 - `64:24` [金匮要略、课程板书/实操] 板书手写人体躯干图，图解发汗剂（青龙汤）的作用路径：将肠胃的津液提取到皮肤表面散发，标注了“本虚之人”发汗过度的后果
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略09/64_24_板书手写人体躯干图，图解发汗剂（青龙汤）的作用路径：将肠胃的津液提取到皮肤表面散.jpg
+  - 截图路径：assets/screenshots/jingui/0299.webp
 - `65:41` [金匮要略、课程板书/实操] 黑板板书，左侧为中医古文经典条文（包含桂枝加厚朴杏子汤、小青龙汤及桂枝茯苓五味子汤的演变），右侧为讲者手绘的人体气机冲逆及阳气散失的路径示意图。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略09/65_41_黑板板书，左侧为中医古文经典条文（包含桂枝加厚朴杏子汤、小青龙汤及桂枝茯苓五味子.jpg
+  - 截图路径：assets/screenshots/jingui/0300.webp
 - `72:14` [金匮要略、课程板书/实操] 黑板板书，讲者在黑板右侧手绘人体胸腔示意图，标记了“咳”的位置，用于讲解冲气下降后寒饮停滞胸腔导致咳嗽加重的病机。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略09/72_14_黑板板书，讲者在黑板右侧手绘人体胸腔示意图，标记了“咳”的位置，用于讲解冲气下降.jpg
+  - 截图路径：assets/screenshots/jingui/0301.webp
 - `76:43` [金匮要略、课程板书/实操] 黑板满屏古文条文，详细记录了该病症的完整演变及加减法逻辑（清晰可见“去桂加干姜细辛”、“加半夏”、“加杏仁”、“形肿者，禁发汗”等核心诊疗条文）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略09/76_43_黑板满屏古文条文，详细记录了该病症的完整演变及加减法逻辑（清晰可见“去桂加干姜细.jpg
+  - 截图路径：assets/screenshots/jingui/0302.webp
 - `80:49` [金匮要略、课程板书/实操] 黑板展示经典条文：“先渴后呕，为水停心下，此属饮家，小半夏加茯苓汤主之。”用于讲解如何辨别体内有停水。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略09/80_49_**_黑板展示经典条文：“先渴后呕，为水停心下，此属饮家，小半夏加茯苓汤主之。”.jpg
+  - 截图路径：assets/screenshots/jingui/0303.webp
 - `85:34` [金匮要略、课程板书/实操] 黑板手绘“双杯水理论”示意图，对比满水杯与半满水杯在加入等量糖块后的浓度差异，直观解释中医治疗消渴（糖尿病）“补水稀释”的核心底层逻辑。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略09/85_34_**_黑板手绘“双杯水理论”示意图，对比满水杯与半满水杯在加入等量糖块后的浓度差.jpg
+  - 截图路径：assets/screenshots/jingui/0304.webp
 - `100:40` [金匮要略、课程板书/实操] ` 板书手写“三阳结 名为 消渴”，并画有胃和大肠的简图，解释中焦受热的机制。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略09/100_40_`_板书手写“三阳结_名为_消渴”，并画有胃和大肠的简图，解释中焦受热的机制。.jpg
+  - 截图路径：assets/screenshots/jingui/0305.webp
 - `101:23` [金匮要略、课程板书/实操] ` 黑板完整展示《金匮要略》条文“厥阴之为病，消渴，气上撞心，心中疼热...”，讲者正指点讲解。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略09/101_23_`_黑板完整展示《金匮要略》条文“厥阴之为病，消渴，气上撞心，心中疼热...”，.jpg
+  - 截图路径：assets/screenshots/jingui/0306.webp
 - `102:44` [金匮要略、课程板书/实操] ` 黑板展示条文“寸口脉浮而迟，浮即为虚，迟即为劳...趺阳脉浮而数...”，讲者正在讲解消渴的脉象机理。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略09/102_44_`_黑板展示条文“寸口脉浮而迟，浮即为虚，迟即为劳...趺阳脉浮而数...”，讲.jpg
+  - 截图路径：assets/screenshots/jingui/0307.webp
 - `105:03` [金匮要略、课程板书/实操] ` 板书手写“消渴分三：上、中、下”，讲者正在板书消渴的分类。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略09/105_03_`_板书手写“消渴分三：上、中、下”，讲者正在板书消渴的分类。.jpg
+  - 截图路径：assets/screenshots/jingui/0308.webp
 - `109:45` [金匮要略、课程板书/实操] 板书手写上消处方（白虎加人参汤）：石膏一两、知母五钱、甘草、粳米两钱、人参三钱。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略09/109_45_板书手写上消处方（白虎加人参汤）：石膏一两、知母五钱、甘草、粳米两钱、人参三钱。.jpg
+  - 截图路径：assets/screenshots/jingui/0309.webp
 - `110:34` [金匮要略、课程板书/实操] 板书列出多味生津止渴的替代中药：栝蒌根、竹茹、石斛、生地。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略09/110_34_板书列出多味生津止渴的替代中药：栝蒌根、竹茹、石斛、生地。.jpg
+  - 截图路径：assets/screenshots/jingui/0310.webp
 - `111:23` [金匮要略、课程板书/实操] 板书手写中消处方：在白虎汤基础上，加上大黄两钱、枳实、厚朴，用于清大肠热。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略09/111_23_板书手写中消处方：在白虎汤基础上，加上大黄两钱、枳实、厚朴，用于清大肠热。.jpg
+  - 截图路径：assets/screenshots/jingui/0311.webp
 - `114:43` [金匮要略、课程板书/实操] 板书画图展示中医对“淋病”的范围划分及分类：膏淋、沙淋、血淋。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略09/114_43_板书画图展示中医对“淋病”的范围划分及分类：膏淋、沙淋、血淋。.jpg
+  - 截图路径：assets/screenshots/jingui/0312.webp
 - `116:15` [金匮要略、课程板书/实操] 板书画图解释膀胱结石与尿道结石的痛点位置区别。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略09/116_15_板书画图解释膀胱结石与尿道结石的痛点位置区别。.jpg
+  - 截图路径：assets/screenshots/jingui/0313.webp
 
 ## 金匮要略10
 
 - `02:24` [金匮要略、课程板书/实操] 黑板显示条文：“趺阳脉数，胃中有热，即消谷引饮，大便必坚，小便即数。淋家不可发汗，发汗则便血。”
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略10/02_24_黑板显示条文：“趺阳脉数，胃中有热，即消谷引饮，大便必坚，小便即数。淋家不可发汗.jpg
+  - 截图路径：assets/screenshots/jingui/0314.webp
 - `05:07` [金匮要略、课程板书/实操] 黑板显示条文：“小便不利者，有水气，其人若渴，栝蒌瞿麦丸主之”及其配方明细（薯蓣、栝蒌根、茯苓、附子、瞿麦）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略10/05_07_黑板显示条文：“小便不利者，有水气，其人若渴，栝蒌瞿麦丸主之”及其配方明细（薯蓣.jpg
+  - 截图路径：assets/screenshots/jingui/0315.webp
 - `10:28` [金匮要略、课程板书/实操] 黑板显示条文：“小便不利，蒲灰散主之；滑石白鱼散、茯苓戎盐汤并主之”及各方剂的配方组成。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略10/10_28_黑板显示条文：“小便不利，蒲灰散主之；滑石白鱼散、茯苓戎盐汤并主之”及各方剂的配.jpg
+  - 截图路径：assets/screenshots/jingui/0316.webp
 - `17:05` [金匮要略、课程板书/实操] 黑板手写板书，列出“白虎加人参汤”的完整方剂组成：石膏、知母、甘草、粳米、人参。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略10/17_05_黑板手写板书，列出“白虎加人参汤”的完整方剂组成：石膏、知母、甘草、粳米、人参。.jpg
+  - 截图路径：assets/screenshots/jingui/0317.webp
 - `20:17` [金匮要略、课程板书/实操] 黑板手写板书，在原方剂旁追加了生津止渴的加减药：重用生地、栝蒌根（3钱、5钱）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略10/20_17_黑板手写板书，在原方剂旁追加了生津止渴的加减药：重用生地、栝蒌根（3钱、5钱）。.jpg
+  - 截图路径：assets/screenshots/jingui/0318.webp
 - `22:11` [金匮要略、课程板书/实操] 黑板手写板书，明确列出肾脏衰竭时的两个中医主症：“恶心”、“晕眩”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略10/22_11_黑板手写板书，明确列出肾脏衰竭时的两个中医主症：“恶心”、“晕眩”。.jpg
+  - 截图路径：assets/screenshots/jingui/0319.webp
 - `24:40` [金匮要略、课程板书/实操] 黑板手写板书，展示针对重症糖尿病的寒热并用处方逻辑：上方写“石膏”，下方写“炮附子”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略10/24_40_黑板手写板书，展示针对重症糖尿病的寒热并用处方逻辑：上方写“石膏”，下方写“炮附.jpg
+  - 截图路径：assets/screenshots/jingui/0320.webp
 - `26:02` [金匮要略、课程板书/实操] 黑板手绘人体躯干简图，明确标注上半身“热”与下半身“寒”的病理分布区。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略10/26_02_黑板手绘人体躯干简图，明确标注上半身“热”与下半身“寒”的病理分布区。.jpg
+  - 截图路径：assets/screenshots/jingui/0321.webp
 - `39:20` [金匮要略、课程板书/实操] 讲者在黑板上写满并标注了针对“上热下寒”及多种并发症的中药处方加减法，包括“半夏、生姜、干姜”（治呕），“白术、茯苓”（治水肿），“黄连、黄芩”（解毒入心），“
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略10/39_20_讲者在黑板上写满并标注了针对“上热下寒”及多种并发症的中药处方加减法，包括“半夏.jpg
+  - 截图路径：assets/screenshots/jingui/0322.webp
 - `43:23` [金匮要略、课程板书/实操] 投影画面：展示了猪苓汤的条文“脉浮发热，渴欲饮水，小便不利者，猪苓汤主之”，以及猪苓汤的方剂组成（猪苓、茯苓、泽泻、阿胶、滑石）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略10/43_23_**_投影画面：展示了猪苓汤的条文“脉浮发热，渴欲饮水，小便不利者，猪苓汤主之”.jpg
+  - 截图路径：assets/screenshots/jingui/0323.webp
 - `47:36` [金匮要略、课程板书/实操] 黑板板书：讲者在黑板上明确写出“饮病 -> 内发”（生活习惯引起）与“水病 -> 外来”（表证失治引起）的核心对比逻辑。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略10/47_36_**_黑板板书：讲者在黑板上明确写出“饮病_->_内发”（生活习惯引起）与“水病.jpg
+  - 截图路径：assets/screenshots/jingui/0324.webp
 - `48:21` [金匮要略、课程板书/实操] 投影画面：展示水气病分类的核心条文“病有风水，有皮水，有正水，有石水，有黄汗”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略10/48_21_**_投影画面：展示水气病分类的核心条文“病有风水，有皮水，有正水，有石水，有黄.jpg
+  - 截图路径：assets/screenshots/jingui/0325.webp
 - `50:03` [金匮要略、课程板书/实操] 投影画面：展示“皮水”的具体症状条文，包括“其脉亦浮，外证胕肿，按之没指，不恶风，其腹如鼓...”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略10/50_03_**_投影画面：展示“皮水”的具体症状条文，包括“其脉亦浮，外证胕肿，按之没指，.jpg
+  - 截图路径：assets/screenshots/jingui/0326.webp
 - `56:39` [金匮要略、课程板书/实操] 板书手写图解人体汗水来源，绘制了肺（主皮毛）、心、胃、小肠的脏腑结构及水分气化上升的路径箭头。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略10/56_39_板书手写图解人体汗水来源，绘制了肺（主皮毛）、心、胃、小肠的脏腑结构及水分气化上.jpg
+  - 截图路径：assets/screenshots/jingui/0327.webp
 - `61:24` [金匮要略、课程板书/实操] 满屏文言文条文，包含“脉浮而洪...浮则为风，洪则为气...风强则为瘾疹，身体为痒...”等经典原文。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略10/61_24_满屏文言文条文，包含“脉浮而洪...浮则为风，洪则为气...风强则为瘾疹，身体为.jpg
+  - 截图路径：assets/screenshots/jingui/0328.webp
 - `63:59` [金匮要略、课程板书/实操] 板书手写人体内部脏腑水分循环结构图，详细标注了水从大肠气化回肺，以及从胃进入三焦系统的两条不同津液转化路径。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略10/63_59_板书手写人体内部脏腑水分循环结构图，详细标注了水从大肠气化回肺，以及从胃进入三焦.jpg
+  - 截图路径：assets/screenshots/jingui/0329.webp
 - `66:55` [金匮要略、课程板书/实操] 黑板手绘人体上焦图，讲解肺寒导致津液无法进入而吐涎沫的“黄汗”病理机制
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略10/66_55_黑板手绘人体上焦图，讲解肺寒导致津液无法进入而吐涎沫的“黄汗”病理机制.jpg
+  - 截图路径：assets/screenshots/jingui/0330.webp
 - `68:52` [金匮要略、课程板书/实操] 黑板手绘眼睛与眼袋图，配合板书讲解脾（土）不能克水导致眼袋肥大的望诊原理
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略10/68_52_黑板手绘眼睛与眼袋图，配合板书讲解脾（土）不能克水导致眼袋肥大的望诊原理.jpg
+  - 截图路径：assets/screenshots/jingui/0331.webp
 - `70:31` [金匮要略、课程板书/实操] 黑板手写板书“越婢汤”的完整方剂组成（麻黄、石膏、生姜、甘草、大枣）
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略10/70_31_黑板手写板书“越婢汤”的完整方剂组成（麻黄、石膏、生姜、甘草、大枣）.jpg
+  - 截图路径：assets/screenshots/jingui/0332.webp
 - `76:18` [金匮要略、课程板书/实操] 黑板手绘阴阳交替模型图，板书标注“黄昏-阳入阴”、“清晨-阳出阴”，解释三焦积水导致失眠的机制
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略10/76_18_黑板手绘阴阳交替模型图，板书标注“黄昏-阳入阴”、“清晨-阳出阴”，解释三焦积水.jpg
+  - 截图路径：assets/screenshots/jingui/0333.webp
 - `81:20` [金匮要略、课程板书/实操] 满屏黑板PPT文字，展示经典条文：“里水者，一身面目黄肿，其脉沉，小便不利，故令病水...”，讲者正在对“里水”的症状进行逐句解析。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略10/81_20_**_满屏黑板PPT文字，展示经典条文：“里水者，一身面目黄肿，其脉沉，小便不利.jpg
+  - 截图路径：assets/screenshots/jingui/0334.webp
 - `84:15` [金匮要略、课程板书/实操] 满屏黑板PPT文字，展示经典条文：“趺阳脉当伏，今反紧，本自有寒，疝瘕，腹中痛...”，用于讲解趺阳脉反紧代表寒湿及其误治后果。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略10/84_15_**_满屏黑板PPT文字，展示经典条文：“趺阳脉当伏，今反紧，本自有寒，疝瘕，腹.jpg
+  - 截图路径：assets/screenshots/jingui/0335.webp
 - `87:00` [金匮要略、课程板书/实操] 黑板手绘图，讲者画出了人体躯干、横膈膜与下焦“关元”的位置，并配有“吸气”、“吐气”字样，直观解释了“误攻下”后元气下坠导致横膈膜无法下降、引发“短气”的
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略10/87_00_**_黑板手绘图，讲者画出了人体躯干、横膈膜与下焦“关元”的位置，并配有“吸气”.jpg
+  - 截图路径：assets/screenshots/jingui/0336.webp
 - `89:17` [金匮要略、课程板书/实操] 满屏黑板PPT文字，展示经典条文：“寸口脉浮而迟，浮脉则热，迟脉则潜...”，讲者正在讲解阳气不足导致水肿的段落。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略10/89_17_**_满屏黑板PPT文字，展示经典条文：“寸口脉浮而迟，浮脉则热，迟脉则潜....jpg
+  - 截图路径：assets/screenshots/jingui/0337.webp
 - `92:12` [金匮要略、课程板书/实操] 板书满屏文字，讲解“脉沉紧”与少阴病、水病（水走肠间、水走阳间）的对应关系及脉象断病法。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略10/92_12_**_板书满屏文字，讲解“脉沉紧”与少阴病、水病（水走肠间、水走阳间）的对应关系.jpg
+  - 截图路径：assets/screenshots/jingui/0338.webp
 - `94:14` [金匮要略、课程板书/实操] 板书满屏文字，列出人体积水水病的四大典型症状：目下有卧蚕、面目鲜泽、脉沉伏、消渴。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略10/94_14_**_板书满屏文字，列出人体积水水病的四大典型症状：目下有卧蚕、面目鲜泽、脉沉伏.jpg
+  - 截图路径：assets/screenshots/jingui/0339.webp
 - `96:00` [金匮要略、课程板书/实操] 板书满屏文字，详细展示下利后饮水、小便不利、腹满阴肿等水病发展过程的经典条文。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略10/96_00_**_板书满屏文字，详细展示下利后饮水、小便不利、腹满阴肿等水病发展过程的经典条.jpg
+  - 截图路径：assets/screenshots/jingui/0340.webp
 - `97:09` [金匮要略、课程板书/实操] 板书满屏文字，横向并列对比了心、肝、肺、脾、肾五脏水病的具体症状特征。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略10/97_09_**_板书满屏文字，横向并列对比了心、肝、肺、脾、肾五脏水病的具体症状特征。.jpg
+  - 截图路径：assets/screenshots/jingui/0341.webp
 - `103:42` [金匮要略、课程板书/实操] 板书手写人体气机升降图解，重点画出了心火下行至小肠、肾水循督脉上济至脑部的循环路径，图解心源性脚肿和肾源性脸肿的病理机制。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略10/103_42_**_板书手写人体气机升降图解，重点画出了心火下行至小肠、肾水循督脉上济至脑部的.jpg
+  - 截图路径：assets/screenshots/jingui/0342.webp
 - `107:07` [金匮要略、课程板书/实操] 板书手写心、心包、肝、胆的解剖位置与生理神经联动图解
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略10/107_07_板书手写心、心包、肝、胆的解剖位置与生理神经联动图解.jpg
+  - 截图路径：assets/screenshots/jingui/0343.webp
 - `109:50` [金匮要略、课程板书/实操] 满屏板书《金匮要略》治水原则原文（腰以下肿...腰以上肿...）
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略10/109_50_满屏板书《金匮要略》治水原则原文（腰以下肿...腰以上肿...）.jpg
+  - 截图路径：assets/screenshots/jingui/0344.webp
 - `111:07` [金匮要略、课程板书/实操] 板书列出“生硫磺”的两大核心临床应用场景（1. 全身性水肿；2. 小便不出来）
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略10/111_07_板书列出“生硫磺”的两大核心临床应用场景（1._全身性水肿；2._小便不出来）.jpg
+  - 截图路径：assets/screenshots/jingui/0345.webp
 - `113:10` [金匮要略、课程板书/实操] 满屏板书中医脉象与水病辨证经典原文，讲者正在进行逐字解读与纠错
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略10/113_10_满屏板书中医脉象与水病辨证经典原文，讲者正在进行逐字解读与纠错.jpg
+  - 截图路径：assets/screenshots/jingui/0346.webp
 
 ## 金匮要略11
 
 - `05:07` [金匮要略、课程板书/实操] ` 板书画了完整的人体水液代谢路径图，标注了胃、小肠、大肠、肺及水分气化流转的方向。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略11/05_07_`_板书画了完整的人体水液代谢路径图，标注了胃、小肠、大肠、肺及水分气化流转的方.jpg
+  - 截图路径：assets/screenshots/jingui/0347.webp
 - `08:12` [金匮要略、课程板书/实操] ` 板书列出了针对“水与寒结合”所致肿瘤的具体拆解用药思路，写有“茯苓、桂枝、丹皮、桃仁、白芍”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略11/08_12_`_板书列出了针对“水与寒结合”所致肿瘤的具体拆解用药思路，写有“茯苓、桂枝、丹.jpg
+  - 截图路径：assets/screenshots/jingui/0348.webp
 - `14:41` [金匮要略、课程板书/实操] 满屏板书文言文，讲者在讲解“水病”与“血分”的先后逻辑，并用箭头标注了水寒结合导致瘀血停滞的机理。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略11/14_41_**_满屏板书文言文，讲者在讲解“水病”与“血分”的先后逻辑，并用箭头标注了水寒.jpg
+  - 截图路径：assets/screenshots/jingui/0349.webp
 - `18:30` [金匮要略、课程板书/实操] 板书手写人体躯干经络示意图，重点标记了肚脐下三寸“关元穴”（小肠火所在），以及肾脏津液沿着背后督脉入脑、沿着胸前冲脉上行至喉咙的路径模型。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略11/18_30_**_板书手写人体躯干经络示意图，重点标记了肚脐下三寸“关元穴”（小肠火所在），.jpg
+  - 截图路径：assets/screenshots/jingui/0350.webp
 - `25:48` [金匮要略、课程板书/实操] 黑板左侧展示两首经方应用场景，右侧板书写明了“防己黄芪汤”的具体药材组成：防己、黄芪、白术、炙甘草（讲者口述纠正为炙甘草）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略11/25_48_**_黑板左侧展示两首经方应用场景，右侧板书写明了“防己黄芪汤”的具体药材组成：.jpg
+  - 截图路径：assets/screenshots/jingui/0351.webp
 - `26:15` [金匮要略、课程板书/实操] ` 板书防己黄芪汤的配方与剂量（防己一两、黄芪一两、白术五钱、甘草五钱）
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略11/26_15_`_板书防己黄芪汤的配方与剂量（防己一两、黄芪一两、白术五钱、甘草五钱）.jpg
+  - 截图路径：assets/screenshots/jingui/0352.webp
 - `28:56` [金匮要略、课程板书/实操] ` 板书讲解防己与茯苓在三焦系统中的药理作用路径
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略11/28_56_`_板书讲解防己与茯苓在三焦系统中的药理作用路径.jpg
+  - 截图路径：assets/screenshots/jingui/0353.webp
 - `31:10` [金匮要略、课程板书/实操] ` 板书治疗淋巴硬块的加减用药，标注了牡蛎及“咸能软坚”的理论
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略11/31_10_`_板书治疗淋巴硬块的加减用药，标注了牡蛎及“咸能软坚”的理论.jpg
+  - 截图路径：assets/screenshots/jingui/0354.webp
 - `33:29` [金匮要略、课程板书/实操] ` 画面左侧投影显示《金匮要略》条文：“风水，恶风，一身悉肿，脉浮不渴，续自汗出，无大热，越婢汤主之”
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略11/33_29_`_画面左侧投影显示《金匮要略》条文：“风水，恶风，一身悉肿，脉浮不渴，续自汗出.jpg
+  - 截图路径：assets/screenshots/jingui/0355.webp
 - `36:23` [金匮要略、课程板书/实操] ` 画面左侧投影显示《金匮要略》皮水证条文：“皮水为病，四肢肿...四肢聂聂动者，防己茯苓汤主之”
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略11/36_23_`_画面左侧投影显示《金匮要略》皮水证条文：“皮水为病，四肢肿...四肢聂聂动者.jpg
+  - 截图路径：assets/screenshots/jingui/0356.webp
 - `37:58` [金匮要略、课程板书/实操] ` 板书画图讲解防己茯苓汤中“桂枝”的行阳路线（心火导入小肠）
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略11/37_58_`_板书画图讲解防己茯苓汤中“桂枝”的行阳路线（心火导入小肠）.jpg
+  - 截图路径：assets/screenshots/jingui/0357.webp
 - `39:11` [金匮要略、课程板书/实操] ` 板书《金匮要略》防己茯苓汤的原文及处方剂量（防己、黄芪、桂枝、茯苓）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略11/39_11_`_板书《金匮要略》防己茯苓汤的原文及处方剂量（防己、黄芪、桂枝、茯苓）。.jpg
+  - 截图路径：assets/screenshots/jingui/0358.webp
 - `43:33` [金匮要略、课程板书/实操] ` 板书越婢加术汤与甘草麻黄汤的处方、剂量比例，以及水病相关的核心辨证条文“水之为病，其脉沉小...”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略11/43_33_`_板书越婢加术汤与甘草麻黄汤的处方、剂量比例，以及水病相关的核心辨证条文“水之.jpg
+  - 截图路径：assets/screenshots/jingui/0359.webp
 - `48:01` [金匮要略、课程板书/实操] ` 板书“厥而皮水者，蒲灰散主之”的条文。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略11/48_01_`_板书“厥而皮水者，蒲灰散主之”的条文。.jpg
+  - 截图路径：assets/screenshots/jingui/0360.webp
 - `49:26` [金匮要略、课程板书/实操] ` 板书黄汗病的经典症状描述原文“黄汗之为病，身体肿，发热汗出而渴...”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略11/49_26_`_板书黄汗病的经典症状描述原文“黄汗之为病，身体肿，发热汗出而渴...”。.jpg
+  - 截图路径：assets/screenshots/jingui/0361.webp
 - `50:39` [金匮要略、课程板书/实操] ` 板书治疗黄汗的“黄芪芍药桂枝苦酒汤”处方、剂量及具体条文。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略11/50_39_`_板书治疗黄汗的“黄芪芍药桂枝苦酒汤”处方、剂量及具体条文。.jpg
+  - 截图路径：assets/screenshots/jingui/0362.webp
 - `52:14` [金匮要略、课程板书/实操] ` 黑板满屏展示“黄芪芍药桂枝苦酒汤”的经典条文及处方构成。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略11/52_14_`_黑板满屏展示“黄芪芍药桂枝苦酒汤”的经典条文及处方构成。.jpg
+  - 截图路径：assets/screenshots/jingui/0363.webp
 - `55:09` [金匮要略、课程板书/实操] ` 黑板满屏展示黄汗实证病理及具体症状的经典古文条文（“黄汗之为病，两胫自冷...”）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略11/55_09_`_黑板满屏展示黄汗实证病理及具体症状的经典古文条文（“黄汗之为病，两胫自冷...jpg
+  - 截图路径：assets/screenshots/jingui/0364.webp
 - `60:05` [金匮要略、课程板书/实操] ` 黑板满屏展示“桂枝加黄芪汤”的处方组成与煎服法古文。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略11/60_05_`_黑板满屏展示“桂枝加黄芪汤”的处方组成与煎服法古文。.jpg
+  - 截图路径：assets/screenshots/jingui/0365.webp
 - `61:51` [金匮要略、课程板书/实操] ` 黑板满屏展示关于脉象与“气分”的经典条文（“师曰：寸口脉迟而涩...”）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略11/61_51_`_黑板满屏展示关于脉象与“气分”的经典条文（“师曰：寸口脉迟而涩...”）。.jpg
+  - 截图路径：assets/screenshots/jingui/0366.webp
 - `64:01` [金匮要略、课程板书/实操] ` 黑板上手绘人体躯干与阴阳气血运行的“8”字型交汇路线图（以肚脐为交汇点），并标注了阴阳走向。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略11/64_01_`_黑板上手绘人体躯干与阴阳气血运行的“8”字型交汇路线图（以肚脐为交汇点），并.jpg
+  - 截图路径：assets/screenshots/jingui/0367.webp
 - `67:18` [金匮要略、课程板书/实操] ` 黑板上手绘人体脏腑气机运行图，详细图解了“胃、肺寒冷 -> 水无法化为气 -> 水饮停滞”的病理过程。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略11/67_18_`_黑板上手绘人体脏腑气机运行图，详细图解了“胃、肺寒冷_->_水无法化为气_-.jpg
+  - 截图路径：assets/screenshots/jingui/0368.webp
 - `71:55` [金匮要略、课程板书/实操] ` 黑板全屏展示经典条文：“气分，心下坚大如盘，边如旋盘，桂甘姜枣麻辛附子汤主之”，讲者正结合板书讲解气分病用阳药的逻辑。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略11/71_55_`_黑板全屏展示经典条文：“气分，心下坚大如盘，边如旋盘，桂甘姜枣麻辛附子汤主之.jpg
+  - 截图路径：assets/screenshots/jingui/0369.webp
 - `75:10` [金匮要略、课程板书/实操] ` 黑板展示对比条文：“心下坚大如盘，边如旋盘，水饮所作，枳术汤主之”，进行相似病症的鉴别教学。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略11/75_10_`_黑板展示对比条文：“心下坚大如盘，边如旋盘，水饮所作，枳术汤主之”，进行相似.jpg
+  - 截图路径：assets/screenshots/jingui/0370.webp
 - `77:04` [金匮要略、课程板书/实操] ` 板书手写解析脾胃表里关系及枳术汤机理，明确标注了“脾（白术去湿）”与“胃（枳实排浊水）”的靶向作用。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略11/77_04_`_板书手写解析脾胃表里关系及枳术汤机理，明确标注了“脾（白术去湿）”与“胃（枳.jpg
+  - 截图路径：assets/screenshots/jingui/0371.webp
 - `79:32` [金匮要略、课程板书/实操] 板书手写阴阳气血的分布，以及气分（寒、实）与内脏血分（阴、实）的概念图解。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略11/79_32_板书手写阴阳气血的分布，以及气分（寒、实）与内脏血分（阴、实）的概念图解。.jpg
+  - 截图路径：assets/screenshots/jingui/0372.webp
 - `83:09` [金匮要略、课程板书/实操] 板书手写推导心脏积水（心水）的处方用药：茯苓、桂枝、防己、杏仁、白术、黄芪。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略11/83_09_板书手写推导心脏积水（心水）的处方用药：茯苓、桂枝、防己、杏仁、白术、黄芪。.jpg
+  - 截图路径：assets/screenshots/jingui/0373.webp
 - `85:09` [金匮要略、课程板书/实操] 板书手写肝脏积水（肝水）的病理机制图，标注了肝、脾、小肠之间的木克土及水液回流关系。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略11/85_09_板书手写肝脏积水（肝水）的病理机制图，标注了肝、脾、小肠之间的木克土及水液回流关.jpg
+  - 截图路径：assets/screenshots/jingui/0374.webp
 - `89:12` [金匮要略、课程板书/实操] 板书手写“肺家的阴实”及肺积水（肺水）的脏腑位置及水液累积路径图解。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略11/89_12_板书手写“肺家的阴实”及肺积水（肺水）的脏腑位置及水液累积路径图解。.jpg
+  - 截图路径：assets/screenshots/jingui/0375.webp
 - `94:24` [金匮要略、课程板书/实操] 板书人体躯干解剖图，明确标注了“少腹”的位置，并圈出中医的“脾”与西医“胰”脏的对应关系。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略11/94_24_**_板书人体躯干解剖图，明确标注了“少腹”的位置，并圈出中医的“脾”与西医“胰.jpg
+  - 截图路径：assets/screenshots/jingui/0376.webp
 - `97:49` [金匮要略、课程板书/实操] 板书肾脏与命门火的图解，画箭头展示了肾水经命门火气化直冲脑部，以及经过颈部（冷凝管）降温的生理路径。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略11/97_49_**_板书肾脏与命门火的图解，画箭头展示了肾水经命门火气化直冲脑部，以及经过颈部.jpg
+  - 截图路径：assets/screenshots/jingui/0377.webp
 - `99:50` [金匮要略、课程板书/实操] 板书写下“硫磺”及道家“金液丹”，配合人体内脏图解，讲解硫磺入三焦和命门火的药理。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略11/99_50_**_板书写下“硫磺”及道家“金液丹”，配合人体内脏图解，讲解硫磺入三焦和命门火.jpg
+  - 截图路径：assets/screenshots/jingui/0378.webp
 - `104:11` [金匮要略、课程板书/实操] 满屏板书处方，右侧写明治疗“肝家阴实”的配伍逻辑：去阴阳药（生附子、硫磺、桂枝）+ 去实药（炙鳖甲、茜草、川芎）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略11/104_11_**_满屏板书处方，右侧写明治疗“肝家阴实”的配伍逻辑：去阴阳药（生附子、硫磺、.jpg
+  - 截图路径：assets/screenshots/jingui/0379.webp
 - `106:59` [金匮要略、课程板书/实操] 板书画图讲解“阳能入阴”的正常生理机制，以及当体内出现“阴实”时，阳气无法入阴而逆流产生热的病理过程。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略11/106_59_板书画图讲解“阳能入阴”的正常生理机制，以及当体内出现“阴实”时，阳气无法入阴而.jpg
+  - 截图路径：assets/screenshots/jingui/0380.webp
 - `108:49` [金匮要略、课程板书/实操] 板书列出治疗肝病初期的轻剂药方，包括柴胡、黄芩、玉金，并特别批注了玉金“去血中热”的功效。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略11/108_49_板书列出治疗肝病初期的轻剂药方，包括柴胡、黄芩、玉金，并特别批注了玉金“去血中热.jpg
+  - 截图路径：assets/screenshots/jingui/0381.webp
 - `111:44` [金匮要略、课程板书/实操] 板书展示完整的攻养同用基础方，列出川芎、丹皮、白芍、茵陈等，以及用于固护胃气的炙甘草、大枣、生姜。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略11/111_44_板书展示完整的攻养同用基础方，列出川芎、丹皮、白芍、茵陈等，以及用于固护胃气的炙.jpg
+  - 截图路径：assets/screenshots/jingui/0382.webp
 - `114:44` [金匮要略、课程板书/实操] 板书对比“半夏”与“吴茱萸”在治疗恶心呕吐时的不同应用指征，标注了弦脉、胃寒等关键辨证条件。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略11/114_44_板书对比“半夏”与“吴茱萸”在治疗恶心呕吐时的不同应用指征，标注了弦脉、胃寒等关.jpg
+  - 截图路径：assets/screenshots/jingui/0383.webp
 
 ## 金匮要略12
 
 - `12:00` [金匮要略、课程板书/实操] 黑板左侧满屏展示《金匮要略》黄疸病的经典文言文条文，右侧为讲者手写的核心病机板书，包含“黄疸成因：1.外来 2.内发”、“胃过快、脾过慢”、“湿”，以及脾（土）
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略12/12_00_黑板左侧满屏展示《金匮要略》黄疸病的经典文言文条文，右侧为讲者手写的核心病机板书.jpg
+  - 截图路径：assets/screenshots/jingui/0384.webp
 - `14:34` [金匮要略、课程板书/实操] 黑板左侧展示经典条文“……额上黑，微汗出，手足中热……”，右侧为讲者手绘的胃、小肠、膀胱解剖及浊水下流的病理推导图解。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略12/14_34_**_黑板左侧展示经典条文“……额上黑，微汗出，手足中热……”，右侧为讲者手绘的.jpg
+  - 截图路径：assets/screenshots/jingui/0385.webp
 - `20:44` [金匮要略、课程板书/实操] 满屏板书展示条文：“阳明病，脉迟，食难用饱，饱则微烦头眩，必小便难，此欲作谷疸……”，讲者正在讲解脉迟与脾脏蠕动的关系。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略12/20_44_**_满屏板书展示条文：“阳明病，脉迟，食难用饱，饱则微烦头眩，必小便难，此欲作.jpg
+  - 截图路径：assets/screenshots/jingui/0386.webp
 - `26:15` [金匮要略、课程板书/实操] 板书展示“酒疸，下之，久久为黑疸，目青面黑……”条文，右侧为讲者手绘的人脸图，明确标注了“目青”是指眼眶周围发黑而非眼球发黑。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略12/26_15_**_板书展示“酒疸，下之，久久为黑疸，目青面黑……”条文，右侧为讲者手绘的人脸.jpg
+  - 截图路径：assets/screenshots/jingui/0387.webp
 - `26:18` [金匮要略、课程板书/实操] ` 板书手写《金匮要略》条文：“心中如啖蒜，大便正黑，皮肤爪之不仁...”及面部穴位图。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略12/26_18_`_板书手写《金匮要略》条文：“心中如啖蒜，大便正黑，皮肤爪之不仁...”及面部.jpg
+  - 截图路径：assets/screenshots/jingui/0388.webp
 - `30:01` [金匮要略、课程板书/实操] ` 板书手写经典条文：“病黄疸，发热烦喘，胸满口燥者，以病发时火劫其汗...”
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略12/30_01_`_板书手写经典条文：“病黄疸，发热烦喘，胸满口燥者，以病发时火劫其汗...”.jpg
+  - 截图路径：assets/screenshots/jingui/0389.webp
 - `34:17` [金匮要略、课程板书/实操] ` 板书手写黄疸预后条文：“黄疸之病，当以十八日为期，治之十日以上瘥...”
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略12/34_17_`_板书手写黄疸预后条文：“黄疸之病，当以十八日为期，治之十日以上瘥...”.jpg
+  - 截图路径：assets/screenshots/jingui/0390.webp
 - `37:42` [金匮要略、课程板书/实操] ` 板书手写多首经方名称及条文：“茵陈蒿汤方”、“茵陈五苓散”及“谷疸之病，寒热不食...”
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略12/37_42_`_板书手写多首经方名称及条文：“茵陈蒿汤方”、“茵陈五苓散”及“谷疸之病，寒热.jpg
+  - 截图路径：assets/screenshots/jingui/0391.webp
 - `39:14` [金匮要略、课程板书/实操] ` 板书手写绘制的肝脏、胆囊及总胆管解剖示意图，用于讲解胆囊堵塞与手术风险。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略12/39_14_`_板书手写绘制的肝脏、胆囊及总胆管解剖示意图，用于讲解胆囊堵塞与手术风险。.jpg
+  - 截图路径：assets/screenshots/jingui/0392.webp
 - `46:28` [金匮要略、课程板书/实操] 黑板手写板书，展示了“茵陈蒿汤”的重剂处方比例（茵陈一两、栀子六钱、大黄二钱）及针对中等体型的剂量调整写法。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略12/46_28_黑板手写板书，展示了“茵陈蒿汤”的重剂处方比例（茵陈一两、栀子六钱、大黄二钱）及.jpg
+  - 截图路径：assets/screenshots/jingui/0393.webp
 - `47:39` [金匮要略、课程板书/实操] 满屏投影古籍原文，内容为关于“黄家”发热症状及“茵陈蒿汤主之”的经典条文描述。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略12/47_39_满屏投影古籍原文，内容为关于“黄家”发热症状及“茵陈蒿汤主之”的经典条文描述。.jpg
+  - 截图路径：assets/screenshots/jingui/0394.webp
 - `49:11` [金匮要略、课程板书/实操] 满屏投影古籍原文，内容为“黄家”日晡发热、女劳得之（黑疸）的症状描述，以及“硝石矾石散”的主治条文。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略12/49_11_满屏投影古籍原文，内容为“黄家”日晡发热、女劳得之（黑疸）的症状描述，以及“硝石.jpg
+  - 截图路径：assets/screenshots/jingui/0395.webp
 - `50:49` [金匮要略、课程板书/实操] 黑板手写板书，解析“硝石矾石散”的药理，明确标注了“火硝石 - 攻瘀血”与“矾石 - 去湿”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略12/50_49_黑板手写板书，解析“硝石矾石散”的药理，明确标注了“火硝石_-_攻瘀血”与“矾石.jpg
+  - 截图路径：assets/screenshots/jingui/0396.webp
 - `54:16` [金匮要略、课程板书/实操] 板书手写方剂：栀子大黄汤的具体药物及参考剂量（栀子5钱，大黄3钱，枳实5钱，豉3钱）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略12/54_16_板书手写方剂：栀子大黄汤的具体药物及参考剂量（栀子5钱，大黄3钱，枳实5钱，豉3.jpg
+  - 截图路径：assets/screenshots/jingui/0397.webp
 - `54:54` [金匮要略、课程板书/实操] 板书笔记：详细标注了栀子大黄汤中各味药的作用靶点（栀子去肝胆热、豉去胃热、大黄去实、枳实去湿）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略12/54_54_板书笔记：详细标注了栀子大黄汤中各味药的作用靶点（栀子去肝胆热、豉去胃热、大黄去.jpg
+  - 截图路径：assets/screenshots/jingui/0398.webp
 - `56:19` [金匮要略、课程板书/实操] 满屏板书与原文：展示《金匮要略》关于治黄大原则的条文“诸病黄家，但利其小便，假令脉浮，当以汗解之...”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略12/56_19_满屏板书与原文：展示《金匮要略》关于治黄大原则的条文“诸病黄家，但利其小便，假令.jpg
+  - 截图路径：assets/screenshots/jingui/0399.webp
 - `59:16` [金匮要略、课程板书/实操] 板书总结：列出需要使用“猪膏发煎”的两个极其具体的临床症状指标：“大便黑”与“肌肤甲错”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略12/59_16_板书总结：列出需要使用“猪膏发煎”的两个极其具体的临床症状指标：“大便黑”与“肌.jpg
+  - 截图路径：assets/screenshots/jingui/0400.webp
 - `60:25` [金匮要略、课程板书/实操] 板书推导：写出中医理论“发为血之余”，并引申出头发入药的核心作用是“活血、攻瘀”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略12/60_25_板书推导：写出中医理论“发为血之余”，并引申出头发入药的核心作用是“活血、攻瘀”.jpg
+  - 截图路径：assets/screenshots/jingui/0401.webp
 - `63:20` [金匮要略、课程板书/实操] 满屏板书与原文：展示“黄疸，腹满，小便不利而赤...”条文及大黄硝石汤的方剂组成。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略12/63_20_满屏板书与原文：展示“黄疸，腹满，小便不利而赤...”条文及大黄硝石汤的方剂组成.jpg
+  - 截图路径：assets/screenshots/jingui/0402.webp
 - `64:54` [金匮要略、课程板书/实操] 板书归纳：老师在黑板右侧列出黄柏、茵陈、栀子、黄芩、柏子仁五味药，并逐一讲解对应治疗的脏器部位。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略12/64_54_板书归纳：老师在黑板右侧列出黄柏、茵陈、栀子、黄芩、柏子仁五味药，并逐一讲解对应.jpg
+  - 截图路径：assets/screenshots/jingui/0403.webp
 - `72:19` [金匮要略、课程板书/实操] 黑板左侧展示经典条文及“大黄硝石汤”配方，右侧讲者画图讲解胆管结石阻塞的生理位置，画面文字信息密集。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略12/72_19_黑板左侧展示经典条文及“大黄硝石汤”配方，右侧讲者画图讲解胆管结石阻塞的生理位置.jpg
+  - 截图路径：assets/screenshots/jingui/0404.webp
 - `74:01` [金匮要略、课程板书/实操] 黑板展示经典条文“黄疸病，小便色不变，欲自利，腹满而喘，不可除热，热除必哕...小半夏汤主之”，讲者正在依据条文讲解误用寒凉药导致打嗝的病理。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略12/74_01_黑板展示经典条文“黄疸病，小便色不变，欲自利，腹满而喘，不可除热，热除必哕....jpg
+  - 截图路径：assets/screenshots/jingui/0405.webp
 - `78:09` [金匮要略、课程板书/实操] 黑板右侧展示完整的“小柴胡汤”手写配方及剂量（柴胡、半夏、黄芩、党参、炙甘草、生姜、大枣），旁边画有代表“胸胁苦满”的腹部图示。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略12/78_09_黑板右侧展示完整的“小柴胡汤”手写配方及剂量（柴胡、半夏、黄芩、党参、炙甘草、生.jpg
+  - 截图路径：assets/screenshots/jingui/0406.webp
 - `78:53` [金匮要略、课程板书/实操] 黑板在小柴胡汤的基础上，追加了急性肝炎及重症黄疸的加减用药（郁金、龙胆草、茵陈、大黄）及剂量，满屏核心处方干货。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略12/78_53_黑板在小柴胡汤的基础上，追加了急性肝炎及重症黄疸的加减用药（郁金、龙胆草、茵陈、.jpg
+  - 截图路径：assets/screenshots/jingui/0407.webp
 - `81:00` [金匮要略、课程板书/实操] ` 板书展示《金匮要略》条文“男子黄 小便自利 当与虚劳 小建中汤”，以及右侧黑板详细的小柴胡汤加减法板书（加吴茱萸、加大黄等）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略12/81_00_`_板书展示《金匮要略》条文“男子黄_小便自利_当与虚劳_小建中汤”，以及右侧黑.jpg
+  - 截图路径：assets/screenshots/jingui/0408.webp
 - `83:13` [金匮要略、课程板书/实操] ` 板书展示《金匮要略》第十六篇的章节标题及完整条文“寸口脉动而弱，动即为惊，弱即为悸...”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略12/83_13_`_板书展示《金匮要略》第十六篇的章节标题及完整条文“寸口脉动而弱，动即为惊，弱.jpg
+  - 截图路径：assets/screenshots/jingui/0409.webp
 - `87:48` [金匮要略、课程板书/实操] ` 板书展示关于各种出血症状的条文“病人面无血色，无寒热，脉沉弦者，衄... 烦咳者，必吐血”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略12/87_48_`_板书展示关于各种出血症状的条文“病人面无血色，无寒热，脉沉弦者，衄..._烦.jpg
+  - 截图路径：assets/screenshots/jingui/0410.webp
 - `89:24` [金匮要略、课程板书/实操] ` 讲者在黑板上画出“装水的袋子”的图示模型，用于比喻血管与阳气的关系，解释血管失去弹性导致破裂出血的机制。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略12/89_24_`_讲者在黑板上画出“装水的袋子”的图示模型，用于比喻血管与阳气的关系，解释血管.jpg
+  - 截图路径：assets/screenshots/jingui/0411.webp
 - `97:45` [金匮要略、课程板书/实操] 板书手绘人体阴阳与“上寒下热”分布图。画面清晰展示了代表上半身（心、肺）与下半身（小肠、大肠、肾脏、膀胱）的脏腑位置关系，并用箭头标注了热量向下传导至脚底
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略12/97_45_**_板书手绘人体阴阳与“上寒下热”分布图。画面清晰展示了代表上半身（心、肺）与.jpg
+  - 截图路径：assets/screenshots/jingui/0412.webp
 - `103:40` [金匮要略、课程板书/实操] 板书手绘面相图。讲者在黑板上画出人脸，并明确标记了“天仓”与“地仓（地库）”的具体位置，用于辅助讲解误汗导致阴极虚时的面部凹陷特征。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略12/103_40_**_板书手绘面相图。讲者在黑板上画出人脸，并明确标记了“天仓”与“地仓（地库）.jpg
+  - 截图路径：assets/screenshots/jingui/0413.webp
 - `107:03` [金匮要略、课程板书/实操] 黑板板书手腕部位寸、关、尺的正常脉象示意图，画出了桡动脉的起伏，用线条展示了寸部偏高、尺部偏低的倾斜状态。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略12/107_03_黑板板书手腕部位寸、关、尺的正常脉象示意图，画出了桡动脉的起伏，用线条展示了寸部.jpg
+  - 截图路径：assets/screenshots/jingui/0414.webp
 - `108:35` [金匮要略、课程板书/实操] 板书手写“五脏争血”的图示，以及像中空葱管一样的“芤脉”示意图。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略12/108_35_板书手写“五脏争血”的图示，以及像中空葱管一样的“芤脉”示意图。.jpg
+  - 截图路径：assets/screenshots/jingui/0415.webp
 - `113:11` [金匮要略、课程板书/实操] 黑板板书手绘人体局部特征图，包括一个标注了“齿痕”和“黑点”的舌头示意图，以及一个标注了左下腹痛点的人体腹部示意图，用于图解瘀血体征。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略12/113_11_黑板板书手绘人体局部特征图，包括一个标注了“齿痕”和“黑点”的舌头示意图，以及一.jpg
+  - 截图路径：assets/screenshots/jingui/0416.webp
 - `115:41` [金匮要略、课程板书/实操] 板书手写“瘀不去新不生”的核心理念，并在下方列出了攻瘀与补虚的开方比例（“3”和“7”，“1/2”和“1/2”）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略12/115_41_板书手写“瘀不去新不生”的核心理念，并在下方列出了攻瘀与补虚的开方比例（“3”和.jpg
+  - 截图路径：assets/screenshots/jingui/0417.webp
 
 ## 金匮要略13
 
 - `00:04` [金匮要略、课程板书/实操] 满屏黑板板书，古文记载“亡血不可发其表，汗出即寒栗而振”及瘀血相关条文。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略13/00_04_满屏黑板板书，古文记载“亡血不可发其表，汗出即寒栗而振”及瘀血相关条文。.jpg
+  - 截图路径：assets/screenshots/jingui/0418.webp
 - `03:31` [金匮要略、课程板书/实操] 黑板手写板书，列出体内伏邪的三种分类：1.伏饮；2.伏热；3.阴伏。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略13/03_31_黑板手写板书，列出体内伏邪的三种分类：1.伏饮；2.伏热；3.阴伏。.jpg
+  - 截图路径：assets/screenshots/jingui/0419.webp
 - `08:00` [金匮要略、课程板书/实操] 满屏黑板板书，展示“桂枝去芍药加蜀漆牡蛎龙骨救逆汤”的原方组成。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略13/08_00_满屏黑板板书，展示“桂枝去芍药加蜀漆牡蛎龙骨救逆汤”的原方组成。.jpg
+  - 截图路径：assets/screenshots/jingui/0420.webp
 - `13:00` [金匮要略、课程板书/实操] 黑板板书，讲者在原方旁手写标注现代临床替代用药（如常山代蜀漆）及具体剂量（如桂枝三钱、炙甘草两钱、龙骨四钱、常山三钱等）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略13/13_00_黑板板书，讲者在原方旁手写标注现代临床替代用药（如常山代蜀漆）及具体剂量（如桂枝.jpg
+  - 截图路径：assets/screenshots/jingui/0421.webp
 - `15:32` [金匮要略、课程板书/实操] 画面左侧出现《金匮要略》原文贴片“心下悸者，半夏麻黄丸主之”，包含完整配方比例（半夏、麻黄等分）及服用方法，配合老师的板书讲解。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略13/15_32_**_画面左侧出现《金匮要略》原文贴片“心下悸者，半夏麻黄丸主之”，包含完整配方.jpg
+  - 截图路径：assets/screenshots/jingui/0422.webp
 - `20:24` [金匮要略、课程板书/实操] 画面左侧出现《金匮要略》原文贴片“吐血不止者，柏叶汤主之”，包含完整方剂组成（柏叶、干姜、艾三把、马通汁一升）及煎煮服用方法。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略13/20_24_**_画面左侧出现《金匮要略》原文贴片“吐血不止者，柏叶汤主之”，包含完整方剂组.jpg
+  - 截图路径：assets/screenshots/jingui/0423.webp
 - `33:22` [金匮要略、课程板书/实操] 板书手写消化道解剖结构（喉、食道、胃），并标注了针对喉痹、痰水、虚热的对应中药（炮附子、半夏、栀子）及合并的“利膈汤”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略13/33_22_板书手写消化道解剖结构（喉、食道、胃），并标注了针对喉痹、痰水、虚热的对应中药（.jpg
+  - 截图路径：assets/screenshots/jingui/0424.webp
 - `38:33` [金匮要略、课程板书/实操] 满屏板书，左侧画图解释人工糖与咖啡导致细菌滋生、产生胃酸及胃溃疡的机理；右侧列出“黄土汤”及其相关中药药理（地黄补血、炮附子治胃寒等）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略13/38_33_满屏板书，左侧画图解释人工糖与咖啡导致细菌滋生、产生胃酸及胃溃疡的机理；右侧列出.jpg
+  - 截图路径：assets/screenshots/jingui/0425.webp
 - `40:16` [金匮要略、课程板书/实操] 板书手写人体器官图，明确标注了“黄芩（胃）”、“黄连（小肠）”、“黄柏（膀胱/水道）”各自的消炎作用部位及合并的“解毒汤”概念。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略13/40_16_板书手写人体器官图，明确标注了“黄芩（胃）”、“黄连（小肠）”、“黄柏（膀胱_水.jpg
+  - 截图路径：assets/screenshots/jingui/0426.webp
 - `39:28` [金匮要略、课程板书/实操] 黑板板书，左侧是黄土汤的方剂（甘草、干地黄、白术、附子、阿胶、黄芩、灶中黄土），右侧是胃部病理的图解和加减法
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略13/39_28_黑板板书，左侧是黄土汤的方剂（甘草、干地黄、白术、附子、阿胶、黄芩、灶中黄土），.jpg
+  - 截图路径：assets/screenshots/jingui/0427.webp
 - `45:47` [金匮要略、课程板书/实操] 满屏古文条文，显示了“下血，先便后血，此远血也，黄土汤主之”、“赤豆当归散”以及“泻心汤方”的条文及部分方剂成分
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略13/45_47_满屏古文条文，显示了“下血，先便后血，此远血也，黄土汤主之”、“赤豆当归散”以及.jpg
+  - 截图路径：assets/screenshots/jingui/0428.webp
 - `48:20` [金匮要略、课程板书/实操] 黑板板书，清晰讲解近血（内痔、外痔的症状区别）以及赤豆当归散的药理拆解（赤豆去湿热、当归润肠）
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略13/48_20_黑板板书，清晰讲解近血（内痔、外痔的症状区别）以及赤豆当归散的药理拆解（赤豆去湿.jpg
+  - 截图路径：assets/screenshots/jingui/0429.webp
 - `50:38` [金匮要略、课程板书/实操] 黑板板书，列出两种适用赤豆当归散（需发芽）的腹膜炎情况：胆破裂、阑尾破裂
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略13/50_38_黑板板书，列出两种适用赤豆当归散（需发芽）的腹膜炎情况：胆破裂、阑尾破裂.jpg
+  - 截图路径：assets/screenshots/jingui/0430.webp
 - `59:22` [金匮要略、课程板书/实操] 满屏文字，展示《呕吐下利病脉证治第十七》的部分原文，包括"呕家有痈脓"、"先呕却渴"、"先渴却呕"、"呕家本渴今反不渴"等关键条文。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略13/59_22_满屏文字，展示《呕吐下利病脉证治第十七》的部分原文，包括"呕家有痈脓"、"先呕却.jpg
+  - 截图路径：assets/screenshots/jingui/0431.webp
 - `63:02` [金匮要略、课程板书/实操] 满屏文字，展示《呕吐下利病脉证治》中关于胃中虚冷、误汗导致阳虚、脉象转为虚数及出现"胃反"现象的条文原文。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略13/63_02_满屏文字，展示《呕吐下利病脉证治》中关于胃中虚冷、误汗导致阳虚、脉象转为虚数及出.jpg
+  - 截图路径：assets/screenshots/jingui/0432.webp
 - `67:40` [金匮要略、课程板书/实操] ` 黑板板书展示中医经典条文，包含“寸口脉微，名曰无气...”等关于血虚脉象演变过程的详细论述。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略13/67_40_`_黑板板书展示中医经典条文，包含“寸口脉微，名曰无气...”等关于血虚脉象演变.jpg
+  - 截图路径：assets/screenshots/jingui/0433.webp
 - `71:40` [金匮要略、课程板书/实操] ` 黑板板书展示关于“哕”（打嗝）的相关经典条文，以及“吴茱萸汤”、“橘皮汤”等对应方剂的具体药味构成。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略13/71_40_`_黑板板书展示关于“哕”（打嗝）的相关经典条文，以及“吴茱萸汤”、“橘皮汤”等.jpg
+  - 截图路径：assets/screenshots/jingui/0434.webp
 - `77:44` [金匮要略、课程板书/实操] ` 黑板手绘侧面人体示意图，标示了肝经从头顶百会穴向下走向眼睛、乳头的经络路径，配合讲解肝阴不足导致头痛的病理机制。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略13/77_44_`_黑板手绘侧面人体示意图，标示了肝经从头顶百会穴向下走向眼睛、乳头的经络路径，.jpg
+  - 截图路径：assets/screenshots/jingui/0435.webp
 - `78:56` [金匮要略、课程板书/实操] ` 黑板满屏板书，展示《金匮要略》条文：“呕而胸满...吴茱萸汤主之”，及吴茱萸汤方剂组成（吴茱萸、人参、生姜、大枣）及剂量。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略13/78_56_`_黑板满屏板书，展示《金匮要略》条文：“呕而胸满...吴茱萸汤主之”，及吴茱萸.jpg
+  - 截图路径：assets/screenshots/jingui/0436.webp
 - `82:32` [金匮要略、课程板书/实操] ` 黑板板书展示两条核心条文：“干呕、吐涎沫、头痛者，吴茱萸汤主之”、“呕而肠鸣，心下痞者，半夏泻心汤主之”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略13/82_32_`_黑板板书展示两条核心条文：“干呕、吐涎沫、头痛者，吴茱萸汤主之”、“呕而肠鸣.jpg
+  - 截图路径：assets/screenshots/jingui/0437.webp
 - `85:29` [金匮要略、课程板书/实操] ` 黑板板书展示半夏泻心汤的方剂完整组成（半夏、黄芩、干姜、人参、黄连、甘草、大枣）及剂量，旁边标注了心下痞、肠鸣等辨证要点。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略13/85_29_`_黑板板书展示半夏泻心汤的方剂完整组成（半夏、黄芩、干姜、人参、黄连、甘草、大.jpg
+  - 截图路径：assets/screenshots/jingui/0438.webp
 - `90:26` [金匮要略、课程板书/实操] ` 黑板板书展示两条条文：“诸呕吐，谷不得下者，小半夏汤主之”、“呕吐而病在膈上，后思水者解，急与之。思水者，猪苓散主之”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略13/90_26_`_黑板板书展示两条条文：“诸呕吐，谷不得下者，小半夏汤主之”、“呕吐而病在膈上.jpg
+  - 截图路径：assets/screenshots/jingui/0439.webp
 - `92:09` [金匮要略、课程板书/实操] ` 满屏黑板板书，展示猪苓散处方及条文：“诸呕吐，谷不得下者...猪苓散主之”，标注了猪苓、茯苓、白术的剂量及服法。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略13/92_09_`_满屏黑板板书，展示猪苓散处方及条文：“诸呕吐，谷不得下者...猪苓散主之”，.jpg
+  - 截图路径：assets/screenshots/jingui/0440.webp
 - `93:12` [金匮要略、课程板书/实操] ` 满屏黑板板书，展示四逆汤处方及条文：“呕而脉弱，小便复利，身有微热，见厥者，四逆汤主之”，包含附子、干姜、甘草的剂量。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略13/93_12_`_满屏黑板板书，展示四逆汤处方及条文：“呕而脉弱，小便复利，身有微热，见厥者，.jpg
+  - 截图路径：assets/screenshots/jingui/0441.webp
 - `97:04` [金匮要略、课程板书/实操] ` 黑板板书，讲者手写推演治疗尿毒症的复杂处方，板书包含炮附子、生附子同用的剂量，以及当归四逆汤成分（桂枝、白芍等）和白术、茯苓。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略13/97_04_`_黑板板书，讲者手写推演治疗尿毒症的复杂处方，板书包含炮附子、生附子同用的剂量.jpg
+  - 截图路径：assets/screenshots/jingui/0442.webp
 - `101:34` [金匮要略、课程板书/实操] ` 满屏黑板板书，展示小柴胡汤处方成分（柴胡、黄芩、人参、半夏、生姜、甘草、大枣）及对应条文“呕而发热者，小柴胡汤主之”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略13/101_34_`_满屏黑板板书，展示小柴胡汤处方成分（柴胡、黄芩、人参、半夏、生姜、甘草、大枣.jpg
+  - 截图路径：assets/screenshots/jingui/0443.webp
 - `102:47` [金匮要略、课程板书/实操] ` 满屏黑板板书，展示大半夏汤处方成分（半夏、人参、白蜜）及对应条文“胃反呕吐者，大半夏汤主之”，底部有特殊的和蜜煮药法说明。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略13/102_47_`_满屏黑板板书，展示大半夏汤处方成分（半夏、人参、白蜜）及对应条文“胃反呕吐者.jpg
+  - 截图路径：assets/screenshots/jingui/0444.webp
 - `107:04` [金匮要略、课程板书/实操] 黑板满屏板书，展示“食已即吐者，大黄甘草汤主之”条文及其具体处方组成和剂量。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略13/107_04_黑板满屏板书，展示“食已即吐者，大黄甘草汤主之”条文及其具体处方组成和剂量。.jpg
+  - 截图路径：assets/screenshots/jingui/0445.webp
 - `110:19` [金匮要略、课程板书/实操] 黑板右侧画有胃部解剖示意图，讲者正在图上标注“宿食”停留在胃下部的位置，解释大黄甘草汤的病机。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略13/110_19_黑板右侧画有胃部解剖示意图，讲者正在图上标注“宿食”停留在胃下部的位置，解释大黄.jpg
+  - 截图路径：assets/screenshots/jingui/0446.webp
 - `115:04` [金匮要略、课程板书/实操] 黑板满屏板书“茯苓泽泻汤”的条文及处方，右侧有示意图，讲者标注了以肚脐为界区分阴阳（肚脐以上为阳，以下为阴），解释桂枝与白术的用药方位。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略13/115_04_黑板满屏板书“茯苓泽泻汤”的条文及处方，右侧有示意图，讲者标注了以肚脐为界区分阴.jpg
+  - 截图路径：assets/screenshots/jingui/0447.webp
 - `117:14` [金匮要略、课程板书/实操] 黑板满屏板书“吐后，渴欲得水而贪饮者，文蛤汤主之...”及处方（包含麻黄、杏仁、石膏等具体克数），讲者正在讲解文蛤汤的方义。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略13/117_14_黑板满屏板书“吐后，渴欲得水而贪饮者，文蛤汤主之...”及处方（包含麻黄、杏仁、.jpg
+  - 截图路径：assets/screenshots/jingui/0448.webp
 
 ## 金匮要略14
 
 - `00:01` [金匮要略、课程板书/实操] ` 板书展示《金匮要略》条文：“干呕吐涎沫，半夏干姜散主之”及方剂组成。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略14/00_01_`_板书展示《金匮要略》条文：“干呕吐涎沫，半夏干姜散主之”及方剂组成。.jpg
+  - 截图路径：assets/screenshots/jingui/0449.webp
 - `03:52` [金匮要略、课程板书/实操] ` 板书详细列出治疗胃寒/严重呕逆的加减方：旋覆花代赭石，加厚朴、枳实，以及针对头痛加川芎、吴茱萸。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略14/03_52_`_板书详细列出治疗胃寒_严重呕逆的加减方：旋覆花代赭石，加厚朴、枳实，以及针对.jpg
+  - 截图路径：assets/screenshots/jingui/0450.webp
 - `09:44` [金匮要略、课程板书/实操] ` 板书展示生姜半夏汤的主治条文：“病人胸中似喘不喘，似呕不呕...”，并在旁边明确标注病理机制：“胃中停水过多造成的”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略14/09_44_`_板书展示生姜半夏汤的主治条文：“病人胸中似喘不喘，似呕不呕...”，并在旁边.jpg
+  - 截图路径：assets/screenshots/jingui/0451.webp
 - `11:16` [金匮要略、课程板书/实操] ` 板书手绘生动的解剖物理示意图（包含横膈膜、胃部轮廓、水与火的相对位置），直观解释躺着喝水导致无法气化的机制。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略14/11_16_`_板书手绘生动的解剖物理示意图（包含横膈膜、胃部轮廓、水与火的相对位置），直观.jpg
+  - 截图路径：assets/screenshots/jingui/0452.webp
 - `12:32` [金匮要略、课程板书/实操] ` 板书写下中医对寒热的核心观念：“寒则积，会缩”，并列出“石膏”作为寒凉药的应用案例。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略14/12_32_`_板书写下中医对寒热的核心观念：“寒则积，会缩”，并列出“石膏”作为寒凉药的应.jpg
+  - 截图路径：assets/screenshots/jingui/0453.webp
 - `15:21` [金匮要略、课程板书/实操] ` 黑板板书展示“橘皮汤方”药物组成（橘皮二两、生姜半斤）及对应主治症状“干呕哕若手足厥者”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略14/15_21_`_黑板板书展示“橘皮汤方”药物组成（橘皮二两、生姜半斤）及对应主治症状“干呕哕.jpg
+  - 截图路径：assets/screenshots/jingui/0454.webp
 - `17:21` [金匮要略、课程板书/实操] ` 黑板板书展示“橘皮竹茹汤方”药物组成（含竹茹、人参等六味药）及对应主治症状“哕逆者”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略14/17_21_`_黑板板书展示“橘皮竹茹汤方”药物组成（含竹茹、人参等六味药）及对应主治症状“.jpg
+  - 截图路径：assets/screenshots/jingui/0455.webp
 - `19:18` [金匮要略、课程板书/实操] ` 讲者在黑板上书写“茯苓四逆汤”及“一搏”，讲解应对癌症末期胃气将绝打嗝死证的急救处方原理。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略14/19_18_`_讲者在黑板上书写“茯苓四逆汤”及“一搏”，讲解应对癌症末期胃气将绝打嗝死证的.jpg
+  - 截图路径：assets/screenshots/jingui/0456.webp
 - `20:41` [金匮要略、课程板书/实操] ` 黑板板书展示《伤寒论》危重症条文：“六腑气绝于外者，手足寒，上气脚缩；五脏气绝于内者，利不禁...”，以此剖析阴阳气绝的生理表现。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略14/20_41_`_黑板板书展示《伤寒论》危重症条文：“六腑气绝于外者，手足寒，上气脚缩；五脏气.jpg
+  - 截图路径：assets/screenshots/jingui/0457.webp
 - `30:34` [金匮要略、课程板书/实操] 板书画面，讲者在黑板上列出了三种便血的鉴别方法：“先血后便”、“先便后血”、“便血混合”，用于解释“下利有脓血”的实质。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略14/30_34_**_板书画面，讲者在黑板上列出了三种便血的鉴别方法：“先血后便”、“先便后血”.jpg
+  - 截图路径：assets/screenshots/jingui/0458.webp
 - `36:27` [金匮要略、课程板书/实操] 板书画面，黑板上标记了“虚胀”二字，讲者正在解释为何下利清谷的寒证患者错误使用发汗解表法后，会导致身体产生虚性的胀满。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略14/36_27_**_板书画面，黑板上标记了“虚胀”二字，讲者正在解释为何下利清谷的寒证患者错误.jpg
+  - 截图路径：assets/screenshots/jingui/0459.webp
 - `40:23` [金匮要略、课程板书/实操] ` 满屏黑板板书，左侧展示伤寒论条文“下利清谷...脉迟...手足厥冷...通脉四逆汤”，讲者正在讲解脉绝与手脚冰冷的寒极症状。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略14/40_23_`_满屏黑板板书，左侧展示伤寒论条文“下利清谷...脉迟...手足厥冷...通脉.jpg
+  - 截图路径：assets/screenshots/jingui/0460.webp
 - `41:12` [金匮要略、课程板书/实操] ` 讲者在黑板右侧画出人体腹部示意图（标注了肚脐），用于讲解腹胀满时“喜按”与“拒按”（硬块）的区别。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略14/41_12_`_讲者在黑板右侧画出人体腹部示意图（标注了肚脐），用于讲解腹胀满时“喜按”与“.jpg
+  - 截图路径：assets/screenshots/jingui/0461.webp
 - `44:35` [金匮要略、课程板书/实操] ` 满屏板书结合右侧大肠解剖图，大肠图中画有宿便（燥屎）堵塞及水流通过的缝隙，讲者正指着条文“下利，三部脉皆平，按之心下坚...大承气汤”解释便秘引起的下利。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略14/44_35_`_满屏板书结合右侧大肠解剖图，大肠图中画有宿便（燥屎）堵塞及水流通过的缝隙，讲.jpg
+  - 截图路径：assets/screenshots/jingui/0462.webp
 - `46:35` [金匮要略、课程板书/实操] ` 讲者在黑板右侧补充画出了大肠与肝脏（标注了“肝”）之间的血管连结示意图，讲解大肠癌切除后癌细胞回流肝脏的致死机制。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略14/46_35_`_讲者在黑板右侧补充画出了大肠与肝脏（标注了“肝”）之间的血管连结示意图，讲解.jpg
+  - 截图路径：assets/screenshots/jingui/0463.webp
 - `50:11` [金匮要略、课程板书/实操] ` 讲者在黑板最右侧画出两个大肠横截面剖面图，一个展示中间有洞，一个展示侧边有缝隙，总结大肠阻塞排便的物理形态与大承气汤的对应关系。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略14/50_11_`_讲者在黑板最右侧画出两个大肠横截面剖面图，一个展示中间有洞，一个展示侧边有缝.jpg
+  - 截图路径：assets/screenshots/jingui/0464.webp
 - `52:05` [金匮要略、课程板书/实操] 满屏PPT文本，展示“大承气汤”、“小承气汤”、“厚朴三物汤”及“大柴胡汤”的条文与鉴别对比。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略14/52_05_满屏PPT文本，展示“大承气汤”、“小承气汤”、“厚朴三物汤”及“大柴胡汤”的条.jpg
+  - 截图路径：assets/screenshots/jingui/0465.webp
 - `53:26` [金匮要略、课程板书/实操] 满屏PPT文本，展示《伤寒论》条文：“下利谵语者，有燥屎也，小承气汤主之”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略14/53_26_满屏PPT文本，展示《伤寒论》条文：“下利谵语者，有燥屎也，小承气汤主之”。.jpg
+  - 截图路径：assets/screenshots/jingui/0466.webp
 - `55:42` [金匮要略、课程板书/实操] 满屏PPT文本，展示“桃花汤”的条文（下利便脓血者）、主治及详细药方剂量构成。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略14/55_42_满屏PPT文本，展示“桃花汤”的条文（下利便脓血者）、主治及详细药方剂量构成。.jpg
+  - 截图路径：assets/screenshots/jingui/0467.webp
 - `59:35` [金匮要略、课程板书/实操] 满屏PPT文本，展示“白头翁汤”的条文（热利下重者）、主治及药方组成。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略14/59_35_满屏PPT文本，展示“白头翁汤”的条文（热利下重者）、主治及药方组成。.jpg
+  - 截图路径：assets/screenshots/jingui/0468.webp
 - `62:37` [金匮要略、课程板书/实操] 满屏PPT文本，展示“栀子豉汤”的条文（下利后更烦，按之心下濡...为虚烦）及药方组成。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略14/62_37_满屏PPT文本，展示“栀子豉汤”的条文（下利后更烦，按之心下濡...为虚烦）及药.jpg
+  - 截图路径：assets/screenshots/jingui/0469.webp
 - `65:06` [金匮要略、课程板书/实操] 满屏PPT文本，展示“通脉四逆汤”的条文及方剂组成。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略14/65_06_满屏PPT文本，展示“通脉四逆汤”的条文及方剂组成。.jpg
+  - 截图路径：assets/screenshots/jingui/0470.webp
 - `65:07` [金匮要略、课程板书/实操] ` 板书《金匮要略》条文“下利清谷，里寒外热...通脉四逆汤主之”及处方剂量
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略14/65_07_`_板书《金匮要略》条文“下利清谷，里寒外热...通脉四逆汤主之”及处方剂量.jpg
+  - 截图路径：assets/screenshots/jingui/0471.webp
 - `66:19` [金匮要略、课程板书/实操] ` 板书“下利，肺痛，紫参汤主之”条文及紫参汤替代处方（紫参半斤、甘草三两）
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略14/66_19_`_板书“下利，肺痛，紫参汤主之”条文及紫参汤替代处方（紫参半斤、甘草三两）.jpg
+  - 截图路径：assets/screenshots/jingui/0472.webp
 - `71:31` [金匮要略、课程板书/实操] ` 老师画人体图讲解肺癌病机，展示阳气受阻反逆、无法固阴导致下利的逻辑，并有辅助板书
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略14/71_31_`_老师画人体图讲解肺癌病机，展示阳气受阻反逆、无法固阴导致下利的逻辑，并有辅助.jpg
+  - 截图路径：assets/screenshots/jingui/0473.webp
 - `73:01` [金匮要略、课程板书/实操] ` 板书治疗肺癌实证的处方加减：桔梗、甘草、丹皮、桃仁及苇茎汤（苇茎、冬瓜仁等）
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略14/73_01_`_板书治疗肺癌实证的处方加减：桔梗、甘草、丹皮、桃仁及苇茎汤（苇茎、冬瓜仁等）.jpg
+  - 截图路径：assets/screenshots/jingui/0474.webp
 - `74:14` [金匮要略、课程板书/实操] ` 板书定喘急救方“甘草麻黄汤”，标明麻黄四钱、甘草二钱的经典2:1剂量比例
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略14/74_14_`_板书定喘急救方“甘草麻黄汤”，标明麻黄四钱、甘草二钱的经典2:1剂量比例.jpg
+  - 截图路径：assets/screenshots/jingui/0475.webp
 - `74:58` [金匮要略、课程板书/实操] ` 板书“气利，诃黎勒散主之”条文及处方制法
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略14/74_58_`_板书“气利，诃黎勒散主之”条文及处方制法.jpg
+  - 截图路径：assets/screenshots/jingui/0476.webp
 - `76:49` [金匮要略、课程板书/实操] ` 板书第十八篇“疮痈肠痈...”首条条文，讲解脉浮数反恶寒及有无脓的触诊方法
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略14/76_49_`_板书第十八篇“疮痈肠痈...”首条条文，讲解脉浮数反恶寒及有无脓的触诊方法.jpg
+  - 截图路径：assets/screenshots/jingui/0477.webp
 - `84:29` [金匮要略、课程板书/实操] 板书手写完整中药方剂“阳和汤”，包含具体药物名称（麻黄、炮姜、熟地、鹿角胶、肉桂）及对应剂量（如三钱、一两等），并在旁补充了“加附子”的重症加减法。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略14/84_29_**_板书手写完整中药方剂“阳和汤”，包含具体药物名称（麻黄、炮姜、熟地、鹿角胶.jpg
+  - 截图路径：assets/screenshots/jingui/0478.webp
 - `87:20` [金匮要略、课程板书/实操] 满屏板书展示“仙方活命饮”的完整药方列表，包含十余味中药（乳香、没药、炙甲、皂角刺、防风、贝母、当归尾等）及其精确剂量，是本段最核心的配方干货。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略14/87_20_**_满屏板书展示“仙方活命饮”的完整药方列表，包含十余味中药（乳香、没药、炙甲.jpg
+  - 截图路径：assets/screenshots/jingui/0479.webp
 - `90:06` [金匮要略、课程板书/实操] 满屏古文板书，展示张仲景关于“肠痈”的经典论述条文（“肠痈之为病，其身甲错……”），以及对应的治疗方剂“大黄牡丹汤”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略14/90_06_**_满屏古文板书，展示张仲景关于“肠痈”的经典论述条文（“肠痈之为病，其身甲错.jpg
+  - 截图路径：assets/screenshots/jingui/0480.webp
 - `92:34` [金匮要略、课程板书/实操] ` 板书展示《金匮要略》原文及“大黄牡丹汤方”的具体药材组成与剂量（大黄、牡丹、桃仁、瓜子、芒硝）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略14/92_34_`_板书展示《金匮要略》原文及“大黄牡丹汤方”的具体药材组成与剂量（大黄、牡丹、.jpg
+  - 截图路径：assets/screenshots/jingui/0481.webp
 - `96:03` [金匮要略、课程板书/实操] ` 满屏板书，展示“肠痈者，少腹肿痞...”条文及“薏苡附子败酱散”的处方组成。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略14/96_03_`_满屏板书，展示“肠痈者，少腹肿痞...”条文及“薏苡附子败酱散”的处方组成。.jpg
+  - 截图路径：assets/screenshots/jingui/0482.webp
 - `101:11` [金匮要略、课程板书/实操] ` 满屏板书，展示“问曰：寸口脉微而涩...此为亡血”及“病金疮，王不留行散主之”的条文内容。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略14/101_11_`_满屏板书，展示“问曰：寸口脉微而涩...此为亡血”及“病金疮，王不留行散主之.jpg
+  - 截图路径：assets/screenshots/jingui/0483.webp
 - `104:11` [金匮要略、课程板书/实操] 板书《金匮要略》原文“王不留行散方”及其详细药物组成和特定采收时间要求
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略14/104_11_板书《金匮要略》原文“王不留行散方”及其详细药物组成和特定采收时间要求.jpg
+  - 截图路径：assets/screenshots/jingui/0484.webp
 - `106:25` [金匮要略、课程板书/实操] 板书《金匮要略》原文“排脓散方”与“排脓汤方”的药物组成及比例
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略14/106_25_板书《金匮要略》原文“排脓散方”与“排脓汤方”的药物组成及比例.jpg
+  - 截图路径：assets/screenshots/jingui/0485.webp
 - `107:46` [金匮要略、课程板书/实操] 板书手写肝化脓的治疗思路，写有“柴胡、黄芩、炙甘草”等配合排脓散的加减方
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略14/107_46_板书手写肝化脓的治疗思路，写有“柴胡、黄芩、炙甘草”等配合排脓散的加减方.jpg
+  - 截图路径：assets/screenshots/jingui/0486.webp
 - `109:33` [金匮要略、课程板书/实操] 板书手写胰脏炎（胰脏发炎）的症状“动悸、气上冲心、心下痞”等
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略14/109_33_板书手写胰脏炎（胰脏发炎）的症状“动悸、气上冲心、心下痞”等.jpg
+  - 截图路径：assets/screenshots/jingui/0487.webp
 - `110:37` [金匮要略、课程板书/实操] 板书手写治疗胰脏炎的处方“苓桂甘枣汤”配合排脓散，并列出具体剂量
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略14/110_37_板书手写治疗胰脏炎的处方“苓桂甘枣汤”配合排脓散，并列出具体剂量.jpg
+  - 截图路径：assets/screenshots/jingui/0488.webp
 - `113:57` [金匮要略、课程板书/实操] 板书《金匮要略》原文关于“浸淫疮”的条文及预后判断原则
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略14/113_57_板书《金匮要略》原文关于“浸淫疮”的条文及预后判断原则.jpg
+  - 截图路径：assets/screenshots/jingui/0489.webp
 - `116:02` [金匮要略、课程板书/实操] 板书手写倪师推导补全的“黄连粉”外用处方：黄连、薏仁、白术、冬瓜仁及其剂量
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略14/116_02_板书手写倪师推导补全的“黄连粉”外用处方：黄连、薏仁、白术、冬瓜仁及其剂量.jpg
+  - 截图路径：assets/screenshots/jingui/0490.webp
 
 ## 金匮要略15
 
 - `00:00` [金匮要略、课程板书/实操] 满屏黑板板书，展示了“跌蹶”和“手指臂肿动”的两段古文原句及处方（藜芦甘草汤主之）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略15/00_00_**_满屏黑板板书，展示了“跌蹶”和“手指臂肿动”的两段古文原句及处方（藜芦甘草.jpg
+  - 截图路径：assets/screenshots/jingui/0491.webp
 - `07:19` [金匮要略、课程板书/实操] 黑板板书展示“转筋”的古文原句：“转筋之为病，其人臂脚直...转筋入腹者，鸡屎白散主之。”
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略15/07_19_**_黑板板书展示“转筋”的古文原句：“转筋之为病，其人臂脚直...转筋入腹者，.jpg
+  - 截图路径：assets/screenshots/jingui/0492.webp
 - `08:58` [金匮要略、课程板书/实操] 黑板手写中医核心治则：“肝苦急，急食甘以缓之”，用于解释糖水治疗抽筋的理论基础。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略15/08_58_**_黑板手写中医核心治则：“肝苦急，急食甘以缓之”，用于解释糖水治疗抽筋的理论.jpg
+  - 截图路径：assets/screenshots/jingui/0493.webp
 - `10:10` [金匮要略、课程板书/实操] 黑板板书展示“阴狐疝气”的古文原句及处方（蜘蛛散主之）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略15/10_10_**_黑板板书展示“阴狐疝气”的古文原句及处方（蜘蛛散主之）。.jpg
+  - 截图路径：assets/screenshots/jingui/0494.webp
 - `11:27` [金匮要略、课程板书/实操] 黑板手写疝气的现代替代处方：防己黄芪汤（针对积水）、当归四逆汤加缩砂、升麻（针对气疝）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略15/11_27_**_黑板手写疝气的现代替代处方：防己黄芪汤（针对积水）、当归四逆汤加缩砂、升麻.jpg
+  - 截图路径：assets/screenshots/jingui/0495.webp
 - `13:21` [金匮要略、课程板书/实操] 满屏板书，展示了关于体内寄生虫病状及治疗的古文条文，包含甘草粉蜜汤的配方组成
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略15/13_21_满屏板书，展示了关于体内寄生虫病状及治疗的古文条文，包含甘草粉蜜汤的配方组成.jpg
+  - 截图路径：assets/screenshots/jingui/0496.webp
 - `17:06` [金匮要略、课程板书/实操] 板书画图展示通过烧水银制备"白粉"（铅粉）的提炼过程原理
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略15/17_06_板书画图展示通过烧水银制备"白粉"（铅粉）的提炼过程原理.jpg
+  - 截图路径：assets/screenshots/jingui/0497.webp
 - `19:11` [金匮要略、课程板书/实操] 满屏板书，展示了关于"蛔厥"症状描述及乌梅丸应用的古文条文
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略15/19_11_满屏板书，展示了关于"蛔厥"症状描述及乌梅丸应用的古文条文.jpg
+  - 截图路径：assets/screenshots/jingui/0498.webp
 - `20:19` [金匮要略、课程板书/实操] 满屏板书，展示了《妇人妊娠病脉证治第二十》关于判断怀孕的脉象与症状条文
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略15/20_19_满屏板书，展示了《妇人妊娠病脉证治第二十》关于判断怀孕的脉象与症状条文.jpg
+  - 截图路径：assets/screenshots/jingui/0499.webp
 - `22:19` [金匮要略、课程板书/实操] 板书画图展示人体寸关尺脉象对应的身体部位（寸对应胸腔，尺对应肚脐及少腹）
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略15/22_19_板书画图展示人体寸关尺脉象对应的身体部位（寸对应胸腔，尺对应肚脐及少腹）.jpg
+  - 截图路径：assets/screenshots/jingui/0500.webp
 - `29:17` [金匮要略、课程板书/实操] 黑板展示金匮要略条文：“妇人宿有癥病，经断未及三月，而得漏下不止...”，用于讲解子宫肿瘤出血与怀孕流产出血的鉴别方法。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略15/29_17_黑板展示金匮要略条文：“妇人宿有癥病，经断未及三月，而得漏下不止...”，用于讲.jpg
+  - 截图路径：assets/screenshots/jingui/0501.webp
 - `32:37` [金匮要略、课程板书/实操] 黑板板书写出“寒”与“水”二字，讲解子宫内长肿瘤/肌瘤的根本病理原因。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略15/32_37_黑板板书写出“寒”与“水”二字，讲解子宫内长肿瘤_肌瘤的根本病理原因。.jpg
+  - 截图路径：assets/screenshots/jingui/0502.webp
 - `33:59` [金匮要略、课程板书/实操] 黑板板书，在原方“桂枝、茯苓、牡丹、桃仁、芍药”基础上，用箭头标示加入“生附子”和“硫磺”，讲解治疗严重子宫肿瘤的加减法。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略15/33_59_黑板板书，在原方“桂枝、茯苓、牡丹、桃仁、芍药”基础上，用箭头标示加入“生附子”.jpg
+  - 截图路径：assets/screenshots/jingui/0503.webp
 - `37:01` [金匮要略、课程板书/实操] 黑板展示金匮要略条文：“妇人怀娠六七月，脉弦发热，其胎愈胀，腹痛恶寒，少腹如扇...”，讲解孕期子宫极寒的典型症状。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略15/37_01_黑板展示金匮要略条文：“妇人怀娠六七月，脉弦发热，其胎愈胀，腹痛恶寒，少腹如扇..jpg
+  - 截图路径：assets/screenshots/jingui/0504.webp
 - `37:53` [金匮要略、课程板书/实操] 黑板写明“附子汤”的配方组成：炮附子、白术、茯苓、人参、白芍。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略15/37_53_黑板写明“附子汤”的配方组成：炮附子、白术、茯苓、人参、白芍。.jpg
+  - 截图路径：assets/screenshots/jingui/0505.webp
 - `39:39` [金匮要略、课程板书/实操] ` 黑板手绘腹部解剖示意图，标注了“脾”和“肝”，直观讲解脾肝两脏与子宫位置及供血的对应关系。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略15/39_39_`_黑板手绘腹部解剖示意图，标注了“脾”和“肝”，直观讲解脾肝两脏与子宫位置及供.jpg
+  - 截图路径：assets/screenshots/jingui/0506.webp
 - `41:33` [金匮要略、课程板书/实操] ` 满屏黑板板书，列出《金匮要略》中“胶艾汤”的四大适应症条文（漏下、半产后下血等）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略15/41_33_`_满屏黑板板书，列出《金匮要略》中“胶艾汤”的四大适应症条文（漏下、半产后下血.jpg
+  - 截图路径：assets/screenshots/jingui/0507.webp
 - `43:31` [金匮要略、课程板书/实操] ` 黑板板书，讲者在胶艾汤原方条文旁，详细批注了其临床常用的具体药物剂量（如川芎五钱、白芍四钱、阿胶分三包等）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略15/43_31_`_黑板板书，讲者在胶艾汤原方条文旁，详细批注了其临床常用的具体药物剂量（如川芎.jpg
+  - 截图路径：assets/screenshots/jingui/0508.webp
 - `47:07` [金匮要略、课程板书/实操] ` 黑板手绘脉象图，讲者动态演示并画出“漏下”患者寸脉左右交替跳动的特殊脉象特征。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略15/47_07_`_黑板手绘脉象图，讲者动态演示并画出“漏下”患者寸脉左右交替跳动的特殊脉象特征.jpg
+  - 截图路径：assets/screenshots/jingui/0509.webp
 - `48:57` [金匮要略、课程板书/实操] ` 满屏黑板板书，展示“当归芍药散”的经典条文与原方剂量，用于讲解该方气血同治的结构。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略15/48_57_`_满屏黑板板书，展示“当归芍药散”的经典条文与原方剂量，用于讲解该方气血同治的.jpg
+  - 截图路径：assets/screenshots/jingui/0510.webp
 - `51:05` [金匮要略、课程板书/实操] ` 黑板手写补充板书，写有“茜草”以及“三棱、莪术”，讲解处理妇科重度瘀血及堕胎的用药。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略15/51_05_`_黑板手写补充板书，写有“茜草”以及“三棱、莪术”，讲解处理妇科重度瘀血及堕胎.jpg
+  - 截图路径：assets/screenshots/jingui/0511.webp
 - `52:51` [金匮要略、课程板书/实操] ` 板书展示“干姜人参半夏丸”治疗妊娠呕吐不止的经典条文及三味药的剂量。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略15/52_51_`_板书展示“干姜人参半夏丸”治疗妊娠呕吐不止的经典条文及三味药的剂量。.jpg
+  - 截图路径：assets/screenshots/jingui/0512.webp
 - `54:38` [金匮要略、课程板书/实操] ` 板书展示“当归贝母苦参丸”治疗妊娠小便难的条文及等分比例。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略15/54_38_`_板书展示“当归贝母苦参丸”治疗妊娠小便难的条文及等分比例。.jpg
+  - 截图路径：assets/screenshots/jingui/0513.webp
 - `56:30` [金匮要略、课程板书/实操] ` 板书展示“葵子茯苓散”治疗妊娠有水气（水肿）的条文及用药比例（葵子一升，茯苓三两）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略15/56_30_`_板书展示“葵子茯苓散”治疗妊娠有水气（水肿）的条文及用药比例（葵子一升，茯苓.jpg
+  - 截图路径：assets/screenshots/jingui/0514.webp
 - `59:47` [金匮要略、课程板书/实操] ` 板书展示“当归散”条文及配方，讲者在黑板上方画出了“1-10个月”的怀孕用药时间轴。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略15/59_47_`_板书展示“当归散”条文及配方，讲者在黑板上方画出了“1-10个月”的怀孕用药.jpg
+  - 截图路径：assets/screenshots/jingui/0515.webp
 - `61:40` [金匮要略、课程板书/实操] ` 板书展示“白术散”用于妊娠养胎的条文，包含牡蛎、蜀椒、白术、川芎等配方组成。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略15/61_40_`_板书展示“白术散”用于妊娠养胎的条文，包含牡蛎、蜀椒、白术、川芎等配方组成。.jpg
+  - 截图路径：assets/screenshots/jingui/0516.webp
 - `65:54` [金匮要略、课程板书/实操] 黑板满屏文言文板书，左侧为死胎/难产的处方药味及剂量（牛膝四两、当归三两、党参二两），右侧为孕妇受伤小便不通的古文病症描述“方便利不慊以满妇...”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略15/65_54_黑板满屏文言文板书，左侧为死胎_难产的处方药味及剂量（牛膝四两、当归三两、党参二.jpg
+  - 截图路径：assets/screenshots/jingui/0517.webp
 - `67:49` [金匮要略、课程板书/实操] 黑板板书写有“至阴”、“隐白”及井穴等字样，讲者正在讲解胎位不正的针灸安全选穴。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略15/67_49_黑板板书写有“至阴”、“隐白”及井穴等字样，讲者正在讲解胎位不正的针灸安全选穴。.jpg
+  - 截图路径：assets/screenshots/jingui/0518.webp
 - `71:59` [金匮要略、课程板书/实操] 黑板满屏文言文板书，清晰列出新产妇人的三种常见病：“一者病痉，二者病郁冒，三者大便难”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略15/71_59_黑板满屏文言文板书，清晰列出新产妇人的三种常见病：“一者病痉，二者病郁冒，三者大.jpg
+  - 截图路径：assets/screenshots/jingui/0519.webp
 - `75:29` [金匮要略、课程板书/实操] 黑板满屏文言文板书，详细解释产后郁冒的病理机制及症状表现“产后郁冒，其脉微弱，呕不能食，大便反坚...”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略15/75_29_黑板满屏文言文板书，详细解释产后郁冒的病理机制及症状表现“产后郁冒，其脉微弱，呕.jpg
+  - 截图路径：assets/screenshots/jingui/0520.webp
 - `78:05` [金匮要略、课程板书/实操] 黑板展示古文板书，讲解产后“病解能食...宜大承气汤”的阳明燥实证
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略15/78_05_黑板展示古文板书，讲解产后“病解能食...宜大承气汤”的阳明燥实证.jpg
+  - 截图路径：assets/screenshots/jingui/0521.webp
 - `81:13` [金匮要略、课程板书/实操] 黑板展示古文板书，讲解“产妇腹痛...烦满不得卧...宜枳实芍药散”及排脓用法
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略15/81_13_黑板展示古文板书，讲解“产妇腹痛...烦满不得卧...宜枳实芍药散”及排脓用法.jpg
+  - 截图路径：assets/screenshots/jingui/0522.webp
 - `84:12` [金匮要略、课程板书/实操] 黑板展示古文板书，讲解“产后七八日...少腹坚痛...下瘀血汤主之”及黄昏烦躁的症状
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略15/84_12_黑板展示古文板书，讲解“产后七八日...少腹坚痛...下瘀血汤主之”及黄昏烦躁的.jpg
+  - 截图路径：assets/screenshots/jingui/0523.webp
 - `85:31` [金匮要略、课程板书/实操] 黑板手绘人体阴阳气血运行图，图解黄昏时阳气入阴被大肠燥屎阻挡导致烦躁的病机
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略15/85_31_黑板手绘人体阴阳气血运行图，图解黄昏时阳气入阴被大肠燥屎阻挡导致烦躁的病机.jpg
+  - 截图路径：assets/screenshots/jingui/0524.webp
 - `86:28` [金匮要略、课程板书/实操] 黑板展示古文板书，讲解“产后风...续续数十日不解...可与阳旦汤”
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略15/86_28_黑板展示古文板书，讲解“产后风...续续数十日不解...可与阳旦汤”.jpg
+  - 截图路径：assets/screenshots/jingui/0525.webp
 - `90:08` [金匮要略、课程板书/实操] 黑板展示古文板书，讲解“产后中风发热，面正赤，喘而头痛，竹叶汤主之”
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略15/90_08_黑板展示古文板书，讲解“产后中风发热，面正赤，喘而头痛，竹叶汤主之”.jpg
+  - 截图路径：assets/screenshots/jingui/0526.webp
 - `92:21` [金匮要略、课程板书/实操] 板书画面，讲者在“产后中风发热...”条文旁板书补充“虚热”二字，并画出代表湿热的符号，解释产妇面赤多为虚热带湿。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略15/92_21_板书画面，讲者在“产后中风发热...”条文旁板书补充“虚热”二字，并画出代表湿热.jpg
+  - 截图路径：assets/screenshots/jingui/0527.webp
 - `98:41` [金匮要略、课程板书/实操] 满屏黑板板书，讲者写下了完整的中医退奶处方：炒麦芽搭配四物汤（当归、川芎、白芍、熟地），并标注了部分药量。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略15/98_41_满屏黑板板书，讲者写下了完整的中医退奶处方：炒麦芽搭配四物汤（当归、川芎、白芍、.jpg
+  - 截图路径：assets/screenshots/jingui/0528.webp
 - `99:57` [金匮要略、课程板书/实操] 满屏黑板板书，讲者在退奶方的基础上，板书补充了治疗乳房硬块/乳房痛的加减药物：竹茹、防己、紫根、牡蛎，以及有痰积时替换使用的“瓦楞子”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略15/99_57_满屏黑板板书，讲者在退奶方的基础上，板书补充了治疗乳房硬块_乳房痛的加减药物：竹.jpg
+  - 截图路径：assets/screenshots/jingui/0529.webp
 - `103:43` [金匮要略、课程板书/实操] ` 板书《伤寒论》原文：妇人伤寒发热，经水适来，昼日明了，暮则谵语，如见鬼状...
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略15/103_43_`_板书《伤寒论》原文：妇人伤寒发热，经水适来，昼日明了，暮则谵语，如见鬼状...jpg
+  - 截图路径：assets/screenshots/jingui/0530.webp
 - `105:34` [金匮要略、课程板书/实操] ` 板书《伤寒论》原文：妇人中风，发热恶寒，经水适来，得之七八日，热除而脉迟身凉，胸胁下满，如结胸状，谵语者，此为热入血室也...
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略15/105_34_`_板书《伤寒论》原文：妇人中风，发热恶寒，经水适来，得之七八日，热除而脉迟身凉.jpg
+  - 截图路径：assets/screenshots/jingui/0531.webp
 - `108:28` [金匮要略、课程板书/实操] ` 板书《金匮要略》原文：妇人咽中如有炙脔，半夏厚朴汤主之。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略15/108_28_`_板书《金匮要略》原文：妇人咽中如有炙脔，半夏厚朴汤主之。.jpg
+  - 截图路径：assets/screenshots/jingui/0532.webp
 - `111:21` [金匮要略、课程板书/实操] ` 板书半夏厚朴汤的具体药物组成与剂量（半夏五钱、厚朴三钱、茯苓四钱、生姜三片、苏叶二钱），及旁边剖析“去痰、去水、行气”的病机板书。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略15/111_21_`_板书半夏厚朴汤的具体药物组成与剂量（半夏五钱、厚朴三钱、茯苓四钱、生姜三片、.jpg
+  - 截图路径：assets/screenshots/jingui/0533.webp
 - `112:30` [金匮要略、课程板书/实操] ` 板书《金匮要略》原文：妇人脏躁，悲伤欲哭，象如神灵所作，数欠伸，甘麦大枣汤主之。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略15/112_30_`_板书《金匮要略》原文：妇人脏躁，悲伤欲哭，象如神灵所作，数欠伸，甘麦大枣汤主.jpg
+  - 截图路径：assets/screenshots/jingui/0534.webp
 - `113:31` [金匮要略、课程板书/实操] ` 板书手绘人体气机逆上图，解释子宫干燥导致津液随冲任二脉上逆化为眼泪的病理机制。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略15/113_31_`_板书手绘人体气机逆上图，解释子宫干燥导致津液随冲任二脉上逆化为眼泪的病理机制.jpg
+  - 截图路径：assets/screenshots/jingui/0535.webp
 - `115:34` [金匮要略、课程板书/实操] ` 板书手绘腹诊图，展示癫痫患者使用甘麦大枣汤的腹部肌肉紧绷特征。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略15/115_34_`_板书手绘腹诊图，展示癫痫患者使用甘麦大枣汤的腹部肌肉紧绷特征。.jpg
+  - 截图路径：assets/screenshots/jingui/0536.webp
 
 ## 金匮要略16
 
 - `03:09` [金匮要略、课程板书/实操] 讲者在黑板上板书画图，讲解“腹筋急”的症状表现，并写下“实肝缓他”的治疗原则，解释甘味药的作用。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略16/03_09_讲者在黑板上板书画图，讲解“腹筋急”的症状表现，并写下“实肝缓他”的治疗原则，解.jpg
+  - 截图路径：assets/screenshots/jingui/0537.webp
 - `06:46` [金匮要略、课程板书/实操] 讲者在黑板上板书“吐涎沫，上焦，寒湿”，以此解析妇人吐涎沫的根本病位与病机。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略16/06_46_讲者在黑板上板书“吐涎沫，上焦，寒湿”，以此解析妇人吐涎沫的根本病位与病机。.jpg
+  - 截图路径：assets/screenshots/jingui/0538.webp
 - `08:26` [金匮要略、课程板书/实操] 讲者在黑板的原经文板书上，着重圈出“虚”、“冷”、“气”三个字，总结归纳妇人病的三大基础病因。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略16/08_26_讲者在黑板的原经文板书上，着重圈出“虚”、“冷”、“气”三个字，总结归纳妇人病的.jpg
+  - 截图路径：assets/screenshots/jingui/0539.webp
 - `17:16` [金匮要略、课程板书/实操] 满屏文言文课件，展示《金匮要略》中关于妇人三十六病的经典条文“久则羸瘦，脉虚多寒...”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略16/17_16_满屏文言文课件，展示《金匮要略》中关于妇人三十六病的经典条文“久则羸瘦，脉虚多寒.jpg
+  - 截图路径：assets/screenshots/jingui/0540.webp
 - `20:11` [金匮要略、课程板书/实操] 满屏板书，讲者写下了妇人病“带下”的两大分类“1. 热湿、2. 寒湿”，并列出了治疗热湿的黄金比例用药“黄连、黄芩、黄柏”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略16/20_11_满屏板书，讲者写下了妇人病“带下”的两大分类“1._热湿、2._寒湿”，并列出了.jpg
+  - 截图路径：assets/screenshots/jingui/0541.webp
 - `25:12` [金匮要略、课程板书/实操] 满屏密集的板书，完整展示了“热湿”与“寒湿”的具体处方结构、药物剂量（如槐花、当归、白术、炮附子、茯苓、泽泻、猪苓等）以及下焦腹部脏腑经络的示意图。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略16/25_12_满屏密集的板书，完整展示了“热湿”与“寒湿”的具体处方结构、药物剂量（如槐花、当.jpg
+  - 截图路径：assets/screenshots/jingui/0542.webp
 - `31:02` [金匮要略、课程板书/实操] 黑板满屏板书：展示了“温经汤方”的完整组成药材（吴茱萸、当归、芍药、人参、桂枝、阿胶、牡丹皮、生姜、甘草、半夏、麦冬）及其剂量比例。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略16/31_02_**_黑板满屏板书：展示了“温经汤方”的完整组成药材（吴茱萸、当归、芍药、人参、.jpg
+  - 截图路径：assets/screenshots/jingui/0543.webp
 - `36:15` [金匮要略、课程板书/实操] 黑板满屏板书：展示了《金匮要略》中关于“带下经水不利...土瓜根散主之”的经典原文，以及土瓜根散的四味药组成（土瓜根、芍药、桂枝、䗪虫）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略16/36_15_板书展示“土瓜根散”的主治症状原文及四味药材配方。.jpg
+  - 截图路径：assets/screenshots/jingui/0544.webp
 - `40:58` [金匮要略、课程板书/实操] 黑板展示《金匮要略》中关于“胶姜汤”的条文，板书写有“血崩”及“艾草 -> 血脉 神经”，解释去掉艾叶的药理原因。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略16/40_58_**_黑板展示《金匮要略》中关于“胶姜汤”的条文，板书写有“血崩”及“艾草_->.jpg
+  - 截图路径：assets/screenshots/jingui/0545.webp
 - `43:11` [金匮要略、课程板书/实操] 黑板展示“大黄甘遂汤”的条文，旁边画有女性下腹部轮廓图，标注局部凸起的异常形态，并板书“水 + 血 -> 结在子宫”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略16/43_11_**_黑板展示“大黄甘遂汤”的条文，旁边画有女性下腹部轮廓图，标注局部凸起的异常.jpg
+  - 截图路径：assets/screenshots/jingui/0546.webp
 - `46:08` [金匮要略、课程板书/实操] 黑板详细列出大黄甘遂汤的药量比例：“大黄 1/2，甘遂 1/4，阿胶 1/4”，以及汤剂的具体用量（大黄3钱，甘遂1钱，阿胶1钱）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略16/46_08_`_黑板手写板书，明确列出了大黄甘遂汤的药量比例：大黄（1_2），甘遂（1_4）.jpg
+  - 截图路径：assets/screenshots/jingui/0547.webp
 - `48:48` [金匮要略、课程板书/实操] 黑板板书“血结在子宫”的四大判断症状：1. 小便通利；2. 大便黑；3. 发狂，善忘；4. 少腹痛。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略16/48_48_`_黑板手写板书，清晰列出了子宫瘀血的四大临床症状：“①_小便通利_②_大便黑_.jpg
+  - 截图路径：assets/screenshots/jingui/0548.webp
 - `52:18` [金匮要略、课程板书/实操] 黑板展示“矾石丸”的完整条文及方剂组成（矾石三分，烧；杏仁一分）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略16/52_18_**_黑板展示“矾石丸”的完整条文及方剂组成（矾石三分，烧；杏仁一分）。.jpg
+  - 截图路径：assets/screenshots/jingui/0549.webp
 - `53:22` [金匮要略、课程板书/实操] 黑板板书展示《金匮要略》原文：“妇人六十二种风，及腹中血气刺痛，红蓝花酒主之”，并标注了红蓝花二两的药方。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略16/53_22_**_黑板板书展示《金匮要略》原文：“妇人六十二种风，及腹中血气刺痛，红蓝花酒主.jpg
+  - 截图路径：assets/screenshots/jingui/0550.webp
 - `54:35` [金匮要略、课程板书/实操] 黑板板书展示原文：“妇人腹中诸疾痛，当归芍药散主之。小建中汤主之”，讲者在对比实证与虚证的用药区别。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略16/54_35_**_黑板板书展示原文：“妇人腹中诸疾痛，当归芍药散主之。小建中汤主之”，讲者在.jpg
+  - 截图路径：assets/screenshots/jingui/0551.webp
 - `57:39` [金匮要略、课程板书/实操] 满屏黑板手写板书，完整列出了“肾气丸”八味药的精准配比：熟地8、淮山4、山茱萸4、丹皮3、茯苓3、泽泻3、桂枝1、炮附子1，并标注了脏腑归经。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略16/57_39_**_满屏黑板手写板书，完整列出了“肾气丸”八味药的精准配比：熟地8、淮山4、山.jpg
+  - 截图路径：assets/screenshots/jingui/0552.webp
 - `61:15` [金匮要略、课程板书/实操] 黑板展示教材上的“肾气丸方”标准打印版原文，讲者用教鞭逐一指出药量（地黄八两、山药茱萸各四两、丹皮茯苓泽泻各三两、桂枝附子等）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略16/61_15_**_黑板展示教材上的“肾气丸方”标准打印版原文，讲者用教鞭逐一指出药量（地黄八.jpg
+  - 截图路径：assets/screenshots/jingui/0553.webp
 - `67:57` [金匮要略、课程板书/实操] 黑板展示《金匮要略》妇人阴寒条文，以及“蛇床子散方”的完整组成和外用制作方法。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略16/67_57_**_黑板展示《金匮要略》妇人阴寒条文，以及“蛇床子散方”的完整组成和外用制作方.jpg
+  - 截图路径：assets/screenshots/jingui/0554.webp
 - `69:49` [金匮要略、课程板书/实操] 黑板展示“狼牙汤方”的药方组成（狼牙三两）及“以绵缠、如茧状”等具体煎煮与塞入阴道的方法。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略16/69_49_**_黑板展示“狼牙汤方”的药方组成（狼牙三两）及“以绵缠、如茧状”等具体煎煮与.jpg
+  - 截图路径：assets/screenshots/jingui/0555.webp
 - `71:37` [金匮要略、课程板书/实操] 黑板展示“胃气下泄，阴吹而正喧...猪膏发煎主之”的完整经典条文。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略16/71_37_**_黑板展示“胃气下泄，阴吹而正喧...猪膏发煎主之”的完整经典条文。.jpg
+  - 截图路径：assets/screenshots/jingui/0556.webp
 - `73:07` [金匮要略、课程板书/实操] 黑板展示“阴阳易差后劳复第二十三”的完整病症描述条文（包含少气、阴中拘挛、热上冲胸等症状）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略16/73_07_**_黑板展示“阴阳易差后劳复第二十三”的完整病症描述条文（包含少气、阴中拘挛、.jpg
+  - 截图路径：assets/screenshots/jingui/0557.webp
 - `77:03` [金匮要略、课程板书/实操] 黑板手写展示治疗梅毒/淋病的解毒剂替代处方及具体比例：川芎(4)、忍冬花(4)、甘草(1)、大黄(2)、茯苓(5)。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略16/77_03_**_黑板手写展示治疗梅毒_淋病的解毒剂替代处方及具体比例：川芎(4)、忍冬花(.jpg
+  - 截图路径：assets/screenshots/jingui/0558.webp
 - `78:35` [金匮要略、课程板书/实操] 黑板手写展示治疗阴茎溃烂重症的“阿胶附子汤”处方及比例：阿胶(1)、炮附子(1)、甘草(0.5)。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略16/78_35_**_黑板手写展示治疗阴茎溃烂重症的“阿胶附子汤”处方及比例：阿胶(1)、炮附子.jpg
+  - 截图路径：assets/screenshots/jingui/0559.webp
 - `80:00` [金匮要略、课程板书/实操] ` 满屏中医古籍条文，显示“大病差后，劳复者，枳实栀子豉汤主之”，并列出了枳实栀子豉汤的具体药方组成、剂量及分步煎煮的方法。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略16/80_00_`_满屏中医古籍条文，显示“大病差后，劳复者，枳实栀子豉汤主之”，并列出了枳实栀.jpg
+  - 截图路径：assets/screenshots/jingui/0560.webp
 - `82:13` [金匮要略、课程板书/实操] ` 满屏中医古籍条文，展示了两个病后遗留症状的治疗原则：“差后，更发热者，小柴胡汤主之”以及“大病差后，从腰以下有水气者，牡蛎泽泻散主之”，并附带了牡蛎泽泻散的
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略16/82_13_`_满屏中医古籍条文，展示了两个病后遗留症状的治疗原则：“差后，更发热者，小柴胡.jpg
+  - 截图路径：assets/screenshots/jingui/0561.webp
 - `84:58` [金匮要略、课程板书/实操] ` 满屏中医古籍条文，对比了两种病后呕吐症状：“大病差后，喜唾久不了者（胃上有寒）”适用理中丸，“气逆欲吐（胃有虚热）”适用竹叶石膏汤，下方附有竹叶石膏汤的详细
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略16/84_58_`_满屏中医古籍条文，对比了两种病后呕吐症状：“大病差后，喜唾久不了者（胃上有寒.jpg
+  - 截图路径：assets/screenshots/jingui/0562.webp
 - `88:00` [金匮要略、课程板书/实操] ` 满屏中医古籍条文，讲解病后饮食调理原则：“人强与谷，脾胃气尚弱，不能消谷...损谷则愈”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略16/88_00_满屏黑板板书，展示了关于病后饮食护理的条文“病人脉已解，而日暮微烦，以强与谷，脾.jpg
+  - 截图路径：assets/screenshots/jingui/0563.webp
 - `96:41` [金匮要略、课程板书/实操] ` 板书手写患者的详细问诊症状列表（睡眠差、胃口过好、小便黄热、口渴喜冷饮、双足冰冷等6项关键体征）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略16/96_41_`_板书手写患者的详细问诊症状列表（睡眠差、胃口过好、小便黄热、口渴喜冷饮、双足.jpg
+  - 截图路径：assets/screenshots/jingui/0564.webp
 - `100:15` [金匮要略、课程板书/实操] ` 板书手写完整的针对淋巴癌与血癌并发的详细中药处方及剂量（包含柴胡、瓦楞子、生附子、生硫磺等关键药材组合）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略16/100_15_`_板书手写完整的针对淋巴癌与血癌并发的详细中药处方及剂量（包含柴胡、瓦楞子、生.jpg
+  - 截图路径：assets/screenshots/jingui/0565.webp
 - `104:50` [金匮要略、课程板书/实操] ` 板书手写“火克金”的五行生克关系图，用于讲解治疗心脏必须兼顾治肺的底层逻辑。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略16/104_50_`_板书手写“火克金”的五行生克关系图，用于讲解治疗心脏必须兼顾治肺的底层逻辑。.jpg
+  - 截图路径：assets/screenshots/jingui/0566.webp
 - `109:10` [金匮要略、课程板书/实操] 板书：记录ALS病人的症状问诊列表（包括1.睡眠不好、2.胃口好、3.口渴喜温饮、4.双脚冰冷、5.全身发冷、6.月经准时）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略16/109_10_板书手写记录ALS患者中医问诊的六大关键症状：睡眠、胃口、口渴喜温饮、双脚冰冷、.jpg
+  - 截图路径：assets/screenshots/jingui/0567.webp
 - `111:26` [金匮要略、课程板书/实操] 板书：针对ALS病例（里寒重症）开出的完整中医处方及剂量，包含生附子、干姜、炙甘草、茯苓、白术、牛膝、桂枝、白芍、补骨脂、当归、细辛、泽泻等中药。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略16/111_26_板书：针对ALS病例（里寒重症）开出的完整中医处方及剂量，包含生附子、干姜、炙甘.jpg
+  - 截图路径：assets/screenshots/jingui/0568.webp
 
 ## 金匮要略17
 
 - `02:02` [金匮要略、课程板书/实操] 板书列出《参同契》的核心理论来源，包含“大易”、“黄帝内经”、“阴符经/道德经”，并总结为“易黄老”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略17/02_02_板书列出《参同契》的核心理论来源，包含“大易”、“黄帝内经”、“阴符经_道德经”.jpg
+  - 截图路径：assets/screenshots/jingui/0569.webp
 - `03:26` [金匮要略、课程板书/实操] 板书展示天地（三阳爻与三阴爻）及日月（离卦与坎卦）的对应关系与卦象符号。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略17/03_26_板书展示天地（三阳爻与三阴爻）及日月（离卦与坎卦）的对应关系与卦象符号。.jpg
+  - 截图路径：assets/screenshots/jingui/0570.webp
 - `05:43` [金匮要略、课程板书/实操] 板书绘制人体简图，将“天圆地方”的概念映射到人体结构的头部和足部。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略17/05_43_板书绘制人体简图，将“天圆地方”的概念映射到人体结构的头部和足部。.jpg
+  - 截图路径：assets/screenshots/jingui/0571.webp
 - `07:29` [金匮要略、课程板书/实操] 板书推导阳气初生的时间为“半夜子时”，并在人体部位中圈出对应的器官“胆”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略17/07_29_板书推导阳气初生的时间为“半夜子时”，并在人体部位中圈出对应的器官“胆”。.jpg
+  - 截图路径：assets/screenshots/jingui/0572.webp
 - `10:48` [金匮要略、课程板书/实操] 板书绘制肝脏与胆囊结构简图，配合讲解胆囊摘除后对胆汁流速和人体机能的影响。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略17/10_48_板书绘制肝脏与胆囊结构简图，配合讲解胆囊摘除后对胆汁流速和人体机能的影响。.jpg
+  - 截图路径：assets/screenshots/jingui/0573.webp
 - `14:19` [金匮要略、课程板书/实操] 黑板手写板书，展示了基于《易经》五行八卦的腹部方位图（木火土金水与肚脐的对应关系）
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略17/14_19_黑板手写板书，展示了基于《易经》五行八卦的腹部方位图（木火土金水与肚脐的对应关系.jpg
+  - 截图路径：assets/screenshots/jingui/0574.webp
 - `19:32` [金匮要略、课程板书/实操] 满屏黑板手写板书，完整展示了针对肝硬化腹水初诊的处方药材及剂量（柴胡、黄芩、炮附子等十余味药）
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略17/19_32_满屏黑板手写板书，完整展示了针对肝硬化腹水初诊的处方药材及剂量（柴胡、黄芩、炮附.jpg
+  - 截图路径：assets/screenshots/jingui/0575.webp
 - `25:29` [金匮要略、课程板书/实操] 满屏黑板手写板书，完整展示了二诊治疗实证腹水的“分消汤”及加减方药材与剂量（泽泻、猪苓、厚朴、大腹皮等）
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略17/25_29_满屏黑板手写板书，完整展示了二诊治疗实证腹水的“分消汤”及加减方药材与剂量（泽泻.jpg
+  - 截图路径：assets/screenshots/jingui/0576.webp
 - `31:46` [金匮要略、课程板书/实操] 黑板板书，写有“生附子 5钱”和“生硫磺 4钱”的关键处方及剂量
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略17/31_46_黑板板书，写有“生附子_5钱”和“生硫磺_4钱”的关键处方及剂量.jpg
+  - 截图路径：assets/screenshots/jingui/0577.webp
 - `33:32` [金匮要略、课程板书/实操] 黑板板书，解释古代炼丹的阴阳五行理论，写有“坎水”、“离”、“铅”、“汞”等字样
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略17/33_32_黑板板书，解释古代炼丹的阴阳五行理论，写有“坎水”、“离”、“铅”、“汞”等字样.jpg
+  - 截图路径：assets/screenshots/jingui/0578.webp
 - `47:39` [金匮要略、课程板书/实操] 满屏板书，讲者详细写出了治疗腹水及吐血的“大柴胡汤”加减处方，包括药材名称（柴胡、黄芩、大黄、枳实、半夏、芒硝、玉金、龙胆草、当归、熟地等）及剂量。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略17/47_39_`_满屏板书手写中医处方，详细列出了针对该肝癌腹水合并内出血患者的完整重剂处方药.jpg
+  - 截图路径：assets/screenshots/jingui/0579.webp
 - `49:59` [金匮要略、课程板书/实操] 满屏板书，讲者指着黑板上的处方，重点解释为何在治疗腹水时要去炙甘草（因会蓄水），以及解释处方中各味药的配伍逻辑。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略17/49_59_满屏板书，讲者指着黑板上的处方，重点解释为何在治疗腹水时要去炙甘草（因会蓄水），.jpg
+  - 截图路径：assets/screenshots/jingui/0580.webp
 - `52:10` [金匮要略、课程板书/实操] ` 黑板板书，写满“胃苓汤”的药物组成及对应剂量比例（苍术、厚朴、陈皮、猪苓、泽泻等）
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略17/52_10_`_黑板板书，写满“胃苓汤”的药物组成及对应剂量比例（苍术、厚朴、陈皮、猪苓、泽.jpg
+  - 截图路径：assets/screenshots/jingui/0581.webp
 - `54:17` [金匮要略、课程板书/实操] ` 黑板板书，展示配合鲤鱼煮汤的五味甘淡渗利中药及剂量（赤小豆、黄芪、薏仁、芡实、莲子）
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略17/54_17_`_黑板板书，展示配合鲤鱼煮汤的五味甘淡渗利中药及剂量（赤小豆、黄芪、薏仁、芡实.jpg
+  - 截图路径：assets/screenshots/jingui/0582.webp
 - `63:45` [金匮要略、课程板书/实操] ` 黑板板书，列出重症心脏病患者的详细初诊症状（手冷、小便慢、睡眠差、大便单行、手足指麻、强烈持续心痛等）
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略17/63_45_`_黑板板书，列出重症心脏病患者的详细初诊症状（手冷、小便慢、睡眠差、大便单行、.jpg
+  - 截图路径：assets/screenshots/jingui/0583.webp
 - `65:06` [金匮要略、课程板书/实操] 板书手写心脏病查诊两大核心主症：“1. 查 耳心点”、“2. T-5 (第五椎压痛)”
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略17/65_06_板书手写心脏病查诊两大核心主症：“1._查_耳心点”、“2._T-5_(第五椎压.jpg
+  - 截图路径：assets/screenshots/jingui/0584.webp
 - `75:16` [金匮要略、课程板书/实操] 满屏板书中医治疗心脏病的完整中药处方，包含：川芎、丹皮、桃仁（一组）；红花；瓜蒌实、薤白、桂枝（一组）；地龙。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略17/75_16_`_黑板板书最终完整处方，在底部加上“地龙”，讲解地龙通全身血脉及引药入地的作用.jpg
+  - 截图路径：assets/screenshots/jingui/0585.webp
 - `80:26` [金匮要略、课程板书/实操] 满屏板书，展示了完整的针对重症心脏病的汤剂处方（包含地龙、当归、牛膝、木通、白芍、栝楼实、薤白、枳实、桂枝、川芎、黄连、黄芩、细辛、炮附子等），以及“汉唐
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略17/80_26_**_满屏板书，展示了完整的针对重症心脏病的汤剂处方（包含地龙、当归、牛膝、木通.jpg
+  - 截图路径：assets/screenshots/jingui/0586.webp
 - `90:08` [金匮要略、课程板书/实操] ` 板书手写小陷胸汤处方：半夏、枳实、黄连3钱
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略17/90_08_`_板书手写小陷胸汤处方：半夏、枳实、黄连3钱.jpg
+  - 截图路径：assets/screenshots/jingui/0587.webp
 
 ## 金匮要略18
 
 - `04:08` [金匮要略、课程板书/实操] 板书手写列出肝癌患者的9项主要临床症状（睡眠、胃口、大便、小便、口渴、手脚温度等详细体征）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略18/04_08_**_板书手写列出肝癌患者的9项主要临床症状（睡眠、胃口、大便、小便、口渴、手脚.jpg
+  - 截图路径：assets/screenshots/jingui/0588.webp
 - `07:18` [金匮要略、课程板书/实操] 板书绘制人体肺、肝、大肠的解剖位置关系图，并标注了“阳反逆”的路线，用于解释“金克木”原理及实证引起燥热的病理机制。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略18/07_18_**_板书绘制人体肺、肝、大肠的解剖位置关系图，并标注了“阳反逆”的路线，用于解.jpg
+  - 截图路径：assets/screenshots/jingui/0589.webp
 - `09:03` [金匮要略、课程板书/实操] 板书列出治疗肝病的处方（小柴胡汤加减：柴胡、黄芩、半夏、党参、郁金等）及剂量，右侧列出了“阳中有阴为精，阴中有阳为气”的理论提纲。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略18/09_03_**_板书列出治疗肝病的处方（小柴胡汤加减：柴胡、黄芩、半夏、党参、郁金等）及剂.jpg
+  - 截图路径：assets/screenshots/jingui/0590.webp
 - `16:57` [金匮要略、课程板书/实操] 满屏黑板板书，左侧为气血循环示意图，下方写有“实脾”及苍术、泽泻、白术、茯苓、茵陈等药材及剂量。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略18/16_57_满屏黑板板书，左侧为气血循环示意图，下方写有“实脾”及苍术、泽泻、白术、茯苓、茵.jpg
+  - 截图路径：assets/screenshots/jingui/0591.webp
 - `19:27` [金匮要略、课程板书/实操] 黑板右侧板书，列出用于“补北”和提升阳气、活血的药方列表：阳起石、续断、三七、炮附子、桂枝等。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略18/19_27_黑板右侧板书，列出用于“补北”和提升阳气、活血的药方列表：阳起石、续断、三七、炮.jpg
+  - 截图路径：assets/screenshots/jingui/0592.webp
 - `22:25` [金匮要略、课程板书/实操] 满屏黑板板书，详细列出患者复诊时的5项关键指征评估：1.睡觉好转 2.小便淡绿 3.大便褐色 4.胃口中等 5.足温。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略18/22_25_满屏黑板板书，详细列出患者复诊时的5项关键指征评估：1.睡觉好转_2.小便淡绿_.jpg
+  - 截图路径：assets/screenshots/jingui/0593.webp
 - `26:25` [金匮要略、课程板书/实操] 黑板板书，针对患者大便隔日的情况，写出调整后的处方：黄芩、黄连、黄柏、茯苓、茵陈及对应剂量。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略18/26_25_黑板板书，针对患者大便隔日的情况，写出调整后的处方：黄芩、黄连、黄柏、茯苓、茵陈.jpg
+  - 截图路径：assets/screenshots/jingui/0594.webp
 - `29:24` [金匮要略、课程板书/实操] 板书手写治疗肝病/清热通便的处方加减：黄连、栀子、豆豉、黄柏、大黄。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略18/29_24_**_板书手写治疗肝病_清热通便的处方加减：黄连、栀子、豆豉、黄柏、大黄。.jpg
+  - 截图路径：assets/screenshots/jingui/0595.webp
 - `36:09` [金匮要略、课程板书/实操] 板书手写乳癌转移患者的六大核心诊断症状：1. 睡眠（失眠）、2. 大便（便秘）、3. 胸痛（无）、4. 脚冷热（温热）、5. 胃口（好）、6. 身热（很重
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略18/36_09_**_板书手写乳癌转移患者的六大核心诊断症状：1._睡眠（失眠）、2._大便（便.jpg
+  - 截图路径：assets/screenshots/jingui/0596.webp
 - `39:51` [金匮要略、课程板书/实操] 板书手写针对乳癌转移及失眠的合方处方：柴胡、防己、黄芩、郁金、黄连、白芍、阿胶。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略18/39_51_**_板书手写针对乳癌转移及失眠的合方处方：柴胡、防己、黄芩、郁金、黄连、白芍、.jpg
+  - 截图路径：assets/screenshots/jingui/0597.webp
 - `45:32` [金匮要略、课程板书/实操] 黑板板书，讲者完整列出了针对“乳癌转移合并失眠、吞咽困难”的处方药味，包括酸枣仁、知母、川芎、炮附子、细辛（两钱）、半夏等。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略18/45_32_板书写有针对乳癌转移合并失眠病人的处方药物：酸枣仁、知母、川芎、炮附子、细辛、半.jpg
+  - 截图路径：assets/screenshots/jingui/0598.webp
 - `51:39` [金匮要略、课程板书/实操] 黑板板书，在患者三诊时，为攻打肝脏阴实，在黑板上补充板书了新增的药味：生鳖甲、茜草。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略18/51_39_黑板板书，在患者三诊时，为攻打肝脏阴实，在黑板上补充板书了新增的药味：生鳖甲、茜.jpg
+  - 截图路径：assets/screenshots/jingui/0599.webp
 - `55:38` [金匮要略、课程板书/实操] 黑板板书记录了乳癌转移患者的复诊时间线（如2/21/07、5/2/07），以及讲解处方微调时手写的药材名称（如海藻、鳖甲、茜草）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略18/55_38_黑板板书记录了乳癌转移患者的复诊时间线（如2_21_07、5_2_07），以及讲.jpg
+  - 截图路径：assets/screenshots/jingui/0600.webp
 - `59:24` [金匮要略、课程板书/实操] 讲者在黑板写下《奇方验录》，正在讲解针对非恶性乳房硬块的经方治疗思路（四物汤、炒麦芽等）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略18/59_24_讲者在黑板写下《奇方验录》，正在讲解针对非恶性乳房硬块的经方治疗思路（四物汤、炒.jpg
+  - 截图路径：assets/screenshots/jingui/0601.webp
 - `63:01` [金匮要略、课程板书/实操] 黑板上手绘人体内脏结构简图（重点标示了肾脏、横膈膜与胃部的位置），用于具象化讲解尿毒症患者体内“冷水气化失败”导致恶心、头晕的病理过程。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略18/63_01_黑板上手绘人体内脏结构简图（重点标示了肾脏、横膈膜与胃部的位置），用于具象化讲解.jpg
+  - 截图路径：assets/screenshots/jingui/0602.webp
 - `67:51` [金匮要略、课程板书/实操] 黑板板书：大便秘结的诊断指标，列出了“3. 小便黄 4. 多数时间冷 5. 双足冰冷”等寒热辨证的关键症状
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略18/67_51_黑板板书：大便秘结的诊断指标，列出了“3._小便黄_4._多数时间冷_5._双足.jpg
+  - 截图路径：assets/screenshots/jingui/0603.webp
 - `71:19` [金匮要略、课程板书/实操] 黑板板书：初诊处方详细药材与剂量，满屏写明了桂枝汤成分、白术、茯苓、生附子、干姜、当归、细辛、炮附子等完整方剂
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略18/71_19_黑板板书：初诊处方详细药材与剂量，满屏写明了桂枝汤成分、白术、茯苓、生附子、干姜.jpg
+  - 截图路径：assets/screenshots/jingui/0604.webp
 - `77:56` [金匮要略、课程板书/实操] 黑板板书：患者化验数据及三诊新增药方，展示了Creatinine（肌酐）从4.7降至3.1的数据，以及新增的“补骨脂”、“败龟板”等滋阴药材
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略18/77_56_黑板板书：患者化验数据及三诊新增药方，展示了Creatinine（肌酐）从4.7.jpg
+  - 截图路径：assets/screenshots/jingui/0605.webp
 - `84:56` [金匮要略、课程板书/实操] ` 板书手写处方调整：黑板右上方写有“黄芩三钱、黄连两钱”，讲者正在讲解利用黄连黄芩解尿毒的用药逻辑。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略18/84_56_`_板书手写处方调整：黑板右上方写有“黄芩三钱、黄连两钱”，讲者正在讲解利用黄连.jpg
+  - 截图路径：assets/screenshots/jingui/0606.webp
 - `86:10` [金匮要略、课程板书/实操] ` 板书手写病历转折点：黑板中央写有“6/13 月经来”，讲者借此画面节点重点讲解月经恢复代表脏腑机能（尤其是心脏）复苏的重大临床意义。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略18/86_10_`_板书手写病历转折点：黑板中央写有“6_13_月经来”，讲者借此画面节点重点讲.jpg
+  - 截图路径：assets/screenshots/jingui/0607.webp
 - `101:41` [金匮要略、课程板书/实操] 满屏黑板板书，左侧列出中医问诊的5个关键症状（1.睡眠不好/失眠；2.大便每日行；3.胃口过好；4.口不渴，逼自己喝；5.小便无法控制/失禁），右侧写有核心病机
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略18/101_41_满屏黑板板书，左侧列出中医问诊的5个关键症状（1.睡眠不好_失眠；2.大便每日行.jpg
+  - 截图路径：assets/screenshots/jingui/0608.webp
 - `103:51` [金匮要略、课程板书/实操] 满屏黑板板书，详细列出了完整的治疗处方及剂量（包含：生附子5钱、细辛2钱、石膏6两、知母5钱、防己5钱、泽泻5钱、茯苓5钱、黄精3钱、桑螵蛸3钱、炙甘草3钱、柴
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略18/103_51_满屏黑板板书，详细列出了完整的治疗处方及剂量（包含：生附子5钱、细辛2钱、石膏6.jpg
+  - 截图路径：assets/screenshots/jingui/0609.webp
 - `111:14` [金匮要略、课程板书/实操] 板书手写针对体内“伏饮”被逼出后导致咳嗽、吐白痰的处方：桔梗、甘草`
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略18/111_14_板书手写针对体内“伏饮”被逼出后导致咳嗽、吐白痰的处方：桔梗、甘草`.jpg
+  - 截图路径：assets/screenshots/jingui/0610.webp
 - `113:13` [金匮要略、课程板书/实操] 板书手写针对咳嗽由白痰转黄痰、干咳的加减药方：杏仁、麦门冬、半夏`
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略18/113_13_板书手写针对咳嗽由白痰转黄痰、干咳的加减药方：杏仁、麦门冬、半夏`.jpg
+  - 截图路径：assets/screenshots/jingui/0611.webp
 - `116:45` [金匮要略、课程板书/实操] 板书手写阐述《金匮要略》中的“诸积大法”，标注“积是阴积”的核心概念`
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略18/116_45_板书手写阐述《金匮要略》中的“诸积大法”，标注“积是阴积”的核心概念`.jpg
+  - 截图路径：assets/screenshots/jingui/0612.webp
 
 ## 金匮要略19
 
 - `06:12` [金匮要略、课程板书/实操] 满屏黑板板书，展示了初诊治疗肺癌寒湿证的完整基础处方药味：桔梗、甘草、生半夏、干姜、皂荚、红枣、射干、紫菀、冬花、麻黄、紫根。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略19/06_12_**_满屏黑板板书，展示了初诊治疗肺癌寒湿证的完整基础处方药味：桔梗、甘草、生半.jpg
+  - 截图路径：assets/screenshots/jingui/0613.webp
 - `07:56` [金匮要略、课程板书/实操] 满屏黑板板书，在原处方旁边补充书写了用于“活血化瘀”和处理胸腔出血的药味：丹皮、桃仁、冬瓜仁（千金苇茎汤成分）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略19/07_56_**_满屏黑板板书，在原处方旁边补充书写了用于“活血化瘀”和处理胸腔出血的药味：.jpg
+  - 截图路径：assets/screenshots/jingui/0614.webp
 - `13:02` [金匮要略、课程板书/实操] 满屏黑板板书，展示了在治疗后期针对干咳无痰添加的润补药味：麦冬、党参、五味子。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略19/13_02_**_满屏黑板板书，展示了在治疗后期针对干咳无痰添加的润补药味：麦冬、党参、五味.jpg
+  - 截图路径：assets/screenshots/jingui/0615.webp
 - `16:24` [金匮要略、课程板书/实操] 黑板板书，展示在原方基础上针对寒热并结咳嗽所增加的药物，可见“苇茎 5钱”、“南星 3钱”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略19/16_24_**_黑板板书，展示在原方基础上针对寒热并结咳嗽所增加的药物，可见“苇茎_5钱”.jpg
+  - 截图路径：assets/screenshots/jingui/0616.webp
 - `21:51` [金匮要略、课程板书/实操] 黑板板书，详细列出7月12日的处方，重点展示了针对癌症疼痛的特效药对：“金铃子”、“延胡索”，并有讲解标注。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略19/21_51_**_黑板板书，详细列出7月12日的处方，重点展示了针对癌症疼痛的特效药对：“金.jpg
+  - 截图路径：assets/screenshots/jingui/0617.webp
 - `24:51` [金匮要略、课程板书/实操] 黑板板书，展示完整的治水止泻处方结构，可见“茯苓、白术、泽泻、车前子、黄柏”等利水药物组合。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略19/24_51_**_黑板板书，展示完整的治水止泻处方结构，可见“茯苓、白术、泽泻、车前子、黄柏.jpg
+  - 截图路径：assets/screenshots/jingui/0618.webp
 - `32:56` [金匮要略、课程板书/实操] ` 板书“5天无大便 小便深黄”，倪师以此为切入点讲解肺炎引发的大承气汤证。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略19/32_56_`_板书“5天无大便_小便深黄”，倪师以此为切入点讲解肺炎引发的大承气汤证。.jpg
+  - 截图路径：assets/screenshots/jingui/0619.webp
 - `36:40` [金匮要略、课程板书/实操] ` 板书千金苇茎汤的药方组成：“苇茎 薏仁 丹皮 桃仁”，讲解排脓去湿的用药。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略19/36_40_`_板书千金苇茎汤的药方组成：“苇茎_薏仁_丹皮_桃仁”，讲解排脓去湿的用药。.jpg
+  - 截图路径：assets/screenshots/jingui/0620.webp
 - `37:59` [金匮要略、课程板书/实操] ` 板书完整治肺炎处方：包含千金苇茎汤、排脓汤（桔梗、甘草）及大承气汤（厚朴、枳实、大黄、芒硝）的全部药味。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略19/37_59_`_板书完整治肺炎处方：包含千金苇茎汤、排脓汤（桔梗、甘草）及大承气汤（厚朴、枳.jpg
+  - 截图路径：assets/screenshots/jingui/0621.webp
 - `43:10` [金匮要略、课程板书/实操] 黑板板书，讲解“百合”的药理，写有“白色入肺”、“白+鬼=魄”，解释百合固肺守魄的作用。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略19/43_10_**_黑板板书，讲解“百合”的药理，写有“白色入肺”、“白+鬼=魄”，解释百合固.jpg
+  - 截图路径：assets/screenshots/jingui/0622.webp
 - `51:17` [金匮要略、课程板书/实操] 满屏黑板板书，完整手写了治疗子宫肌瘤/不孕症的18味中药处方及剂量（炮附子5钱、桂枝3钱、白芍6钱、生姜2片、干姜2钱、吴茱萸3钱、柴胡3钱、玉金3钱、当
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略19/51_17_**_满屏黑板板书，完整手写了治疗子宫肌瘤_不孕症的18味中药处方及剂量（炮附子.jpg
+  - 截图路径：assets/screenshots/jingui/0623.webp
 - `56:26` [金匮要略、课程板书/实操] ` 板书写有针对少腹大寒痛的用药逻辑：“少腹大寒痛 -> 大建中汤”，并口述了相关药材。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略19/56_26_`_板书写有针对少腹大寒痛的用药逻辑：“少腹大寒痛_->_大建中汤”，并口述了相.jpg
+  - 截图路径：assets/screenshots/jingui/0624.webp
 - `63:38` [金匮要略、课程板书/实操] ` 板书列出重症右肾癌患者的核心临床症状：腹胀、倦怠、无小便、下利（腹泻）、吐血。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略19/63_38_`_板书列出重症右肾癌患者的核心临床症状：腹胀、倦怠、无小便、下利（腹泻）、吐血.jpg
+  - 截图路径：assets/screenshots/jingui/0625.webp
 - `65:51` [金匮要略、课程板书/实操] ` 满屏板书，详细列出针对肾癌患者“虚则补之”的处方：以小建中汤加减（桂枝三钱、白芍六钱、生姜、大枣十枚、白术、茯苓、杏仁、厚朴、麦芽糖）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略19/65_51_`_满屏板书，详细列出针对肾癌患者“虚则补之”的处方：以小建中汤加减（桂枝三钱、.jpg
+  - 截图路径：assets/screenshots/jingui/0626.webp
 - `70:12` [金匮要略、课程板书/实操] 满屏板书，展示了针对肾癌吐血患者的完整加减处方：在小建中汤基础上，加入了侧柏叶、干姜、艾叶（温经止血），川芎、当归、熟地（补血活血），黄芩、黄连，以及丹皮
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略19/70_12_**_满屏板书，展示了针对肾癌吐血患者的完整加减处方：在小建中汤基础上，加入了侧.jpg
+  - 截图路径：assets/screenshots/jingui/0627.webp
 - `74:57` [金匮要略、课程板书/实操] 板书图解肿瘤的“领域性”和“过滤”机制，画出了一个肿瘤（圆圈）吸收“恶血”、排斥好血的示意图，直观解释了与癌共存的理论模型。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略19/74_57_**_板书图解肿瘤的“领域性”和“过滤”机制，画出了一个肿瘤（圆圈）吸收“恶血”.jpg
+  - 截图路径：assets/screenshots/jingui/0628.webp
 
 ## 金匮要略20
 
 - `03:36` [金匮要略、课程板书/实操] 板书手写：舌诊图示。画出了舌头中间淡、周围红的分布，并标注了“无苔”、“裂纹很多”的关键体征。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略20/03_36_**_板书手写：舌诊图示。画出了舌头中间淡、周围红的分布，并标注了“无苔”、“裂.jpg
+  - 截图路径：assets/screenshots/jingui/0629.webp
 - `10:19` [金匮要略、课程板书/实操] 满屏板书：详细列出了初诊的完整处方药材清单及剂量（柴胡、黄芩、郁金、龙胆草、茵陈、蝉蜕等），展示了具体的用药组合。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略20/10_19_**_满屏板书：详细列出了初诊的完整处方药材清单及剂量（柴胡、黄芩、郁金、龙胆草.jpg
+  - 截图路径：assets/screenshots/jingui/0630.webp
 - `14:26` [金匮要略、课程板书/实操] 满屏板书：记录二诊（9月12日）的患者反馈与症状变化（红斑退掉一半、左头不痛、仍有掉发等），并标注了病机分析“血虚”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略20/14_26_**_满屏板书：记录二诊（9月12日）的患者反馈与症状变化（红斑退掉一半、左头不.jpg
+  - 截图路径：assets/screenshots/jingui/0631.webp
 - `18:42` [金匮要略、课程板书/实操] 黑板板书，详细记录了红斑性狼疮第三诊的用药加减方剂（半夏、代赭石、当归、熟地、桂枝四钱、南星等）及对应症状。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略20/18_42_黑板板书，详细记录了红斑性狼疮第三诊的用药加减方剂（半夏、代赭石、当归、熟地、桂.jpg
+  - 截图路径：assets/screenshots/jingui/0632.webp
 - `20:58` [金匮要略、课程板书/实操] 黑板板书，记录第四诊的恢复情况，重点标注了“T5（第五胸椎）完全不痛”，展示中医判断红斑性狼疮痊愈的关键骨骼指标。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略20/20_58_黑板板书，记录第四诊的恢复情况，重点标注了“T5（第五胸椎）完全不痛”，展示中医.jpg
+  - 截图路径：assets/screenshots/jingui/0633.webp
 - `29:45` [金匮要略、课程板书/实操] 黑板板书，展示“五脏逼毒法”的脏腑对应发音图解（肝-嘘，心-呵，脾-呼等），用于指导练功前的内脏排毒。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略20/29_45_黑板板书，展示“五脏逼毒法”的脏腑对应发音图解（肝-嘘，心-呵，脾-呼等），用于.jpg
+  - 截图路径：assets/screenshots/jingui/0634.webp
 - `29:48` [金匮要略、课程板书/实操] 板书内容，明确列出了五脏逼毒法的脏腑与发音对应关系图解（肝-嘘、心-呵、脾-呼、肺-呬、肾-吹、三焦心包-嘻）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略20/29_48_`_满屏板书《易筋经》“五脏逼毒法”，列出五脏对应的排毒发音（肝-嘘、心-呵、脾.jpg
+  - 截图路径：assets/screenshots/jingui/0635.webp
 - `39:43` [金匮要略、课程板书/实操] 板书内容，列出了本阶段课程的三大模块核心大纲（1.五脏逼毒法 2.文式易筋经 3.武式易筋经）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略20/39_43_板书内容，列出了本阶段课程的三大模块核心大纲（1.五脏逼毒法_2.文式易筋经_3.jpg
+  - 截图路径：assets/screenshots/jingui/0636.webp
 
 ## 金匮要略21
 
 - `01:47` [金匮要略、课程板书/实操] 实物展示细节：讲者在患者腰部演示如何通过触摸肌肉边缘的凹陷处来精准定位“肾俞穴”，而非单纯数脊椎。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略21/01_47_实物展示细节：讲者在患者腰部演示如何通过触摸肌肉边缘的凹陷处来精准定位“肾俞穴”.jpg
+  - 截图路径：assets/screenshots/jingui/0637.webp
 - `03:28` [金匮要略、课程板书/实操] 实物展示细节：演示“消积穴”的深刺手法，针尖穿过脚后跟大筋直抵骨头的进针角度。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略21/03_28_`_消积穴深刺手法：腿部特写，展示消积穴下针时，长针从脚后跟大筋后方完全穿透至触.jpg
+  - 截图路径：assets/screenshots/jingui/0638.webp
 - `10:26` [金匮要略、课程板书/实操] 实物展示细节：演示治疗督脉痛时，“灵台穴”垂直刺入脊柱1.5寸直接触及骨头的下针深度。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略21/10_26_实物展示细节：演示治疗督脉痛时，“灵台穴”垂直刺入脊柱1.5寸直接触及骨头的下针.jpg
+  - 截图路径：assets/screenshots/jingui/0639.webp
 - `11:54` [金匮要略、课程板书/实操] 实物展示细节：在患者大腿内侧按压寻找“阿是穴”（最痛点）并直接下针的实操过程。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略21/11_54_实物展示细节：在患者大腿内侧按压寻找“阿是穴”（最痛点）并直接下针的实操过程。.jpg
+  - 截图路径：assets/screenshots/jingui/0640.webp
 - `12:47` [金匮要略、课程板书/实操] 实物展示细节：脚部鸡眼的直接灸法演示，展示了凡士林打底、艾炷大小及线香点燃的具体状态。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略21/12_47_`_鸡眼实物艾灸完整操作：足部特写，展示涂抹凡士林后，放置手搓艾绒并点燃，用香火.jpg
+  - 截图路径：assets/screenshots/jingui/0641.webp
 - `15:53` [金匮要略、课程板书/实操] 医生在患者脚部实操“直接灸”治疗鸡眼，展示艾绒小柱直接在皮肤病灶上燃烧的细节过程。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略21/15_53_**_医生在患者脚部实操“直接灸”治疗鸡眼，展示艾绒小柱直接在皮肤病灶上燃烧的细.jpg
+  - 截图路径：assets/screenshots/jingui/0642.webp
 - `19:08` [金匮要略、课程板书/实操] 讲者在黑板上手绘人体背部示意图，详细板书并讲解督脉疼痛时的取穴方法（远取后溪，近取灵台、督俞）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略21/19_08_**_讲者在黑板上手绘人体背部示意图，详细板书并讲解督脉疼痛时的取穴方法（远取后.jpg
+  - 截图路径：assets/screenshots/jingui/0643.webp
 - `22:47` [金匮要略、课程板书/实操] 讲者在黑板上板书“实证”并将其明确划分为“阳”和“阴”，强调区分阴阳是医生治病的基础。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略21/22_47_**_讲者在黑板上板书“实证”并将其明确划分为“阳”和“阴”，强调区分阴阳是医生.jpg
+  - 截图路径：assets/screenshots/jingui/0644.webp
 - `26:13` [金匮要略、课程板书/实操] 讲者板书《易经》名言“履霜坚冰至”，以此引申解释手脚（人体末梢）出现浮肿是极其危险的预兆（阴阳绝离）。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略21/26_13_`_黑板手写板书：写有“履霜坚冰至”，配合讲解手脚浮肿代表的阴阳绝离危象。.jpg
+  - 截图路径：assets/screenshots/jingui/0645.webp
 - `28:21` [金匮要略、课程板书/实操] 讲者板书治疗脑瘤等重症的首要考量“排水”及“营养”，并画图标注“鼻孔通脑”，解释利用鼻腔排液降压的战术逻辑。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略21/28_21_**_讲者板书治疗脑瘤等重症的首要考量“排水”及“营养”，并画图标注“鼻孔通脑”.jpg
+  - 截图路径：assets/screenshots/jingui/0646.webp
 - `33:22` [金匮要略、课程板书/实操] ` 板书写有针对脑瘤病人前期引流的处方，包含通鼻窍去湿的药名：“辛夷、菖蒲、苍术”以及标注的“去湿”等字样。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略21/33_22_**_黑板板书展示外用喷剂后的口服处方：板书写有“辛夷、菖蒲、苍术”，讲者正在讲.jpg
+  - 截图路径：assets/screenshots/jingui/0647.webp
 - `36:41` [金匮要略、课程板书/实操] ` 板书写有针对眼盲/肝脏病变的处方，列有：“肝 -> 柴胡、黄芩、郁金、龙胆草”，并标注了“赤”、“白”以及“火克金”等五行理论字样。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略21/36_41_`_板书写有针对眼盲_肝脏病变的处方，列有：“肝_->_柴胡、黄芩、郁金、龙胆草.jpg
+  - 截图路径：assets/screenshots/jingui/0648.webp
 - `39:29` [金匮要略、课程板书/实操] ` 板书画有膀胱（水）与小肠（火）的生理解剖位置关系草图，并标注了膀胱气化后的容量“400cc”。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略21/39_29_`_板书画有膀胱（水）与小肠（火）的生理解剖位置关系草图，并标注了膀胱气化后的容.jpg
+  - 截图路径：assets/screenshots/jingui/0649.webp
 - `41:17` [金匮要略、课程板书/实操] ` 板书在膀胱与小肠位置图中间，补充写上了“精宫”二字，用于讲解男性生精的生理位置。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略21/41_17_`_板书在膀胱与小肠位置图中间，补充写上了“精宫”二字，用于讲解男性生精的生理位.jpg
+  - 截图路径：assets/screenshots/jingui/0650.webp
 - `46:18` [金匮要略、课程板书/实操] 板书手写治疗关节紧痛的辨证用药逻辑：“去风->桂枝，去寒->炮附子，去湿->白术”，以及开出的方剂“桂枝甘草附子汤”及起步剂量。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略21/46_18_**_板书手写治疗关节紧痛的辨证用药逻辑：“去风->桂枝，去寒->炮附子，去湿-.jpg
+  - 截图路径：assets/screenshots/jingui/0651.webp
 - `48:58` [金匮要略、课程板书/实操] 板书手写“牡蛎”与“龙骨”的作用，标注了神农本草经中软“坚”即是去“实”，并解释了龙骨牡蛎同用以敛阳下潜的原理。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略21/48_58_`_黑板板书，展示了去风寒湿的用药（桂枝、附子、白术），以及攻阴实的用药配伍（硫.jpg
+  - 截图路径：assets/screenshots/jingui/0652.webp
 - `52:13` [金匮要略、课程板书/实操] 板书手写中医睡眠生理与病理对比：“常人 睡觉 -> 身是凉的... 阳入阴”，并以此解释癌症患者半夜身热是由于“阳无法入阴”导致的阴阳分隔。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略21/52_13_**_板书手写中医睡眠生理与病理对比：“常人_睡觉_->_身是凉的..._阳入阴.jpg
+  - 截图路径：assets/screenshots/jingui/0653.webp
 - `55:30` [金匮要略、课程板书/实操] 板书手写肺癌初期的对症方剂组合：“桔梗甘草汤”以及重点讲解的“皂荚 + 大枣（红枣）”，用于去浊痰并保护胃酸。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略21/55_30_**_板书手写肺癌初期的对症方剂组合：“桔梗甘草汤”以及重点讲解的“皂荚_+_大.jpg
+  - 截图路径：assets/screenshots/jingui/0654.webp
 - `56:43` [金匮要略、课程板书/实操] 板书手写应对肺部积水、躺下即咳的“射干麻黄汤”的核心药组：“紫菀、冬花、麻黄、射干”，并讲解了其适用时机。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略21/56_43_**_板书手写应对肺部积水、躺下即咳的“射干麻黄汤”的核心药组：“紫菀、冬花、麻.jpg
+  - 截图路径：assets/screenshots/jingui/0655.webp
 - `58:28` [金匮要略、课程板书/实操] 板书手写针对阴阳相隔极度危险脉象所加的“苇茎汤”配伍：“苇茎、冬瓜仁、丹皮、桃仁（活血化瘀）”，意图打通痰水阻隔。
-  - 截图路径：/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis/screenshots/金匮要略21/58_28_**_板书手写针对阴阳相隔极度危险脉象所加的“苇茎汤”配伍：“苇茎、冬瓜仁、丹皮.jpg
+  - 截图路径：assets/screenshots/jingui/0656.webp

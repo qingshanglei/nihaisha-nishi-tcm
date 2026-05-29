@@ -14,6 +14,9 @@ EVIDENCE_FILES = [
     ROOT / "references" / "jingui-screenshot-evidence.md",
     ROOT / "references" / "zhongjing-xinfa-screenshot-evidence.md",
     ROOT / "references" / "clinical-cases-screenshot-evidence.md",
+    ROOT / "references" / "bagang-screenshot-evidence.md",
+    ROOT / "references" / "fuyang-screenshot-evidence.md",
+    ROOT / "references" / "yijinjing-screenshot-evidence.md",
     ROOT / "references" / "huangdi-screenshot-evidence.md",
     ROOT / "references" / "bencao-screenshot-evidence.md",
     ROOT / "references" / "acupuncture-screenshot-evidence.md",
@@ -60,9 +63,22 @@ def score_entry(entry: dict[str, str], terms: list[str]) -> int:
             score += 1
     if all(term in hay for term in terms if term):
         score += 20
-    if Path(entry["path"]).exists():
+    if resolve_path(entry["path"]).exists():
         score += 2
     return score
+
+
+def resolve_path(path: str) -> Path:
+    candidate = Path(path)
+    if candidate.is_absolute():
+        return candidate
+    return ROOT / candidate
+
+
+def path_status(path: str) -> str:
+    if path.startswith("未上传"):
+        return "not-uploaded"
+    return "exists" if resolve_path(path).exists() else "missing"
 
 
 def main() -> int:
@@ -83,8 +99,7 @@ def main() -> int:
     ranked.sort(key=lambda item: (-item[0], item[1]["lesson"], item[1]["time"]))
 
     for score, entry in ranked[: args.limit]:
-        exists = "exists" if Path(entry["path"]).exists() else "missing"
-        print(f"- {entry['lesson']} {entry['time']} [{entry['category']}] score={score} path={exists}")
+        print(f"- {entry['lesson']} {entry['time']} [{entry['category']}] score={score} path={path_status(entry['path'])}")
         print(f"  {entry['desc']}")
         print(f"  截图路径：{entry['path']}")
     return 0
