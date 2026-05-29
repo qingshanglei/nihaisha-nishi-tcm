@@ -1,8 +1,8 @@
 ---
 name: nihaixia
-description: Use this skill when the user asks about Ni Haixia / 倪海厦 TCM course material, especially Shang Han Lun / 伤寒论 learning, six-channel pattern identification, symptom-to-formula routing, formula comparison, lesson review, board/PPT screenshot evidence, or course-derived study notes. This skill is for educational distillation and study support only, not medical diagnosis, prescriptions, dosage, or individualized treatment.
+description: Use this skill when the user asks about Ni Haixia / 倪海厦 TCM course material, especially Shang Han Lun / 伤寒论, Jingui / 金匮要略, Zhongjing Xinfa / 仲景心法, clinical cases / 临床案例 / 倪师医案, Bagang Bianzheng / 八纲辨证, Fuyang Forum / 扶阳论坛, Yijinjing / 易筋经, Liang Dong dialogue / 梁冬对话倪师, Stanford lecture / 斯坦福大学演讲, Tianji / 天纪 / 易经 / 阳宅 / 紫微斗数, Huangdi Neijing / 黄帝内经, Shennong Bencao / 神农本草, acupuncture / 针灸, meridians, acupoints, six-channel pattern identification, symptom-to-formula routing, formula comparison, lesson review, board/PPT screenshot evidence, or course-derived study notes. This skill is for educational distillation and study support only, not medical diagnosis, prescriptions, dosage, or individualized treatment.
 metadata:
-  short-description: 倪海厦《伤寒论》课程学习、方证辨析、六经检索和板书证据索引
+  short-description: 倪海厦《伤寒论》《金匮要略》《仲景心法》《临床案例》《八纲辨证》《扶阳论坛》《易筋经》《梁冬对话》《斯坦福演讲》《天纪》《黄帝内经》《神农本草》《针灸》课程学习、方证穴位辨析和板书证据索引
 ---
 
 # Nihaixia 中医课程资料
@@ -24,6 +24,18 @@ This skill is educational. Do not present content as diagnosis, prescription, or
    - Formula queries: `references/formula-patterns.md`, with `references/six-channel.md` for context.
    - Six-channel review: `references/six-channel.md`.
    - Lesson review or learning plans: `references/lesson-map.md`.
+   - Jingui / 金匮要略 questions: `references/jingui.md`; use `references/jingui-screenshot-evidence.md` for board, acupuncture-demo, or source-evidence lookups.
+   - Zhongjing Xinfa / 仲景心法 questions: `references/zhongjing-xinfa.md`; use `references/zhongjing-xinfa-screenshot-evidence.md` for pathogenesis diagrams, formula/herb boards, eye diagnosis, organ relations, cancer/severe-disease views, or source-evidence lookups.
+   - Clinical cases / 临床案例 / 倪师医案 questions: `references/clinical-cases.md`; use `references/clinical-cases-screenshot-evidence.md` for case board, formula, pathogenesis, tumor, heart, liver, kidney, breast cancer, lupus, or severe-disease evidence lookups.
+   - Bagang Bianzheng / 八纲辨证 questions: `references/bagang.md`; this module currently has text distillation only, with no screenshot evidence because the visual model quota was exhausted during ingestion.
+   - Fuyang Forum / 扶阳论坛 questions: `references/fuyang.md`; this module currently has text distillation only, with no screenshot evidence because the visual model quota was exhausted during ingestion.
+   - Yijinjing / 易筋经 questions: `references/yijinjing.md`; this module currently has text distillation only, with no screenshot evidence because the visual model quota was exhausted during ingestion.
+   - Liang Dong dialogue / 梁冬对话倪师 questions: `references/liangdong.md`; this module currently has text distillation only, with no screenshot evidence because the visual model quota was exhausted during ingestion.
+   - Stanford lecture / 斯坦福大学演讲 questions: `references/stanford.md`; this module currently has text distillation only, with no screenshot evidence because the visual model quota was exhausted during ingestion.
+   - Tianji / 天纪 / 易经 / 阳宅 / 紫微斗数 questions: `references/tianji.md`; use `references/tianji-screenshot-evidence.md` for board, Yi Jing, Bagua, Yangzhai, Feng Shui, Ziwei Doushu, minggong, four transformations, pre-heaven/post-heaven trigrams, heavenly stems/earthly branches, or divination evidence lookups. Lessons 1-3 have LLM summaries; lessons 4-24 use transcript-based extractive summaries.
+   - Huangdi Neijing / 黄帝内经 questions: `references/huangdi.md`; use `references/huangdi-screenshot-evidence.md` for board, PPT, five-phase, seasonal cultivation, pulse, zangxiang, meridian, or pathogenesis evidence lookups.
+   - Shennong Bencao / 神农本草 questions: `references/bencao.md`; use `references/bencao-screenshot-evidence.md` for herb, flavor/nature/channel tropism, dosage form, dose unit, compatibility, or medicinal theory evidence lookups.
+   - Acupuncture / 针灸 questions: `references/acupuncture.md`; use `references/acupuncture-screenshot-evidence.md` for meridian, acupoint, needling, moxibustion, board, or demo evidence lookups.
    - Course overview or older all-in-one lookup: `references/shanghanlun.md`.
    - Board/PPT/source evidence: prefer `python scripts/search_screenshots.py <terms...>` for ranked results; use `rg` on `references/screenshot-evidence.md` only for quick manual lookup.
 3. Answer in the structure that matches the task:

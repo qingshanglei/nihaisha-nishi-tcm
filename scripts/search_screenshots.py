@@ -9,7 +9,16 @@ import re
 
 
 ROOT = Path(__file__).resolve().parents[1]
-EVIDENCE = ROOT / "references" / "screenshot-evidence.md"
+EVIDENCE_FILES = [
+    ROOT / "references" / "screenshot-evidence.md",
+    ROOT / "references" / "jingui-screenshot-evidence.md",
+    ROOT / "references" / "zhongjing-xinfa-screenshot-evidence.md",
+    ROOT / "references" / "clinical-cases-screenshot-evidence.md",
+    ROOT / "references" / "huangdi-screenshot-evidence.md",
+    ROOT / "references" / "bencao-screenshot-evidence.md",
+    ROOT / "references" / "acupuncture-screenshot-evidence.md",
+    ROOT / "references" / "tianji-screenshot-evidence.md",
+]
 
 
 def parse_entries(text: str) -> list[dict[str, str]]:
@@ -17,7 +26,7 @@ def parse_entries(text: str) -> list[dict[str, str]]:
     lesson = ""
     current: dict[str, str] | None = None
     for line in text.splitlines():
-        if line.startswith("## 伤寒论"):
+        if line.startswith("## "):
             lesson = line.removeprefix("## ").strip()
         elif line.startswith("- `"):
             match = re.match(r"- `([^`]+)` \[([^\]]+)\] (.*)", line)
@@ -62,7 +71,10 @@ def main() -> int:
     parser.add_argument("-n", "--limit", type=int, default=8)
     args = parser.parse_args()
 
-    entries = parse_entries(EVIDENCE.read_text(encoding="utf-8"))
+    entries = []
+    for evidence in EVIDENCE_FILES:
+        if evidence.exists():
+            entries.extend(parse_entries(evidence.read_text(encoding="utf-8")))
     ranked = []
     for entry in entries:
         score = score_entry(entry, args.terms)
