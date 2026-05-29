@@ -67,8 +67,8 @@ Claude Code / Codex / OpenClaw Skill。装进 agent 后，可以用自然语言�
 | 八纲辨证 | [`references/bagang.md`](./references/bagang.md) | [`references/bagang-screenshot-evidence.md`](./references/bagang-screenshot-evidence.md) 33 张代表画面 |
 | 扶阳论坛 | [`references/fuyang.md`](./references/fuyang.md) | [`references/fuyang-screenshot-evidence.md`](./references/fuyang-screenshot-evidence.md) 37 张 |
 | 易筋经 | [`references/yijinjing.md`](./references/yijinjing.md) | [`references/yijinjing-screenshot-evidence.md`](./references/yijinjing-screenshot-evidence.md) 28 张 |
-| 梁冬对话倪师 | [`references/liangdong.md`](./references/liangdong.md) | 待补跑 |
-| 斯坦福大学演讲 | [`references/stanford.md`](./references/stanford.md) | 待补跑 |
+| 梁冬对话倪师 | [`references/liangdong.md`](./references/liangdong.md) | - |
+| 斯坦福大学演讲 | [`references/stanford.md`](./references/stanford.md) | - |
 | 天纪 | [`references/tianji.md`](./references/tianji.md) | [`references/tianji-screenshot-evidence.md`](./references/tianji-screenshot-evidence.md) 527 张 |
 | 黄帝内经 | [`references/huangdi.md`](./references/huangdi.md) | [`references/huangdi-screenshot-evidence.md`](./references/huangdi-screenshot-evidence.md) 272 张 |
 | 神农本草 | [`references/bencao.md`](./references/bencao.md) | [`references/bencao-screenshot-evidence.md`](./references/bencao-screenshot-evidence.md) 127 张 |

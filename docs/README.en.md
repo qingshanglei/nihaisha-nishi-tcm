@@ -67,8 +67,8 @@ A Claude Code / Codex / OpenClaw Skill. Once installed in an agent, it lets you 
 | Bagang pattern identification | [`references/bagang.md`](../references/bagang.md) | [`references/bagang-screenshot-evidence.md`](../references/bagang-screenshot-evidence.md) 33 representative images |
 | Fuyang Forum | [`references/fuyang.md`](../references/fuyang.md) | [`references/fuyang-screenshot-evidence.md`](../references/fuyang-screenshot-evidence.md) 37 images |
 | Yijinjing | [`references/yijinjing.md`](../references/yijinjing.md) | [`references/yijinjing-screenshot-evidence.md`](../references/yijinjing-screenshot-evidence.md) 28 images |
-| Liang Dong interview with Ni Haixia | [`references/liangdong.md`](../references/liangdong.md) | Pending screenshot indexing |
-| Stanford lecture | [`references/stanford.md`](../references/stanford.md) | Pending screenshot indexing |
+| Liang Dong interview with Ni Haixia | [`references/liangdong.md`](../references/liangdong.md) | - |
+| Stanford lecture | [`references/stanford.md`](../references/stanford.md) | - |
 | Tianji | [`references/tianji.md`](../references/tianji.md) | [`references/tianji-screenshot-evidence.md`](../references/tianji-screenshot-evidence.md) 527 images |
 | Huangdi Neijing | [`references/huangdi.md`](../references/huangdi.md) | [`references/huangdi-screenshot-evidence.md`](../references/huangdi-screenshot-evidence.md) 272 images |
 | Shennong Bencao | [`references/bencao.md`](../references/bencao.md) | [`references/bencao-screenshot-evidence.md`](../references/bencao-screenshot-evidence.md) 127 images |
