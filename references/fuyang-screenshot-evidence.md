@@ -1,6 +1,7 @@
 # 扶阳论坛截图证据索引
-> 来源：`/Users/june/code/github/media_lessons_distill/倪海厦扶阳论坛/analysis`。
+> 来源：`../media_lessons_distill/倪海厦扶阳论坛/analysis`。
 > 用于检索扶阳论坛课程中的板书、PPT、演讲现场和课程画面证据。
+> 安全边界：截图条目仅用于定位课程画面证据；其中出现的病案、处方、剂量、针灸或急症内容不得作为个人医疗建议或操作依据。
 
 ## 倪师扶阳论坛演讲01
 

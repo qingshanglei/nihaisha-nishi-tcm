@@ -1,7 +1,8 @@
 # 金匮要略截图证据索引
 
-> 来源：`/Users/june/code/github/media_lessons_distill/倪海厦金匮要略课程/analysis`。
+> 来源：`../media_lessons_distill/倪海厦金匮要略课程/analysis`。
 > 用于检索板书、PPT、针灸实操和课程画面证据。
+> 安全边界：截图条目仅用于定位课程画面证据；其中出现的病案、处方、剂量、针灸或急症内容不得作为个人医疗建议或操作依据。
 
 ## 金匮要略01
 
