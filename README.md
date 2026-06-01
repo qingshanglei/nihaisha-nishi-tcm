@@ -158,7 +158,11 @@ python3 scripts/search_screenshots.py 针灸 足三里
 
 感谢 [Datawhale 社区](https://github.com/datawhalechina) 与 [LINUX DO — 中文开发者社区](https://linux.do/) 对开源学习、技术交流和知识共创氛围的长期推动。本项目的整理和分享也希望延续这种开放互助的社区精神，仅供学习交流使用。
 
-欢迎扫码加入微信交流群：
+## 交流社群
+
+欢迎扫码加入微信交流群，交流倪海厦课程学习、中医理论整理、Agent Skills 使用、资料检索与学习笔记共建等相关内容。
+
+本群仅用于非商业的学习交流与技术讨论，不提供个人诊断、处方、剂量或自我用药建议。
 
 <p align="center">
   <img src="./docs/wechat_code.jpg" alt="nihaixia 微信交流群二维码" width="260">
