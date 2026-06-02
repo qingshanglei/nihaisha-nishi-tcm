@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Rank screenshot evidence entries for Nihaixia course notes."""
+"""Rank screenshot evidence entries for Nihaisha course notes."""
 
 from __future__ import annotations
 

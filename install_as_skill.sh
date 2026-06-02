@@ -63,13 +63,13 @@ resolve_install_target() {
 resolve_skill_dir() {
     case "$1" in
         claude)
-            echo "$HOME/.claude/skills/nihaixia"
+            echo "$HOME/.claude/skills/nihaisha"
             ;;
         codex)
-            echo "${CODEX_HOME:-$HOME/.codex}/skills/nihaixia"
+            echo "${CODEX_HOME:-$HOME/.codex}/skills/nihaisha"
             ;;
         openclaw)
-            echo "$HOME/skills/nihaixia"
+            echo "$HOME/skills/nihaisha"
             ;;
     esac
 }
@@ -91,7 +91,7 @@ resolve_agent_label() {
 main() {
     parse_args "$@"
 
-    print_header "nihaixia -- 安装"
+    print_header "nihaisha -- 安装"
 
     INSTALL_TARGET="$(resolve_install_target)"
     SKILL_DIR="$(resolve_skill_dir "$INSTALL_TARGET")"

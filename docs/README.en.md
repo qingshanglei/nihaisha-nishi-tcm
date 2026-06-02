@@ -1,14 +1,14 @@
 <div align="center">
 
-# nihaixia
+# nihaisha
 
-**Turn Ni Haixia's Traditional Chinese Medicine course materials into a searchable, traceable Agent Skill with clear safety boundaries.**
+**Turn Ni Haisha's Traditional Chinese Medicine course materials into a searchable, traceable Agent Skill with clear safety boundaries.**
 
-A Claude Code / Codex / OpenClaw Skill. Once installed in an agent, it lets you use natural language to search Ni Haixia course materials by symptom, formula, acupoint, course module, lesson, or board/PPT screenshot, then returns study-oriented pattern analysis, formula/acupoint/herb comparisons, lesson review plans, and screenshot evidence indexes.
+A Claude Code / Codex / OpenClaw Skill. Once installed in an agent, it lets you use natural language to search Ni Haisha course materials by symptom, formula, acupoint, course module, lesson, or board/PPT screenshot, then returns study-oriented pattern analysis, formula/acupoint/herb comparisons, lesson review plans, and screenshot evidence indexes.
 
-[![GitHub stars](https://img.shields.io/github/stars/JuneYaooo/nihaixia?style=flat)](https://github.com/JuneYaooo/nihaixia/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/JuneYaooo/nihaisha?style=flat)](https://github.com/JuneYaooo/nihaisha/stargazers)
 [![Skill](https://img.shields.io/badge/Agent-Skill-orange.svg)](../SKILL.md)
-[![TCM](https://img.shields.io/badge/TCM-Ni%20Haixia-green.svg)](../references/index.md)
+[![TCM](https://img.shields.io/badge/TCM-Ni%20Haisha-green.svg)](../references/index.md)
 [![Course](https://img.shields.io/badge/course-multi--module-blue.svg)](../references/index.md)
 
 **中文** → [../README.md](../README.md)
@@ -31,7 +31,7 @@ A Claude Code / Codex / OpenClaw Skill. Once installed in an agent, it lets you 
 
 | Use case | Fit | Notes |
 | --- | --- | --- |
-| Study Ni Haixia's courses | Strong | Review by course module, lesson, topic, and screenshot evidence. |
+| Study Ni Haisha's courses | Strong | Review by course module, lesson, topic, and screenshot evidence. |
 | Look up a formula pattern from the courses | Strong | Can return symptom clusters, pathomechanism layers, related formulas, and contraindication reminders. |
 | Search acupuncture, channels, and points | Strong | Search by acupoint, channel, point-combination scenario, and practical screenshots. |
 | Study materia medica or Neijing theory | Good | Enters the Shennong Bencao and Huangdi Neijing modules for course-based study notes. |
@@ -51,7 +51,7 @@ A Claude Code / Codex / OpenClaw Skill. Once installed in an agent, it lets you 
 | Bagang pattern identification | [`references/bagang.md`](../references/bagang.md) | [`references/bagang-screenshot-evidence.md`](../references/bagang-screenshot-evidence.md) 33 representative images |
 | Fuyang Forum | [`references/fuyang.md`](../references/fuyang.md) | [`references/fuyang-screenshot-evidence.md`](../references/fuyang-screenshot-evidence.md) 37 images |
 | Yijinjing | [`references/yijinjing.md`](../references/yijinjing.md) | [`references/yijinjing-screenshot-evidence.md`](../references/yijinjing-screenshot-evidence.md) 28 images |
-| Liang Dong interview with Ni Haixia | [`references/liangdong.md`](../references/liangdong.md) | - |
+| Liang Dong interview with Ni Haisha | [`references/liangdong.md`](../references/liangdong.md) | - |
 | Stanford lecture | [`references/stanford.md`](../references/stanford.md) | - |
 | Tianji | [`references/tianji.md`](../references/tianji.md) | [`references/tianji-screenshot-evidence.md`](../references/tianji-screenshot-evidence.md) 527 images |
 | Huangdi Neijing | [`references/huangdi.md`](../references/huangdi.md) | [`references/huangdi-screenshot-evidence.md`](../references/huangdi-screenshot-evidence.md) 272 images |
@@ -79,8 +79,8 @@ A Claude Code / Codex / OpenClaw Skill. Once installed in an agent, it lets you 
 Paste this prompt into your AI assistant:
 
 ```text
-Please install the nihaixia skill for me:
-https://github.com/JuneYaooo/nihaixia
+Please install the nihaisha skill for me:
+https://github.com/JuneYaooo/nihaisha
 ```
 
 The agent can clone the repository and install the directory into the corresponding skills folder.
@@ -88,8 +88,8 @@ The agent can clone the repository and install the directory into the correspond
 ### Option 2: manual install
 
 ```bash
-git clone git@github.com:JuneYaooo/nihaixia.git
-cd nihaixia
+git clone git@github.com:JuneYaooo/nihaisha.git
+cd nihaisha
 bash install_as_skill.sh --target codex    # Codex
 # or
 bash install_as_skill.sh --target claude   # Claude Code
@@ -97,40 +97,40 @@ bash install_as_skill.sh --target claude   # Claude Code
 
 The script installs the skill into:
 
-- Codex: `~/.codex/skills/nihaixia/`
-- Claude Code: `~/.claude/skills/nihaixia/`
-- OpenClaw: `~/skills/nihaixia/`
+- Codex: `~/.codex/skills/nihaisha/`
+- Claude Code: `~/.claude/skills/nihaisha/`
+- OpenClaw: `~/skills/nihaisha/`
 
 After installation, restart the corresponding agent so the skill metadata is reloaded.
 
 ## Usage examples
 
 ```text
-Use nihaixia to explain the difference between taiyang wind-strike and taiyang cold-damage.
+Use nihaisha to explain the difference between taiyang wind-strike and taiyang cold-damage.
 ```
 
 ```text
-Use nihaixia to compare the formula-pattern decision points for Guizhi Tang, Mahuang Tang, and Gegen Tang.
+Use nihaisha to compare the formula-pattern decision points for Guizhi Tang, Mahuang Tang, and Gegen Tang.
 ```
 
 ```text
-Use nihaixia to explain in plain language: why do some people get chills without sweating during a cold, while others fear wind and sweat?
+Use nihaisha to explain in plain language: why do some people get chills without sweating during a cold, while others fear wind and sweat?
 ```
 
 ```text
-Use nihaixia to find board-screenshot evidence related to Xiao Chaihu Tang.
+Use nihaisha to find board-screenshot evidence related to Xiao Chaihu Tang.
 ```
 
 ```text
-Use nihaixia to trace the Jingui course threads for chest impediment, water qi, and phlegm-rheum.
+Use nihaisha to trace the Jingui course threads for chest impediment, water qi, and phlegm-rheum.
 ```
 
 ```text
-Use nihaixia to summarize the acupuncture course material on the Ren/Du channels and common emergency acupoints.
+Use nihaisha to summarize the acupuncture course material on the Ren/Du channels and common emergency acupoints.
 ```
 
 ```text
-Use nihaixia to find Tianji board evidence related to ming gong and si hua.
+Use nihaisha to find Tianji board evidence related to ming gong and si hua.
 ```
 
 You can also run screenshot search directly:
@@ -146,7 +146,7 @@ python3 scripts/search_screenshots.py acupuncture Zusanli
 
 ## Safety notice
 
-This project is for studying Ni Haixia's courses, retrieving course material, and organizing Traditional Chinese Medicine theory. It is not intended for medical diagnosis or individualized treatment.
+This project is for studying Ni Haisha's courses, retrieving course material, and organizing Traditional Chinese Medicine theory. It is not intended for medical diagnosis or individualized treatment.
 
 For topics involving Fuzi-class herbs, Sini Tang-family formulas, Da Chengqi Tang / urgent purging to preserve yin, Didang Tang, Da Xianxiong Tang, cancer/tumors, pregnancy, children, chest pain, altered consciousness, severe dehydration, or other urgent or severe conditions, consult a qualified physician or emergency service immediately.
 
