@@ -6,7 +6,7 @@
 
 A Claude Code / Codex / OpenClaw Skill. Once installed in an agent, it lets you use natural language to search Ni Haisha course materials by symptom, formula, acupoint, course module, lesson, or board/PPT screenshot, then returns study-oriented pattern analysis, formula/acupoint/herb comparisons, lesson review plans, and screenshot evidence indexes.
 
-[![GitHub stars](https://img.shields.io/github/stars/JuneYaooo/nihaisha?style=flat)](https://github.com/JuneYaooo/nihaisha/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/JuneYaooo/nihaisha-tcm?style=flat)](https://github.com/JuneYaooo/nihaisha-tcm/stargazers)
 [![Skill](https://img.shields.io/badge/Agent-Skill-orange.svg)](../SKILL.md)
 [![TCM](https://img.shields.io/badge/TCM-Ni%20Haisha-green.svg)](../references/index.md)
 [![Course](https://img.shields.io/badge/course-multi--module-blue.svg)](../references/index.md)
@@ -80,7 +80,7 @@ Paste this prompt into your AI assistant:
 
 ```text
 Please install the nihaisha skill for me:
-https://github.com/JuneYaooo/nihaisha
+https://github.com/JuneYaooo/nihaisha-tcm
 ```
 
 The agent can clone the repository and install the directory into the corresponding skills folder.
@@ -88,8 +88,8 @@ The agent can clone the repository and install the directory into the correspond
 ### Option 2: manual install
 
 ```bash
-git clone git@github.com:JuneYaooo/nihaisha.git
-cd nihaisha
+git clone git@github.com:JuneYaooo/nihaisha-tcm.git
+cd nihaisha-tcm
 bash install_as_skill.sh --target codex    # Codex
 # or
 bash install_as_skill.sh --target claude   # Claude Code
