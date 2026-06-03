@@ -17,6 +17,10 @@ A Claude Code / Codex / OpenClaw Skill. Once installed in an agent, it lets you 
 
 ---
 
+## Course Distillation Method
+
+The course distillation method used in this project comes from the author's [lineage-skill](https://github.com/JuneYaooo/lineage-skill), which turns dense course materials into traceable, reusable Agent Skills.
+
 ## What it does
 
 - **Plain-language entry point**: turns everyday descriptions such as "cold with chills", "cold hands and feet", "diarrhea", or "cannot sleep" into the differentiating questions used in the courses.
